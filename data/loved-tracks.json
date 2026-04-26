@@ -1,0 +1,7286 @@
+[
+  {
+    "name": "Legions of the Black Light",
+    "artist": "Watain",
+    "date": "1475009101",
+    "date_text": "27 Sep 2016, 20:45"
+  },
+  {
+    "name": "Rebirth",
+    "artist": "Gorgoroth",
+    "date": "1463276682",
+    "date_text": "15 May 2016, 01:44"
+  },
+  {
+    "name": "Amnezja",
+    "artist": "Kult",
+    "date": "1459885355",
+    "date_text": "05 Apr 2016, 19:42"
+  },
+  {
+    "name": "Ashes World",
+    "artist": "Gallhammer",
+    "date": "1459884837",
+    "date_text": "05 Apr 2016, 19:33"
+  },
+  {
+    "name": "Untrue",
+    "artist": "Burial",
+    "date": "1459884054",
+    "date_text": "05 Apr 2016, 19:20"
+  },
+  {
+    "name": "Wave of Mutilation",
+    "artist": "Pixies",
+    "date": "1333172936",
+    "date_text": "31 Mar 2012, 05:48"
+  },
+  {
+    "name": "Jejune Stars",
+    "artist": "Bright Eyes",
+    "date": "1333172932",
+    "date_text": "31 Mar 2012, 05:48"
+  },
+  {
+    "name": "I Can See It In Your Face",
+    "artist": "Pretty Lights",
+    "date": "1333172926",
+    "date_text": "31 Mar 2012, 05:48"
+  },
+  {
+    "name": "Positivity",
+    "artist": "Gang Starr",
+    "date": "1333172918",
+    "date_text": "31 Mar 2012, 05:48"
+  },
+  {
+    "name": "If I Were A Carpenter",
+    "artist": "Johnny Cash",
+    "date": "1333164876",
+    "date_text": "31 Mar 2012, 03:34"
+  },
+  {
+    "name": "Crying, Waiting, Hoping",
+    "artist": "Karen Elson",
+    "date": "1333164872",
+    "date_text": "31 Mar 2012, 03:34"
+  },
+  {
+    "name": "What's Going On",
+    "artist": "Marvin Gaye",
+    "date": "1333164658",
+    "date_text": "31 Mar 2012, 03:30"
+  },
+  {
+    "name": "Go With the Flow",
+    "artist": "Queens of the Stone Age",
+    "date": "1333164631",
+    "date_text": "31 Mar 2012, 03:30"
+  },
+  {
+    "name": "Krapka soli",
+    "artist": "Zakopower",
+    "date": "1333164627",
+    "date_text": "31 Mar 2012, 03:30"
+  },
+  {
+    "name": "Don't Play No Game That I Can't Win (featuring Santigold)",
+    "artist": "Beastie Boys",
+    "date": "1333164364",
+    "date_text": "31 Mar 2012, 03:26"
+  },
+  {
+    "name": "Treats",
+    "artist": "Sleigh Bells",
+    "date": "1333164193",
+    "date_text": "31 Mar 2012, 03:23"
+  },
+  {
+    "name": "Vicious",
+    "artist": "Lou Reed",
+    "date": "1333163373",
+    "date_text": "31 Mar 2012, 03:09"
+  },
+  {
+    "name": "Urban Photograph",
+    "artist": "Urban Cone",
+    "date": "1333163366",
+    "date_text": "31 Mar 2012, 03:09"
+  },
+  {
+    "name": "Oh! Sweet Nuthin'",
+    "artist": "The Velvet Underground",
+    "date": "1333163290",
+    "date_text": "31 Mar 2012, 03:08"
+  },
+  {
+    "name": "Sky Might Fall",
+    "artist": "Kid Cudi",
+    "date": "1333163055",
+    "date_text": "31 Mar 2012, 03:04"
+  },
+  {
+    "name": "Patience",
+    "artist": "Nas & Damian \"Jr. Gong\" Marley",
+    "date": "1333163049",
+    "date_text": "31 Mar 2012, 03:04"
+  },
+  {
+    "name": "Islands in the Stream",
+    "artist": "Dolly Parton",
+    "date": "1333163045",
+    "date_text": "31 Mar 2012, 03:04"
+  },
+  {
+    "name": "Freak on a Leash",
+    "artist": "Korn",
+    "date": "1333163041",
+    "date_text": "31 Mar 2012, 03:04"
+  },
+  {
+    "name": "Washington Bullets",
+    "artist": "The Clash",
+    "date": "1333163038",
+    "date_text": "31 Mar 2012, 03:03"
+  },
+  {
+    "name": "& Down",
+    "artist": "Boys Noize",
+    "date": "1333163032",
+    "date_text": "31 Mar 2012, 03:03"
+  },
+  {
+    "name": "Break My Body",
+    "artist": "Pixies",
+    "date": "1333163029",
+    "date_text": "31 Mar 2012, 03:03"
+  },
+  {
+    "name": "Best Won't Do",
+    "artist": "Ghostland Observatory",
+    "date": "1333161749",
+    "date_text": "31 Mar 2012, 02:42"
+  },
+  {
+    "name": "Family Affair",
+    "artist": "Sly & The Family Stone",
+    "date": "1333161746",
+    "date_text": "31 Mar 2012, 02:42"
+  },
+  {
+    "name": "Trouble Weighs A Ton",
+    "artist": "Dan Auerbach",
+    "date": "1333161742",
+    "date_text": "31 Mar 2012, 02:42"
+  },
+  {
+    "name": "Howlin\u2019 For You",
+    "artist": "The Black Keys",
+    "date": "1333161736",
+    "date_text": "31 Mar 2012, 02:42"
+  },
+  {
+    "name": "Future Starts Slow",
+    "artist": "The Kills",
+    "date": "1333161732",
+    "date_text": "31 Mar 2012, 02:42"
+  },
+  {
+    "name": "Symbolic",
+    "artist": "Death",
+    "date": "1333161724",
+    "date_text": "31 Mar 2012, 02:42"
+  },
+  {
+    "name": "Reverse Thunder",
+    "artist": "Red Fang",
+    "date": "1333161714",
+    "date_text": "31 Mar 2012, 02:41"
+  },
+  {
+    "name": "Redline",
+    "artist": "Black Tusk",
+    "date": "1333161710",
+    "date_text": "31 Mar 2012, 02:41"
+  },
+  {
+    "name": "Train in Vain",
+    "artist": "The Clash",
+    "date": "1315449987",
+    "date_text": "08 Sep 2011, 02:46"
+  },
+  {
+    "name": "I Saw the Light",
+    "artist": "Spoon",
+    "date": "1305750750",
+    "date_text": "18 May 2011, 20:32"
+  },
+  {
+    "name": "Who They Are",
+    "artist": "Volbeat",
+    "date": "1305404903",
+    "date_text": "14 May 2011, 20:28"
+  },
+  {
+    "name": "Slaves Shall Serve",
+    "artist": "Behemoth",
+    "date": "1305402836",
+    "date_text": "14 May 2011, 19:53"
+  },
+  {
+    "name": "The Ghost Who Walks",
+    "artist": "Karen Elson",
+    "date": "1305401326",
+    "date_text": "14 May 2011, 19:28"
+  },
+  {
+    "name": "Everything's Ruined",
+    "artist": "Faith No More",
+    "date": "1304449410",
+    "date_text": "03 May 2011, 19:03"
+  },
+  {
+    "name": "Justify My Thug",
+    "artist": "JAY-Z",
+    "date": "1303539170",
+    "date_text": "23 Apr 2011, 06:12"
+  },
+  {
+    "name": "Heart In a Cage",
+    "artist": "The Strokes",
+    "date": "1301517724",
+    "date_text": "30 Mar 2011, 20:42"
+  },
+  {
+    "name": "Tigerlily",
+    "artist": "La Roux",
+    "date": "1301517303",
+    "date_text": "30 Mar 2011, 20:35"
+  },
+  {
+    "name": "Celestica",
+    "artist": "Crystal Castles",
+    "date": "1301517102",
+    "date_text": "30 Mar 2011, 20:31"
+  },
+  {
+    "name": "7 Shots",
+    "artist": "Volbeat",
+    "date": "1300223228",
+    "date_text": "15 Mar 2011, 21:07"
+  },
+  {
+    "name": "Chained And Bound",
+    "artist": "Otis Redding",
+    "date": "1296161172",
+    "date_text": "27 Jan 2011, 20:46"
+  },
+  {
+    "name": "Typhonian Soul Zodiack",
+    "artist": "Behemoth",
+    "date": "1296160831",
+    "date_text": "27 Jan 2011, 20:40"
+  },
+  {
+    "name": "Girl with One Eye",
+    "artist": "Florence + the Machine",
+    "date": "1294805075",
+    "date_text": "12 Jan 2011, 04:04"
+  },
+  {
+    "name": "Waterfall",
+    "artist": "The Fresh & Onlys",
+    "date": "1294116278",
+    "date_text": "04 Jan 2011, 04:44"
+  },
+  {
+    "name": "Beach Comber",
+    "artist": "Real Estate",
+    "date": "1293593058",
+    "date_text": "29 Dec 2010, 03:24"
+  },
+  {
+    "name": "Titus Andronicus Forever",
+    "artist": "Titus Andronicus",
+    "date": "1293593048",
+    "date_text": "29 Dec 2010, 03:24"
+  },
+  {
+    "name": "State of Things",
+    "artist": "Simian Mobile Disco",
+    "date": "1292813913",
+    "date_text": "20 Dec 2010, 02:58"
+  },
+  {
+    "name": "The Band Marches On",
+    "artist": "Ghostland Observatory",
+    "date": "1292813906",
+    "date_text": "20 Dec 2010, 02:58"
+  },
+  {
+    "name": "Done All Wrong",
+    "artist": "Black Rebel Motorcycle Club",
+    "date": "1291093214",
+    "date_text": "30 Nov 2010, 05:00"
+  },
+  {
+    "name": "Sunny",
+    "artist": "Bobby Hebb",
+    "date": "1291090816",
+    "date_text": "30 Nov 2010, 04:20"
+  },
+  {
+    "name": "The Ghost Inside",
+    "artist": "Broken Bells",
+    "date": "1289971585",
+    "date_text": "17 Nov 2010, 05:26"
+  },
+  {
+    "name": "Always Loved a Film",
+    "artist": "Underworld",
+    "date": "1289724224",
+    "date_text": "14 Nov 2010, 08:43"
+  },
+  {
+    "name": "Father Cannot Yell",
+    "artist": "Can",
+    "date": "1289724221",
+    "date_text": "14 Nov 2010, 08:43"
+  },
+  {
+    "name": "Mother Sky",
+    "artist": "Can",
+    "date": "1289724214",
+    "date_text": "14 Nov 2010, 08:43"
+  },
+  {
+    "name": "District Line",
+    "artist": "Rusko",
+    "date": "1289363400",
+    "date_text": "10 Nov 2010, 04:30"
+  },
+  {
+    "name": "Werewolves of London",
+    "artist": "Warren Zevon",
+    "date": "1289357217",
+    "date_text": "10 Nov 2010, 02:46"
+  },
+  {
+    "name": "The Widow",
+    "artist": "The Mars Volta",
+    "date": "1289333165",
+    "date_text": "09 Nov 2010, 20:06"
+  },
+  {
+    "name": "Planet 7 (James Holden Remix)",
+    "artist": "System 7",
+    "date": "1289323306",
+    "date_text": "09 Nov 2010, 17:21"
+  },
+  {
+    "name": "Ambitni piloci",
+    "artist": "Kult",
+    "date": "1289320421",
+    "date_text": "09 Nov 2010, 16:33"
+  },
+  {
+    "name": "Raver's Spesh",
+    "artist": "Rusko",
+    "date": "1289320417",
+    "date_text": "09 Nov 2010, 16:33"
+  },
+  {
+    "name": "Follow Me Home",
+    "artist": "Yonderboi",
+    "date": "1289320411",
+    "date_text": "09 Nov 2010, 16:33"
+  },
+  {
+    "name": "Propaganda",
+    "artist": "Sepultura",
+    "date": "1288902961",
+    "date_text": "04 Nov 2010, 20:36"
+  },
+  {
+    "name": "Taniec Ze Smiercia",
+    "artist": "Moonlight",
+    "date": "1288744970",
+    "date_text": "03 Nov 2010, 00:42"
+  },
+  {
+    "name": "Don't Stop Believin'",
+    "artist": "Journey",
+    "date": "1288670437",
+    "date_text": "02 Nov 2010, 04:00"
+  },
+  {
+    "name": "Woman",
+    "artist": "John Lennon",
+    "date": "1288670191",
+    "date_text": "02 Nov 2010, 03:56"
+  },
+  {
+    "name": "Proper Hoodidge",
+    "artist": "Amon Tobin",
+    "date": "1288637131",
+    "date_text": "01 Nov 2010, 18:45"
+  },
+  {
+    "name": "Ocean Man",
+    "artist": "Ween",
+    "date": "1288586214",
+    "date_text": "01 Nov 2010, 04:36"
+  },
+  {
+    "name": "Shattered",
+    "artist": "William Fitzsimmons",
+    "date": "1288585543",
+    "date_text": "01 Nov 2010, 04:25"
+  },
+  {
+    "name": "Hey",
+    "artist": "Pixies",
+    "date": "1288584901",
+    "date_text": "01 Nov 2010, 04:15"
+  },
+  {
+    "name": "Rainbow Man",
+    "artist": "Busy P",
+    "date": "1288584570",
+    "date_text": "01 Nov 2010, 04:09"
+  },
+  {
+    "name": "Come Wander With Me",
+    "artist": "Jeff Alexander",
+    "date": "1288581523",
+    "date_text": "01 Nov 2010, 03:18"
+  },
+  {
+    "name": "Shelia",
+    "artist": "Atlas Sound",
+    "date": "1288579284",
+    "date_text": "01 Nov 2010, 02:41"
+  },
+  {
+    "name": "Moonlight",
+    "artist": "Crematory",
+    "date": "1288360294",
+    "date_text": "29 Oct 2010, 13:51"
+  },
+  {
+    "name": "The Rat",
+    "artist": "The Walkmen",
+    "date": "1288037798",
+    "date_text": "25 Oct 2010, 20:16"
+  },
+  {
+    "name": "Ring Dong",
+    "artist": "Muniek",
+    "date": "1288034768",
+    "date_text": "25 Oct 2010, 19:26"
+  },
+  {
+    "name": "Can You Do Anything",
+    "artist": "Gdzie Cikwiaty",
+    "date": "1287969541",
+    "date_text": "25 Oct 2010, 01:19"
+  },
+  {
+    "name": "No Surprises",
+    "artist": "Radiohead",
+    "date": "1287898560",
+    "date_text": "24 Oct 2010, 05:36"
+  },
+  {
+    "name": "Flyswatter",
+    "artist": "Eels",
+    "date": "1287897889",
+    "date_text": "24 Oct 2010, 05:24"
+  },
+  {
+    "name": "Transmissions in Bloom",
+    "artist": "Shulman",
+    "date": "1287891081",
+    "date_text": "24 Oct 2010, 03:31"
+  },
+  {
+    "name": "Love Is All",
+    "artist": "The Rapture",
+    "date": "1287810779",
+    "date_text": "23 Oct 2010, 05:12"
+  },
+  {
+    "name": "The Shore of Transcendence",
+    "artist": "Minsk",
+    "date": "1287770234",
+    "date_text": "22 Oct 2010, 17:57"
+  },
+  {
+    "name": "If I Were a Carpenter",
+    "artist": "Bobby Darin",
+    "date": "1287765692",
+    "date_text": "22 Oct 2010, 16:41"
+  },
+  {
+    "name": "Down in the Mall",
+    "artist": "Warren Zevon",
+    "date": "1287755875",
+    "date_text": "22 Oct 2010, 13:57"
+  },
+  {
+    "name": "Slowdance",
+    "artist": "Soulwax",
+    "date": "1287687608",
+    "date_text": "21 Oct 2010, 19:00"
+  },
+  {
+    "name": "Alive",
+    "artist": "Daft Punk",
+    "date": "1287680093",
+    "date_text": "21 Oct 2010, 16:54"
+  },
+  {
+    "name": "Valley Girl",
+    "artist": "Frank Zappa",
+    "date": "1287678790",
+    "date_text": "21 Oct 2010, 16:33"
+  },
+  {
+    "name": "Neopolitan Dreams",
+    "artist": "Lisa Mitchell",
+    "date": "1287624604",
+    "date_text": "21 Oct 2010, 01:30"
+  },
+  {
+    "name": "They Walked in Line",
+    "artist": "Warsaw",
+    "date": "1287620205",
+    "date_text": "21 Oct 2010, 00:16"
+  },
+  {
+    "name": "Stone to Wake a Serpent",
+    "artist": "Isis",
+    "date": "1287424833",
+    "date_text": "18 Oct 2010, 18:00"
+  },
+  {
+    "name": "Where Did You Sleep Last Night",
+    "artist": "Nirvana",
+    "date": "1287419136",
+    "date_text": "18 Oct 2010, 16:25"
+  },
+  {
+    "name": "The Frail",
+    "artist": "Nine Inch Nails",
+    "date": "1287412602",
+    "date_text": "18 Oct 2010, 14:36"
+  },
+  {
+    "name": "Oh L'Amour",
+    "artist": "Erasure",
+    "date": "1287411518",
+    "date_text": "18 Oct 2010, 14:18"
+  },
+  {
+    "name": "War",
+    "artist": "Burzum",
+    "date": "1287410409",
+    "date_text": "18 Oct 2010, 14:00"
+  },
+  {
+    "name": "In Front of Me",
+    "artist": "Infected Mushroom",
+    "date": "1287351495",
+    "date_text": "17 Oct 2010, 21:38"
+  },
+  {
+    "name": "Silent Running",
+    "artist": "Carbon Based Lifeforms",
+    "date": "1287351186",
+    "date_text": "17 Oct 2010, 21:33"
+  },
+  {
+    "name": "Levitation Nation",
+    "artist": "Shpongle",
+    "date": "1287350802",
+    "date_text": "17 Oct 2010, 21:26"
+  },
+  {
+    "name": "White Magnesia",
+    "artist": "Bluetech",
+    "date": "1287350482",
+    "date_text": "17 Oct 2010, 21:21"
+  },
+  {
+    "name": "Red Light",
+    "artist": "Siouxsie and the Banshees",
+    "date": "1287262921",
+    "date_text": "16 Oct 2010, 21:02"
+  },
+  {
+    "name": "Damaged Goods",
+    "artist": "Gang of Four",
+    "date": "1287262340",
+    "date_text": "16 Oct 2010, 20:52"
+  },
+  {
+    "name": "Burning Down the House",
+    "artist": "Talking Heads",
+    "date": "1287089316",
+    "date_text": "14 Oct 2010, 20:48"
+  },
+  {
+    "name": "Tomorrow Comes Today",
+    "artist": "Gorillaz",
+    "date": "1287088529",
+    "date_text": "14 Oct 2010, 20:35"
+  },
+  {
+    "name": "Cato As A Pun",
+    "artist": "of Montreal",
+    "date": "1287087907",
+    "date_text": "14 Oct 2010, 20:25"
+  },
+  {
+    "name": "Intergalactic",
+    "artist": "Beastie Boys",
+    "date": "1287087877",
+    "date_text": "14 Oct 2010, 20:24"
+  },
+  {
+    "name": "Hello Afrika",
+    "artist": "Dr. Alban",
+    "date": "1286995090",
+    "date_text": "13 Oct 2010, 18:38"
+  },
+  {
+    "name": "Ricochet",
+    "artist": "Blue Foundation",
+    "date": "1286991645",
+    "date_text": "13 Oct 2010, 17:40"
+  },
+  {
+    "name": "If You Tolerate This Your Children Will Be Next",
+    "artist": "Manic Street Preachers",
+    "date": "1286988907",
+    "date_text": "13 Oct 2010, 16:55"
+  },
+  {
+    "name": "Henney Buggy Band",
+    "artist": "Sufjan Stevens",
+    "date": "1286988253",
+    "date_text": "13 Oct 2010, 16:44"
+  },
+  {
+    "name": "Tribute",
+    "artist": "Tenacious D",
+    "date": "1286988174",
+    "date_text": "13 Oct 2010, 16:42"
+  },
+  {
+    "name": "The Distance",
+    "artist": "Cake",
+    "date": "1286987465",
+    "date_text": "13 Oct 2010, 16:31"
+  },
+  {
+    "name": "The Incumbent",
+    "artist": "Soul Coughing",
+    "date": "1286985142",
+    "date_text": "13 Oct 2010, 15:52"
+  },
+  {
+    "name": "Imitosis",
+    "artist": "Andrew Bird",
+    "date": "1286979608",
+    "date_text": "13 Oct 2010, 14:20"
+  },
+  {
+    "name": "True Stories",
+    "artist": "Datarock",
+    "date": "1286906626",
+    "date_text": "12 Oct 2010, 18:03"
+  },
+  {
+    "name": "Undercurrent",
+    "artist": "Ihsahn",
+    "date": "1286838649",
+    "date_text": "11 Oct 2010, 23:10"
+  },
+  {
+    "name": "Bodies",
+    "artist": "Drowning Pool",
+    "date": "1286837067",
+    "date_text": "11 Oct 2010, 22:44"
+  },
+  {
+    "name": "Carolina Drama",
+    "artist": "The Raconteurs",
+    "date": "1286825162",
+    "date_text": "11 Oct 2010, 19:26"
+  },
+  {
+    "name": "Summer Sun",
+    "artist": "Koop",
+    "date": "1286562752",
+    "date_text": "08 Oct 2010, 18:32"
+  },
+  {
+    "name": "The Emptiness of Nothingness",
+    "artist": "Amorphous Androgynous",
+    "date": "1286558749",
+    "date_text": "08 Oct 2010, 17:25"
+  },
+  {
+    "name": "Supra Genius",
+    "artist": "Soul Coughing",
+    "date": "1286548118",
+    "date_text": "08 Oct 2010, 14:28"
+  },
+  {
+    "name": "Temptation Waits",
+    "artist": "Garbage",
+    "date": "1286545847",
+    "date_text": "08 Oct 2010, 13:50"
+  },
+  {
+    "name": "Nausea",
+    "artist": "Beck",
+    "date": "1286545741",
+    "date_text": "08 Oct 2010, 13:49"
+  },
+  {
+    "name": "Hymn",
+    "artist": "Moby",
+    "date": "1286545221",
+    "date_text": "08 Oct 2010, 13:40"
+  },
+  {
+    "name": "You're Not Alone",
+    "artist": "Olive",
+    "date": "1286501909",
+    "date_text": "08 Oct 2010, 01:38"
+  },
+  {
+    "name": "Comfort Eagle",
+    "artist": "Cake",
+    "date": "1286500212",
+    "date_text": "08 Oct 2010, 01:10"
+  },
+  {
+    "name": "Speaking On The Phone",
+    "artist": "Miniman",
+    "date": "1286487303",
+    "date_text": "07 Oct 2010, 21:35"
+  },
+  {
+    "name": "The Con",
+    "artist": "Tegan and Sara",
+    "date": "1286486471",
+    "date_text": "07 Oct 2010, 21:21"
+  },
+  {
+    "name": "Leaving California",
+    "artist": "John Parish and Polly Jean Harvey",
+    "date": "1286480145",
+    "date_text": "07 Oct 2010, 19:35"
+  },
+  {
+    "name": "Hey, That's No Way to Say Goodbye",
+    "artist": "Leonard Cohen",
+    "date": "1286314032",
+    "date_text": "05 Oct 2010, 21:27"
+  },
+  {
+    "name": "Sex and Candy",
+    "artist": "Marcy Playground",
+    "date": "1286308180",
+    "date_text": "05 Oct 2010, 19:49"
+  },
+  {
+    "name": "Serious Business",
+    "artist": "Excision",
+    "date": "1286298220",
+    "date_text": "05 Oct 2010, 17:03"
+  },
+  {
+    "name": "Roots Bloody Roots (Demo)",
+    "artist": "Sepultura",
+    "date": "1286297358",
+    "date_text": "05 Oct 2010, 16:49"
+  },
+  {
+    "name": "Time",
+    "artist": "Tom Waits",
+    "date": "1286296685",
+    "date_text": "05 Oct 2010, 16:38"
+  },
+  {
+    "name": "A Poem by Yeats",
+    "artist": "Agalloch",
+    "date": "1286293497",
+    "date_text": "05 Oct 2010, 15:44"
+  },
+  {
+    "name": "Spit",
+    "artist": "Sepultura",
+    "date": "1286293352",
+    "date_text": "05 Oct 2010, 15:42"
+  },
+  {
+    "name": "The Darkest Star",
+    "artist": "Depeche Mode",
+    "date": "1286290850",
+    "date_text": "05 Oct 2010, 15:00"
+  },
+  {
+    "name": "Three Changes",
+    "artist": "The Good, the Bad & the Queen",
+    "date": "1286289401",
+    "date_text": "05 Oct 2010, 14:36"
+  },
+  {
+    "name": "Run Out",
+    "artist": "Memory Tapes",
+    "date": "1286285553",
+    "date_text": "05 Oct 2010, 13:32"
+  },
+  {
+    "name": "Intro",
+    "artist": "Pablopavo",
+    "date": "1286285242",
+    "date_text": "05 Oct 2010, 13:27"
+  },
+  {
+    "name": "Master of Disguise",
+    "artist": "Arcturus",
+    "date": "1286221936",
+    "date_text": "04 Oct 2010, 19:52"
+  },
+  {
+    "name": "Center",
+    "artist": "Enslaved",
+    "date": "1286220392",
+    "date_text": "04 Oct 2010, 19:26"
+  },
+  {
+    "name": "Glare of Autumn",
+    "artist": "Drudkh",
+    "date": "1286214604",
+    "date_text": "04 Oct 2010, 17:50"
+  },
+  {
+    "name": "Earth Angel",
+    "artist": "Universal Collapse",
+    "date": "1286204106",
+    "date_text": "04 Oct 2010, 14:55"
+  },
+  {
+    "name": "Cold Feeling",
+    "artist": "Pretty Lights",
+    "date": "1286203632",
+    "date_text": "04 Oct 2010, 14:47"
+  },
+  {
+    "name": "Know Your Enemy",
+    "artist": "Hybrid",
+    "date": "1286203566",
+    "date_text": "04 Oct 2010, 14:46"
+  },
+  {
+    "name": "Absurd",
+    "artist": "Fluke",
+    "date": "1286203558",
+    "date_text": "04 Oct 2010, 14:45"
+  },
+  {
+    "name": "For Silence",
+    "artist": "Paul Hartnoll",
+    "date": "1286203523",
+    "date_text": "04 Oct 2010, 14:45"
+  },
+  {
+    "name": "62 Dub",
+    "artist": "Meat Beat Manifesto",
+    "date": "1286203453",
+    "date_text": "04 Oct 2010, 14:44"
+  },
+  {
+    "name": "What Time Is Love? (LP mix)",
+    "artist": "The KLF",
+    "date": "1286203306",
+    "date_text": "04 Oct 2010, 14:41"
+  },
+  {
+    "name": "Pre 63",
+    "artist": "Groove Armada",
+    "date": "1286202779",
+    "date_text": "04 Oct 2010, 14:32"
+  },
+  {
+    "name": "You Make Me Feel so Good",
+    "artist": "Junkie XL",
+    "date": "1285957821",
+    "date_text": "01 Oct 2010, 18:30"
+  },
+  {
+    "name": "Beautiful Strange",
+    "artist": "Bedrock",
+    "date": "1285952152",
+    "date_text": "01 Oct 2010, 16:55"
+  },
+  {
+    "name": "Nothing Else Matters",
+    "artist": "Paul Hartnoll",
+    "date": "1285951705",
+    "date_text": "01 Oct 2010, 16:48"
+  },
+  {
+    "name": "Gravastar",
+    "artist": "Hybrid",
+    "date": "1285949354",
+    "date_text": "01 Oct 2010, 16:09"
+  },
+  {
+    "name": "Adagio for Strings",
+    "artist": "William Orbit",
+    "date": "1285943945",
+    "date_text": "01 Oct 2010, 14:39"
+  },
+  {
+    "name": "You're Creeping Me Out",
+    "artist": "The Future Sound of London",
+    "date": "1285943486",
+    "date_text": "01 Oct 2010, 14:31"
+  },
+  {
+    "name": "Manik Shamanik",
+    "artist": "System 7",
+    "date": "1285881794",
+    "date_text": "30 Sep 2010, 21:23"
+  },
+  {
+    "name": "Winjer",
+    "artist": "Underworld",
+    "date": "1285865344",
+    "date_text": "30 Sep 2010, 16:49"
+  },
+  {
+    "name": "Hooligan Spirit",
+    "artist": "Hybrid",
+    "date": "1285863046",
+    "date_text": "30 Sep 2010, 16:10"
+  },
+  {
+    "name": "Out of Control",
+    "artist": "The Chemical Brothers",
+    "date": "1285860712",
+    "date_text": "30 Sep 2010, 15:31"
+  },
+  {
+    "name": "Rockin' in the Free World",
+    "artist": "Neil Young",
+    "date": "1285777493",
+    "date_text": "29 Sep 2010, 16:24"
+  },
+  {
+    "name": "Dancing in the Dark",
+    "artist": "Bruce Springsteen",
+    "date": "1285775928",
+    "date_text": "29 Sep 2010, 15:58"
+  },
+  {
+    "name": "Somebody's Calling Me",
+    "artist": "LCD Soundsystem",
+    "date": "1285775032",
+    "date_text": "29 Sep 2010, 15:43"
+  },
+  {
+    "name": "AF607105",
+    "artist": "Charlotte Gainsbourg",
+    "date": "1285774262",
+    "date_text": "29 Sep 2010, 15:31"
+  },
+  {
+    "name": "Cold Blows the Wind",
+    "artist": "Ween",
+    "date": "1285773935",
+    "date_text": "29 Sep 2010, 15:25"
+  },
+  {
+    "name": "The Man Who Sold the World",
+    "artist": "David Bowie",
+    "date": "1285771650",
+    "date_text": "29 Sep 2010, 14:47"
+  },
+  {
+    "name": "Dirty Harry",
+    "artist": "Gorillaz",
+    "date": "1285771641",
+    "date_text": "29 Sep 2010, 14:47"
+  },
+  {
+    "name": "Reggaejunkiejew",
+    "artist": "Ween",
+    "date": "1285771496",
+    "date_text": "29 Sep 2010, 14:44"
+  },
+  {
+    "name": "The Sutcliffe Catering Song (Peel Session)",
+    "artist": "Pavement",
+    "date": "1285770710",
+    "date_text": "29 Sep 2010, 14:31"
+  },
+  {
+    "name": "Of Darkness Spawned",
+    "artist": "The Black Dahlia Murder",
+    "date": "1285768818",
+    "date_text": "29 Sep 2010, 14:00"
+  },
+  {
+    "name": "8 minutes en Corse",
+    "artist": "Guns Of Brixton",
+    "date": "1285686437",
+    "date_text": "28 Sep 2010, 15:07"
+  },
+  {
+    "name": "Dubbing House",
+    "artist": "Yosh",
+    "date": "1285684853",
+    "date_text": "28 Sep 2010, 14:40"
+  },
+  {
+    "name": "Sinsemilla",
+    "artist": "Black Uhuru",
+    "date": "1285684509",
+    "date_text": "28 Sep 2010, 14:35"
+  },
+  {
+    "name": "Hava Nagila",
+    "artist": "Rootwater",
+    "date": "1285684498",
+    "date_text": "28 Sep 2010, 14:34"
+  },
+  {
+    "name": "Lonely Avenue",
+    "artist": "Stephen Marley",
+    "date": "1285684310",
+    "date_text": "28 Sep 2010, 14:31"
+  },
+  {
+    "name": "River Niger",
+    "artist": "Mad Professor",
+    "date": "1285683545",
+    "date_text": "28 Sep 2010, 14:19"
+  },
+  {
+    "name": "Greater David",
+    "artist": "Dub Syndicate",
+    "date": "1285683111",
+    "date_text": "28 Sep 2010, 14:11"
+  },
+  {
+    "name": "Ostatni Raz",
+    "artist": "Zabili Mi \u017b\u00f3\u0142wia",
+    "date": "1285607225",
+    "date_text": "27 Sep 2010, 17:07"
+  },
+  {
+    "name": "Adam",
+    "artist": "Maciej Male\u0144czuk",
+    "date": "1285603733",
+    "date_text": "27 Sep 2010, 16:08"
+  },
+  {
+    "name": "Veronika",
+    "artist": "Miniman",
+    "date": "1285600159",
+    "date_text": "27 Sep 2010, 15:09"
+  },
+  {
+    "name": "Military Intervention",
+    "artist": "Casualty",
+    "date": "1285599475",
+    "date_text": "27 Sep 2010, 14:57"
+  },
+  {
+    "name": "STRICTLY BABY",
+    "artist": "Dry & Heavy",
+    "date": "1285599106",
+    "date_text": "27 Sep 2010, 14:51"
+  },
+  {
+    "name": "Sacred Dub: Transmission 061",
+    "artist": "Sacred Dub",
+    "date": "1285598588",
+    "date_text": "27 Sep 2010, 14:43"
+  },
+  {
+    "name": "Mr. Universe",
+    "artist": "Max Tannone",
+    "date": "1285597829",
+    "date_text": "27 Sep 2010, 14:30"
+  },
+  {
+    "name": "Gamblor",
+    "artist": "Calamalka",
+    "date": "1285597227",
+    "date_text": "27 Sep 2010, 14:20"
+  },
+  {
+    "name": "Light of night",
+    "artist": "Miniman",
+    "date": "1285596454",
+    "date_text": "27 Sep 2010, 14:07"
+  },
+  {
+    "name": "U R Sexy",
+    "artist": "Dubwise",
+    "date": "1285595975",
+    "date_text": "27 Sep 2010, 13:59"
+  },
+  {
+    "name": "Sponji Reggae",
+    "artist": "Black Uhuru",
+    "date": "1285595093",
+    "date_text": "27 Sep 2010, 13:44"
+  },
+  {
+    "name": "Once You Say",
+    "artist": "Nitzer Ebb",
+    "date": "1285363184",
+    "date_text": "24 Sep 2010, 21:19"
+  },
+  {
+    "name": "Extra Dry",
+    "artist": "Thomas Bangalter",
+    "date": "1285359655",
+    "date_text": "24 Sep 2010, 20:20"
+  },
+  {
+    "name": "Ball Of Fire",
+    "artist": "Israel Vibration",
+    "date": "1285359310",
+    "date_text": "24 Sep 2010, 20:15"
+  },
+  {
+    "name": "Little Girl (feat. Julian Casablancas)",
+    "artist": "Danger Mouse and Sparklehorse",
+    "date": "1285357336",
+    "date_text": "24 Sep 2010, 19:42"
+  },
+  {
+    "name": "Where It Started At (NY)",
+    "artist": "Hi-Tek",
+    "date": "1285356358",
+    "date_text": "24 Sep 2010, 19:25"
+  },
+  {
+    "name": "Children's Story",
+    "artist": "Black Star",
+    "date": "1285352813",
+    "date_text": "24 Sep 2010, 18:26"
+  },
+  {
+    "name": "New Theory",
+    "artist": "Washed Out",
+    "date": "1285352806",
+    "date_text": "24 Sep 2010, 18:26"
+  },
+  {
+    "name": "Cool James",
+    "artist": "Harvey Danger",
+    "date": "1285341200",
+    "date_text": "24 Sep 2010, 15:13"
+  },
+  {
+    "name": "Circa 1762 (Peel Session)",
+    "artist": "Pavement",
+    "date": "1285339120",
+    "date_text": "24 Sep 2010, 14:38"
+  },
+  {
+    "name": "Mezzanine",
+    "artist": "Massive Attack",
+    "date": "1285338756",
+    "date_text": "24 Sep 2010, 14:32"
+  },
+  {
+    "name": "Respiration",
+    "artist": "Black Star",
+    "date": "1285336506",
+    "date_text": "24 Sep 2010, 13:55"
+  },
+  {
+    "name": "Morning Star (Abassi All Stars feat. Hornsman Coyote)",
+    "artist": "Hornsman Coyote",
+    "date": "1285335678",
+    "date_text": "24 Sep 2010, 13:41"
+  },
+  {
+    "name": "Horses in My Dreams",
+    "artist": "PJ Harvey",
+    "date": "1285190793",
+    "date_text": "22 Sep 2010, 21:26"
+  },
+  {
+    "name": "When You Smile",
+    "artist": "The Flaming Lips",
+    "date": "1285185626",
+    "date_text": "22 Sep 2010, 20:00"
+  },
+  {
+    "name": "Object",
+    "artist": "Ween",
+    "date": "1285181121",
+    "date_text": "22 Sep 2010, 18:45"
+  },
+  {
+    "name": "Your Lucky Day In Hell",
+    "artist": "Eels",
+    "date": "1285179594",
+    "date_text": "22 Sep 2010, 18:19"
+  },
+  {
+    "name": "The Last High",
+    "artist": "The Dandy Warhols",
+    "date": "1285179425",
+    "date_text": "22 Sep 2010, 18:17"
+  },
+  {
+    "name": "Getting Ahead in the Lucrative Field of Artist Management",
+    "artist": "UNKLE",
+    "date": "1285179349",
+    "date_text": "22 Sep 2010, 18:15"
+  },
+  {
+    "name": "Photobooth",
+    "artist": "Friendly Fires",
+    "date": "1285177820",
+    "date_text": "22 Sep 2010, 17:50"
+  },
+  {
+    "name": "Gone Daddy Gone",
+    "artist": "Violent Femmes",
+    "date": "1285163765",
+    "date_text": "22 Sep 2010, 13:56"
+  },
+  {
+    "name": "Rainy Day Lament",
+    "artist": "Joe Purdy",
+    "date": "1285163719",
+    "date_text": "22 Sep 2010, 13:55"
+  },
+  {
+    "name": "Bukowski",
+    "artist": "Modest Mouse",
+    "date": "1285162244",
+    "date_text": "22 Sep 2010, 13:30"
+  },
+  {
+    "name": "Pain (feat. Iggy Pop)",
+    "artist": "Danger Mouse and Sparklehorse",
+    "date": "1285083421",
+    "date_text": "21 Sep 2010, 15:37"
+  },
+  {
+    "name": "Kingston Town",
+    "artist": "Alborosie",
+    "date": "1285083219",
+    "date_text": "21 Sep 2010, 15:33"
+  },
+  {
+    "name": "RE: DEFinition",
+    "artist": "Black Star",
+    "date": "1285082996",
+    "date_text": "21 Sep 2010, 15:29"
+  },
+  {
+    "name": "Promomix",
+    "artist": "Druga Strona Lustra",
+    "date": "1285082980",
+    "date_text": "21 Sep 2010, 15:29"
+  },
+  {
+    "name": "Pilar of Salt",
+    "artist": "Duberman",
+    "date": "1285082497",
+    "date_text": "21 Sep 2010, 15:21"
+  },
+  {
+    "name": "C'mon C'mon",
+    "artist": "The Von Bondies",
+    "date": "1285081485",
+    "date_text": "21 Sep 2010, 15:04"
+  },
+  {
+    "name": "Winter",
+    "artist": "Dusted",
+    "date": "1285080296",
+    "date_text": "21 Sep 2010, 14:44"
+  },
+  {
+    "name": "Lights Out",
+    "artist": "Antimatter",
+    "date": "1285079606",
+    "date_text": "21 Sep 2010, 14:33"
+  },
+  {
+    "name": "Who's There?",
+    "artist": "Riton & Primary 1",
+    "date": "1285014699",
+    "date_text": "20 Sep 2010, 20:31"
+  },
+  {
+    "name": "We're Looking for a Lot of Love",
+    "artist": "Hot Chip",
+    "date": "1284998243",
+    "date_text": "20 Sep 2010, 15:57"
+  },
+  {
+    "name": "Unrecorded",
+    "artist": "M83",
+    "date": "1284996457",
+    "date_text": "20 Sep 2010, 15:27"
+  },
+  {
+    "name": "Me and My Arrow",
+    "artist": "Harry Nilsson",
+    "date": "1284995651",
+    "date_text": "20 Sep 2010, 15:14"
+  },
+  {
+    "name": "Baptism",
+    "artist": "Crystal Castles",
+    "date": "1284751361",
+    "date_text": "17 Sep 2010, 19:22"
+  },
+  {
+    "name": "Futuristic Casket",
+    "artist": "Phantogram",
+    "date": "1284750401",
+    "date_text": "17 Sep 2010, 19:06"
+  },
+  {
+    "name": "Childhood",
+    "artist": "Dusted",
+    "date": "1284750272",
+    "date_text": "17 Sep 2010, 19:04"
+  },
+  {
+    "name": "Holiday",
+    "artist": "The Subways",
+    "date": "1284743746",
+    "date_text": "17 Sep 2010, 17:15"
+  },
+  {
+    "name": "Escape",
+    "artist": "The Toxic Avenger",
+    "date": "1284743339",
+    "date_text": "17 Sep 2010, 17:08"
+  },
+  {
+    "name": "Butter",
+    "artist": "The Bloody Beetroots",
+    "date": "1284742585",
+    "date_text": "17 Sep 2010, 16:56"
+  },
+  {
+    "name": "Year of Silence",
+    "artist": "Crystal Castles",
+    "date": "1284740021",
+    "date_text": "17 Sep 2010, 16:13"
+  },
+  {
+    "name": "Hate to Say I Told You So",
+    "artist": "The Hives",
+    "date": "1284740015",
+    "date_text": "17 Sep 2010, 16:13"
+  },
+  {
+    "name": "Rush Hour",
+    "artist": "The Toxic Avenger",
+    "date": "1284738996",
+    "date_text": "17 Sep 2010, 15:56"
+  },
+  {
+    "name": "Froggy Style (Zeno's Poison Dart Frog Remix)",
+    "artist": "The Widdler",
+    "date": "1284737896",
+    "date_text": "17 Sep 2010, 15:38"
+  },
+  {
+    "name": "Avokado",
+    "artist": "Dubska",
+    "date": "1284737801",
+    "date_text": "17 Sep 2010, 15:36"
+  },
+  {
+    "name": "Untrust Us",
+    "artist": "Crystal Castles",
+    "date": "1284737527",
+    "date_text": "17 Sep 2010, 15:32"
+  },
+  {
+    "name": "Pozytywna aura",
+    "artist": "nefre",
+    "date": "1284737343",
+    "date_text": "17 Sep 2010, 15:29"
+  },
+  {
+    "name": "Tick Tick Boom",
+    "artist": "The Hives",
+    "date": "1284736969",
+    "date_text": "17 Sep 2010, 15:22"
+  },
+  {
+    "name": "Thunder",
+    "artist": "Chewy Chocolate Cookies",
+    "date": "1284666016",
+    "date_text": "16 Sep 2010, 19:40"
+  },
+  {
+    "name": "Casey Jones",
+    "artist": "Grateful Dead",
+    "date": "1284647230",
+    "date_text": "16 Sep 2010, 14:27"
+  },
+  {
+    "name": "Hedphelym",
+    "artist": "Aphex Twin",
+    "date": "1284647214",
+    "date_text": "16 Sep 2010, 14:26"
+  },
+  {
+    "name": "I Will Survive",
+    "artist": "Gloria Gaynor",
+    "date": "1284647147",
+    "date_text": "16 Sep 2010, 14:25"
+  },
+  {
+    "name": "Bohemian Like You",
+    "artist": "The Dandy Warhols",
+    "date": "1284647135",
+    "date_text": "16 Sep 2010, 14:25"
+  },
+  {
+    "name": "The International Herb",
+    "artist": "Culture",
+    "date": "1284587146",
+    "date_text": "15 Sep 2010, 21:45"
+  },
+  {
+    "name": "Pineapple Head",
+    "artist": "Crowded House",
+    "date": "1284584706",
+    "date_text": "15 Sep 2010, 21:05"
+  },
+  {
+    "name": "Crystal Gazing",
+    "artist": "Moonspell",
+    "date": "1284494115",
+    "date_text": "14 Sep 2010, 19:55"
+  },
+  {
+    "name": "Don't Trust 'Em",
+    "artist": "Ice Cube",
+    "date": "1284493542",
+    "date_text": "14 Sep 2010, 19:45"
+  },
+  {
+    "name": "Used to Love Her",
+    "artist": "Guns N' Roses",
+    "date": "1284493142",
+    "date_text": "14 Sep 2010, 19:39"
+  },
+  {
+    "name": "Tender",
+    "artist": "Blur",
+    "date": "1284489157",
+    "date_text": "14 Sep 2010, 18:32"
+  },
+  {
+    "name": "Wide Open",
+    "artist": "The Crystal Method",
+    "date": "1284486664",
+    "date_text": "14 Sep 2010, 17:51"
+  },
+  {
+    "name": "Welcome to the World of the Plastic Beach",
+    "artist": "Gorillaz",
+    "date": "1284481754",
+    "date_text": "14 Sep 2010, 16:29"
+  },
+  {
+    "name": "What You Need (Chromeo Remix)",
+    "artist": "Tiga",
+    "date": "1284474938",
+    "date_text": "14 Sep 2010, 14:35"
+  },
+  {
+    "name": "Cornelius",
+    "artist": "The Bloody Beetroots",
+    "date": "1284471896",
+    "date_text": "14 Sep 2010, 13:44"
+  },
+  {
+    "name": "Show Off",
+    "artist": "Flux Pavilion",
+    "date": "1284249243",
+    "date_text": "11 Sep 2010, 23:54"
+  },
+  {
+    "name": "Justify My Thug",
+    "artist": "Danger Mouse",
+    "date": "1284233487",
+    "date_text": "11 Sep 2010, 19:31"
+  },
+  {
+    "name": "I Believe In Symmetry (feat. N",
+    "artist": "Bright Eyes",
+    "date": "1284220575",
+    "date_text": "11 Sep 2010, 15:56"
+  },
+  {
+    "name": "Marchef w butonierce",
+    "artist": "Pid\u017cama Porno",
+    "date": "1284148590",
+    "date_text": "10 Sep 2010, 19:56"
+  },
+  {
+    "name": "12",
+    "artist": "Katatonia",
+    "date": "1284141230",
+    "date_text": "10 Sep 2010, 17:53"
+  },
+  {
+    "name": "Dolce Vita",
+    "artist": "Ryan Paris",
+    "date": "1284134115",
+    "date_text": "10 Sep 2010, 15:55"
+  },
+  {
+    "name": "The Underdog",
+    "artist": "Spoon",
+    "date": "1284133863",
+    "date_text": "10 Sep 2010, 15:51"
+  },
+  {
+    "name": "Love Song",
+    "artist": "The Dandy Warhols",
+    "date": "1284133837",
+    "date_text": "10 Sep 2010, 15:50"
+  },
+  {
+    "name": "Clouds",
+    "artist": "Tiamat",
+    "date": "1284132708",
+    "date_text": "10 Sep 2010, 15:31"
+  },
+  {
+    "name": "Beneath Eternal Oceans of Sand",
+    "artist": "Nile",
+    "date": "1284132678",
+    "date_text": "10 Sep 2010, 15:31"
+  },
+  {
+    "name": "How Rude",
+    "artist": "Flux Pavilion",
+    "date": "1284002903",
+    "date_text": "09 Sep 2010, 03:28"
+  },
+  {
+    "name": "Slow Down",
+    "artist": "Trolley Snatcha",
+    "date": "1283978120",
+    "date_text": "08 Sep 2010, 20:35"
+  },
+  {
+    "name": "Ghetto Rock",
+    "artist": "Mos Def",
+    "date": "1283965288",
+    "date_text": "08 Sep 2010, 17:01"
+  },
+  {
+    "name": "Ready Eddy",
+    "artist": "Caspa",
+    "date": "1283965077",
+    "date_text": "08 Sep 2010, 16:57"
+  },
+  {
+    "name": "Moja wiara",
+    "artist": "Kazik",
+    "date": "1283959172",
+    "date_text": "08 Sep 2010, 15:19"
+  },
+  {
+    "name": "The Day Before You Came",
+    "artist": "ABBA",
+    "date": "1283955338",
+    "date_text": "08 Sep 2010, 14:15"
+  },
+  {
+    "name": "God Is a DJ",
+    "artist": "Faithless",
+    "date": "1283438587",
+    "date_text": "02 Sep 2010, 14:43"
+  },
+  {
+    "name": "Blind To You",
+    "artist": "Collie Buddz",
+    "date": "1283436975",
+    "date_text": "02 Sep 2010, 14:16"
+  },
+  {
+    "name": "galileo blues",
+    "artist": "DZ",
+    "date": "1283435637",
+    "date_text": "02 Sep 2010, 13:53"
+  },
+  {
+    "name": "Lipstick on the Glass",
+    "artist": "Maanam",
+    "date": "1283435124",
+    "date_text": "02 Sep 2010, 13:45"
+  },
+  {
+    "name": "What You Live By",
+    "artist": "Harvey Danger",
+    "date": "1283193689",
+    "date_text": "30 Aug 2010, 18:41"
+  },
+  {
+    "name": "Grzesznik",
+    "artist": "Kult",
+    "date": "1282770513",
+    "date_text": "25 Aug 2010, 21:08"
+  },
+  {
+    "name": "Just to Get a Rep",
+    "artist": "Gang Starr",
+    "date": "1282769412",
+    "date_text": "25 Aug 2010, 20:50"
+  },
+  {
+    "name": "Whose Fist Is This Anyway?",
+    "artist": "Prong",
+    "date": "1282768600",
+    "date_text": "25 Aug 2010, 20:36"
+  },
+  {
+    "name": "Supertzar",
+    "artist": "Black Sabbath",
+    "date": "1282767165",
+    "date_text": "25 Aug 2010, 20:12"
+  },
+  {
+    "name": "Tried And True",
+    "artist": "Ween",
+    "date": "1282765956",
+    "date_text": "25 Aug 2010, 19:52"
+  },
+  {
+    "name": "Istanbul (Not Constantinople)",
+    "artist": "They Might Be Giants",
+    "date": "1282748695",
+    "date_text": "25 Aug 2010, 15:04"
+  },
+  {
+    "name": "Gamelan",
+    "artist": "Sofa Surfers",
+    "date": "1282748056",
+    "date_text": "25 Aug 2010, 14:54"
+  },
+  {
+    "name": "Get Free",
+    "artist": "The Vines",
+    "date": "1282681057",
+    "date_text": "24 Aug 2010, 20:17"
+  },
+  {
+    "name": "Flower",
+    "artist": "Eels",
+    "date": "1282678194",
+    "date_text": "24 Aug 2010, 19:29"
+  },
+  {
+    "name": "Piano Fire",
+    "artist": "Sparklehorse",
+    "date": "1282677748",
+    "date_text": "24 Aug 2010, 19:22"
+  },
+  {
+    "name": "Meanwhile, Rick James...",
+    "artist": "Cake",
+    "date": "1282592800",
+    "date_text": "23 Aug 2010, 19:46"
+  },
+  {
+    "name": "M",
+    "artist": "Carbon Based Lifeforms",
+    "date": "1282421776",
+    "date_text": "21 Aug 2010, 20:16"
+  },
+  {
+    "name": "Manzanilla",
+    "artist": "Vibrasphere",
+    "date": "1282413592",
+    "date_text": "21 Aug 2010, 17:59"
+  },
+  {
+    "name": "Is Chicago, Is Not Chicago",
+    "artist": "Soul Coughing",
+    "date": "1282313636",
+    "date_text": "20 Aug 2010, 14:13"
+  },
+  {
+    "name": "Never There",
+    "artist": "Cake",
+    "date": "1282264060",
+    "date_text": "20 Aug 2010, 00:27"
+  },
+  {
+    "name": "Airstream Driver",
+    "artist": "Gomez",
+    "date": "1282262714",
+    "date_text": "20 Aug 2010, 00:05"
+  },
+  {
+    "name": "Mental",
+    "artist": "Eels",
+    "date": "1282260891",
+    "date_text": "19 Aug 2010, 23:34"
+  },
+  {
+    "name": "TV Pro",
+    "artist": "The Vines",
+    "date": "1281904869",
+    "date_text": "15 Aug 2010, 20:41"
+  },
+  {
+    "name": "Hang Me Up to Dry",
+    "artist": "Cold War Kids",
+    "date": "1281904573",
+    "date_text": "15 Aug 2010, 20:36"
+  },
+  {
+    "name": "Float On",
+    "artist": "Modest Mouse",
+    "date": "1281897884",
+    "date_text": "15 Aug 2010, 18:44"
+  },
+  {
+    "name": "Calamine",
+    "artist": "Four Tet",
+    "date": "1281383980",
+    "date_text": "09 Aug 2010, 19:59"
+  },
+  {
+    "name": "Can't stop now feat. Mr. Vegas & Jovi Rockwell",
+    "artist": "Major Lazer",
+    "date": "1281366318",
+    "date_text": "09 Aug 2010, 15:05"
+  },
+  {
+    "name": "DJ Mix",
+    "artist": "Toddla T",
+    "date": "1281364307",
+    "date_text": "09 Aug 2010, 14:31"
+  },
+  {
+    "name": "Buggin' Out",
+    "artist": "A Tribe Called Quest",
+    "date": "1281236952",
+    "date_text": "08 Aug 2010, 03:09"
+  },
+  {
+    "name": "Avalanche - Original Mix",
+    "artist": "Erol Alkan & Boys Noize",
+    "date": "1281231237",
+    "date_text": "08 Aug 2010, 01:33"
+  },
+  {
+    "name": "I Saw The Light",
+    "artist": "Todd Rundgren",
+    "date": "1281219266",
+    "date_text": "07 Aug 2010, 22:14"
+  },
+  {
+    "name": "Meat Grinder",
+    "artist": "Madvillain",
+    "date": "1281218774",
+    "date_text": "07 Aug 2010, 22:06"
+  },
+  {
+    "name": "Final Solution",
+    "artist": "Pere Ubu",
+    "date": "1281107196",
+    "date_text": "06 Aug 2010, 15:06"
+  },
+  {
+    "name": "King Without a Crown",
+    "artist": "Matisyahu",
+    "date": "1281103773",
+    "date_text": "06 Aug 2010, 14:09"
+  },
+  {
+    "name": "K.Rhythm Pt.2",
+    "artist": "Holy Fuck",
+    "date": "1281019217",
+    "date_text": "05 Aug 2010, 14:40"
+  },
+  {
+    "name": "Chemtrails",
+    "artist": "Beck",
+    "date": "1280870942",
+    "date_text": "03 Aug 2010, 21:29"
+  },
+  {
+    "name": "Mr Bobby",
+    "artist": "Manu Chao",
+    "date": "1280856136",
+    "date_text": "03 Aug 2010, 17:22"
+  },
+  {
+    "name": "Love, in Itself",
+    "artist": "Depeche Mode",
+    "date": "1280780119",
+    "date_text": "02 Aug 2010, 20:15"
+  },
+  {
+    "name": "Intruders",
+    "artist": "Recoil",
+    "date": "1280778343",
+    "date_text": "02 Aug 2010, 19:45"
+  },
+  {
+    "name": "All Hail The Grey Dawn",
+    "artist": "Napalm Death",
+    "date": "1280774311",
+    "date_text": "02 Aug 2010, 18:38"
+  },
+  {
+    "name": "Electric Avenue",
+    "artist": "Eddy Grant",
+    "date": "1280770927",
+    "date_text": "02 Aug 2010, 17:42"
+  },
+  {
+    "name": "Addicted to Love",
+    "artist": "Ciccone Youth",
+    "date": "1280769305",
+    "date_text": "02 Aug 2010, 17:15"
+  },
+  {
+    "name": "The Girl and the Robot",
+    "artist": "R\u00f6yksopp",
+    "date": "1280761028",
+    "date_text": "02 Aug 2010, 14:57"
+  },
+  {
+    "name": "Lemonade",
+    "artist": "Wheatus",
+    "date": "1280693469",
+    "date_text": "01 Aug 2010, 20:11"
+  },
+  {
+    "name": "Santa Monica",
+    "artist": "Everclear",
+    "date": "1280618160",
+    "date_text": "31 Jul 2010, 23:16"
+  },
+  {
+    "name": "Electricity Drive",
+    "artist": "Alphawezen",
+    "date": "1280599887",
+    "date_text": "31 Jul 2010, 18:11"
+  },
+  {
+    "name": "The Staircase (Mystery)",
+    "artist": "Siouxsie and the Banshees",
+    "date": "1280523064",
+    "date_text": "30 Jul 2010, 20:51"
+  },
+  {
+    "name": "Trippin'",
+    "artist": "Jamal",
+    "date": "1280512742",
+    "date_text": "30 Jul 2010, 17:59"
+  },
+  {
+    "name": "Franklin's Tower",
+    "artist": "Grateful Dead",
+    "date": "1280511567",
+    "date_text": "30 Jul 2010, 17:39"
+  },
+  {
+    "name": "Saint Joe on the School Bus",
+    "artist": "Marcy Playground",
+    "date": "1280500735",
+    "date_text": "30 Jul 2010, 14:38"
+  },
+  {
+    "name": "You Get What You Give",
+    "artist": "New Radicals",
+    "date": "1280349631",
+    "date_text": "28 Jul 2010, 20:40"
+  },
+  {
+    "name": "Houston",
+    "artist": "Soul Coughing",
+    "date": "1280173009",
+    "date_text": "26 Jul 2010, 19:36"
+  },
+  {
+    "name": "A.M. 180",
+    "artist": "Grandaddy",
+    "date": "1280171773",
+    "date_text": "26 Jul 2010, 19:16"
+  },
+  {
+    "name": "Not Ready Yet",
+    "artist": "Eels",
+    "date": "1280171550",
+    "date_text": "26 Jul 2010, 19:12"
+  },
+  {
+    "name": "No Phone",
+    "artist": "Cake",
+    "date": "1280090346",
+    "date_text": "25 Jul 2010, 20:39"
+  },
+  {
+    "name": "Voodoo Lady",
+    "artist": "Ween",
+    "date": "1280089603",
+    "date_text": "25 Jul 2010, 20:26"
+  },
+  {
+    "name": "The Beginning",
+    "artist": "Eels",
+    "date": "1280088968",
+    "date_text": "25 Jul 2010, 20:16"
+  },
+  {
+    "name": "Novocaine for the Soul",
+    "artist": "Eels",
+    "date": "1280010209",
+    "date_text": "24 Jul 2010, 22:23"
+  },
+  {
+    "name": "I",
+    "artist": "Andrew Bird",
+    "date": "1280007041",
+    "date_text": "24 Jul 2010, 21:30"
+  },
+  {
+    "name": "Secret Smile",
+    "artist": "Semisonic",
+    "date": "1280006149",
+    "date_text": "24 Jul 2010, 21:15"
+  },
+  {
+    "name": "What",
+    "artist": "Brendan Benson",
+    "date": "1280002936",
+    "date_text": "24 Jul 2010, 20:22"
+  },
+  {
+    "name": "DLZ",
+    "artist": "TV on the Radio",
+    "date": "1280002680",
+    "date_text": "24 Jul 2010, 20:18"
+  },
+  {
+    "name": "Go Find Your Saint",
+    "artist": "Frank Black",
+    "date": "1280002596",
+    "date_text": "24 Jul 2010, 20:16"
+  },
+  {
+    "name": "Stadium Soul",
+    "artist": "Adam Green",
+    "date": "1280002499",
+    "date_text": "24 Jul 2010, 20:14"
+  },
+  {
+    "name": "The Way We Get By",
+    "artist": "Spoon",
+    "date": "1280002354",
+    "date_text": "24 Jul 2010, 20:12"
+  },
+  {
+    "name": "Guest List",
+    "artist": "Eels",
+    "date": "1280002209",
+    "date_text": "24 Jul 2010, 20:10"
+  },
+  {
+    "name": "I Burn Today",
+    "artist": "Frank Black",
+    "date": "1280002175",
+    "date_text": "24 Jul 2010, 20:09"
+  },
+  {
+    "name": "Hell Yes",
+    "artist": "Beck",
+    "date": "1280001748",
+    "date_text": "24 Jul 2010, 20:02"
+  },
+  {
+    "name": "Nature Springs",
+    "artist": "The Good, the Bad & the Queen",
+    "date": "1279998626",
+    "date_text": "24 Jul 2010, 19:10"
+  },
+  {
+    "name": "3 Speed",
+    "artist": "Eels",
+    "date": "1279998061",
+    "date_text": "24 Jul 2010, 19:01"
+  },
+  {
+    "name": "Do You Realize??",
+    "artist": "The Flaming Lips",
+    "date": "1279997411",
+    "date_text": "24 Jul 2010, 18:50"
+  },
+  {
+    "name": "Buddy Bradley",
+    "artist": "Adam Green",
+    "date": "1279997017",
+    "date_text": "24 Jul 2010, 18:43"
+  },
+  {
+    "name": "Master of Puppets",
+    "artist": "Metallica",
+    "date": "1279832593",
+    "date_text": "22 Jul 2010, 21:03"
+  },
+  {
+    "name": "Cemetery Gates",
+    "artist": "Pantera",
+    "date": "1279746301",
+    "date_text": "21 Jul 2010, 21:05"
+  },
+  {
+    "name": "Wombats",
+    "artist": "Kasper Bj\u00f8rke",
+    "date": "1279746051",
+    "date_text": "21 Jul 2010, 21:00"
+  },
+  {
+    "name": "The Captain",
+    "artist": "Kasey Chambers",
+    "date": "1279746041",
+    "date_text": "21 Jul 2010, 21:00"
+  },
+  {
+    "name": "Some Unholy War",
+    "artist": "Amy Winehouse",
+    "date": "1278992455",
+    "date_text": "13 Jul 2010, 03:40"
+  },
+  {
+    "name": "Breakthru",
+    "artist": "Queen",
+    "date": "1278992434",
+    "date_text": "13 Jul 2010, 03:40"
+  },
+  {
+    "name": "Everything Counts",
+    "artist": "Depeche Mode",
+    "date": "1278899097",
+    "date_text": "12 Jul 2010, 01:44"
+  },
+  {
+    "name": "Everyday People",
+    "artist": "Sly & The Family Stone",
+    "date": "1278897799",
+    "date_text": "12 Jul 2010, 01:23"
+  },
+  {
+    "name": "On The Road Again",
+    "artist": "Willie Nelson",
+    "date": "1278897640",
+    "date_text": "12 Jul 2010, 01:20"
+  },
+  {
+    "name": "Hvite Krists D\u00f8d",
+    "artist": "Satyricon",
+    "date": "1278897631",
+    "date_text": "12 Jul 2010, 01:20"
+  },
+  {
+    "name": "Hotel Axos",
+    "artist": "Parov Stelar",
+    "date": "1278892946",
+    "date_text": "12 Jul 2010, 00:02"
+  },
+  {
+    "name": "Buried Alive",
+    "artist": "Death Angel",
+    "date": "1278892270",
+    "date_text": "11 Jul 2010, 23:51"
+  },
+  {
+    "name": "Jesiony",
+    "artist": "D\u017cem",
+    "date": "1278613299",
+    "date_text": "08 Jul 2010, 18:21"
+  },
+  {
+    "name": "Green River",
+    "artist": "Creedence Clearwater Revival",
+    "date": "1278598508",
+    "date_text": "08 Jul 2010, 14:15"
+  },
+  {
+    "name": "Aerials",
+    "artist": "System of a Down",
+    "date": "1278388977",
+    "date_text": "06 Jul 2010, 04:02"
+  },
+  {
+    "name": "Refuse/Resist",
+    "artist": "Sepultura",
+    "date": "1278379792",
+    "date_text": "06 Jul 2010, 01:29"
+  },
+  {
+    "name": "For The Sake of The Song",
+    "artist": "Townes Van Zandt",
+    "date": "1278376180",
+    "date_text": "06 Jul 2010, 00:29"
+  },
+  {
+    "name": "When Your Lonely Heart Breaks",
+    "artist": "Neil Young & Crazy Horse",
+    "date": "1278351270",
+    "date_text": "05 Jul 2010, 17:34"
+  },
+  {
+    "name": "Fuck the Pain Away",
+    "artist": "Peaches",
+    "date": "1277574459",
+    "date_text": "26 Jun 2010, 17:47"
+  },
+  {
+    "name": "Cold Obsession in My Eyes",
+    "artist": "Cemetery of Scream",
+    "date": "1275678616",
+    "date_text": "04 Jun 2010, 19:10"
+  },
+  {
+    "name": "Detlef Schrempf",
+    "artist": "Band of Horses",
+    "date": "1275155606",
+    "date_text": "29 May 2010, 17:53"
+  },
+  {
+    "name": "Miserable Girl",
+    "artist": "Soulwax",
+    "date": "1275152507",
+    "date_text": "29 May 2010, 17:01"
+  },
+  {
+    "name": "Joan of Arc",
+    "artist": "Leonard Cohen",
+    "date": "1275150668",
+    "date_text": "29 May 2010, 16:31"
+  },
+  {
+    "name": "A Dying Wish",
+    "artist": "Anathema",
+    "date": "1274463549",
+    "date_text": "21 May 2010, 17:39"
+  },
+  {
+    "name": "Pass The Tu Sheng Peng",
+    "artist": "Frankie Paul",
+    "date": "1274461965",
+    "date_text": "21 May 2010, 17:12"
+  },
+  {
+    "name": "Gift",
+    "artist": "Old Man Gloom",
+    "date": "1274456107",
+    "date_text": "21 May 2010, 15:35"
+  },
+  {
+    "name": "Illuminate",
+    "artist": "Orbital",
+    "date": "1274190313",
+    "date_text": "18 May 2010, 13:45"
+  },
+  {
+    "name": "Funny Break [One is Enough]",
+    "artist": "Orbital",
+    "date": "1274190305",
+    "date_text": "18 May 2010, 13:45"
+  },
+  {
+    "name": "The Sweetest Embrace",
+    "artist": "Barry Adamson",
+    "date": "1273260409",
+    "date_text": "07 May 2010, 19:26"
+  },
+  {
+    "name": "What's Wrong With Me (Stratus Remix)",
+    "artist": "Skye",
+    "date": "1272814211",
+    "date_text": "02 May 2010, 15:30"
+  },
+  {
+    "name": "Smile In The Crowd",
+    "artist": "Martin L. Gore",
+    "date": "1272587257",
+    "date_text": "30 Apr 2010, 00:27"
+  },
+  {
+    "name": "Feel",
+    "artist": "Anathema",
+    "date": "1272471125",
+    "date_text": "28 Apr 2010, 16:12"
+  },
+  {
+    "name": "I Against I",
+    "artist": "Massive Attack",
+    "date": "1272232757",
+    "date_text": "25 Apr 2010, 21:59"
+  },
+  {
+    "name": "Not the Girl You Think You Are",
+    "artist": "Crowded House",
+    "date": "1272231046",
+    "date_text": "25 Apr 2010, 21:30"
+  },
+  {
+    "name": "Hybrid",
+    "artist": "Elsiane",
+    "date": "1269312200",
+    "date_text": "23 Mar 2010, 02:43"
+  },
+  {
+    "name": "Beauty",
+    "artist": "Ladytron",
+    "date": "1268938879",
+    "date_text": "18 Mar 2010, 19:01"
+  },
+  {
+    "name": "You Are Nothing",
+    "artist": "Olive",
+    "date": "1268938799",
+    "date_text": "18 Mar 2010, 18:59"
+  },
+  {
+    "name": "Safety Dance",
+    "artist": "Men Without Hats",
+    "date": "1268791637",
+    "date_text": "17 Mar 2010, 02:07"
+  },
+  {
+    "name": "Jezebel (edit)",
+    "artist": "Recoil",
+    "date": "1268790105",
+    "date_text": "17 Mar 2010, 01:41"
+  },
+  {
+    "name": "Nie czekaj na wiatr",
+    "artist": "Popi\u00f3\u0142",
+    "date": "1268763190",
+    "date_text": "16 Mar 2010, 18:13"
+  },
+  {
+    "name": "Take Five",
+    "artist": "The Dave Brubeck Quartet",
+    "date": "1268712986",
+    "date_text": "16 Mar 2010, 04:16"
+  },
+  {
+    "name": "Car Crash",
+    "artist": "Tricky",
+    "date": "1268712663",
+    "date_text": "16 Mar 2010, 04:11"
+  },
+  {
+    "name": "Trolley Song",
+    "artist": "Dave Brubeck",
+    "date": "1268712553",
+    "date_text": "16 Mar 2010, 04:09"
+  },
+  {
+    "name": "The Plan",
+    "artist": "Sofa Surfers",
+    "date": "1268711977",
+    "date_text": "16 Mar 2010, 03:59"
+  },
+  {
+    "name": "Battersea",
+    "artist": "Hooverphonic",
+    "date": "1268238833",
+    "date_text": "10 Mar 2010, 16:33"
+  },
+  {
+    "name": "Play With Fire",
+    "artist": "The Rolling Stones",
+    "date": "1267310789",
+    "date_text": "27 Feb 2010, 22:46"
+  },
+  {
+    "name": "Talisman",
+    "artist": "Air",
+    "date": "1267298800",
+    "date_text": "27 Feb 2010, 19:26"
+  },
+  {
+    "name": "Stalingrad (Adam und Klara)",
+    "artist": "Kazik",
+    "date": "1267297383",
+    "date_text": "27 Feb 2010, 19:03"
+  },
+  {
+    "name": "We Haven't Turned Around",
+    "artist": "Gomez",
+    "date": "1267297015",
+    "date_text": "27 Feb 2010, 18:56"
+  },
+  {
+    "name": "Key to the Gate",
+    "artist": "Burzum",
+    "date": "1266949806",
+    "date_text": "23 Feb 2010, 18:30"
+  },
+  {
+    "name": "Angelo Jacopucci",
+    "artist": "Kult",
+    "date": "1265297778",
+    "date_text": "04 Feb 2010, 15:36"
+  },
+  {
+    "name": "Elektro Kardiogramm (radio mix)",
+    "artist": "Kraftwerk",
+    "date": "1265296512",
+    "date_text": "04 Feb 2010, 15:15"
+  },
+  {
+    "name": "Sinnerman (Felix Da Housecat's Heavenly House Mix)",
+    "artist": "Nina Simone",
+    "date": "1265246804",
+    "date_text": "04 Feb 2010, 01:26"
+  },
+  {
+    "name": "S.K.A.",
+    "artist": "Proletaryat",
+    "date": "1264891099",
+    "date_text": "30 Jan 2010, 22:38"
+  },
+  {
+    "name": "Distant Sun",
+    "artist": "Crowded House",
+    "date": "1264891009",
+    "date_text": "30 Jan 2010, 22:36"
+  },
+  {
+    "name": "Precious Maybe",
+    "artist": "Beth Orton",
+    "date": "1264890792",
+    "date_text": "30 Jan 2010, 22:33"
+  },
+  {
+    "name": "49 Percent (Angello & Ingrosso remix)",
+    "artist": "R\u00f6yksopp",
+    "date": "1264886039",
+    "date_text": "30 Jan 2010, 21:13"
+  },
+  {
+    "name": "Goodbye 70's",
+    "artist": "Yazoo",
+    "date": "1264270363",
+    "date_text": "23 Jan 2010, 18:12"
+  },
+  {
+    "name": "Tomorrow Never Knows",
+    "artist": "Junior Parker",
+    "date": "1264269826",
+    "date_text": "23 Jan 2010, 18:03"
+  },
+  {
+    "name": "Tonight's Music",
+    "artist": "Katatonia",
+    "date": "1264267546",
+    "date_text": "23 Jan 2010, 17:25"
+  },
+  {
+    "name": "Kurewska",
+    "artist": "Post Regiment",
+    "date": "1264267203",
+    "date_text": "23 Jan 2010, 17:20"
+  },
+  {
+    "name": "Everything Is Everything",
+    "artist": "Phoenix",
+    "date": "1264265644",
+    "date_text": "23 Jan 2010, 16:54"
+  },
+  {
+    "name": "Me and You",
+    "artist": "Bearbot",
+    "date": "1264194750",
+    "date_text": "22 Jan 2010, 21:12"
+  },
+  {
+    "name": "Chillin' Out",
+    "artist": "Jupiter Skydive",
+    "date": "1264194608",
+    "date_text": "22 Jan 2010, 21:10"
+  },
+  {
+    "name": "Walcz Caly Czas (Feat. Ras Luta)",
+    "artist": "Habakuk",
+    "date": "1264194189",
+    "date_text": "22 Jan 2010, 21:03"
+  },
+  {
+    "name": "Baranek",
+    "artist": "Kult",
+    "date": "1263914657",
+    "date_text": "19 Jan 2010, 15:24"
+  },
+  {
+    "name": "Moja dumka",
+    "artist": "Marek Tranda",
+    "date": "1263911801",
+    "date_text": "19 Jan 2010, 14:36"
+  },
+  {
+    "name": "Napalm Love",
+    "artist": "Air",
+    "date": "1263833579",
+    "date_text": "18 Jan 2010, 16:52"
+  },
+  {
+    "name": "We Want It",
+    "artist": "Afromental",
+    "date": "1263413036",
+    "date_text": "13 Jan 2010, 20:03"
+  },
+  {
+    "name": "One Love Festival Dubplate 2005",
+    "artist": "Eastwest Rockers",
+    "date": "1259719205",
+    "date_text": "02 Dec 2009, 02:00"
+  },
+  {
+    "name": "For Whom the Bell Tolls",
+    "artist": "Metallica",
+    "date": "1257535445",
+    "date_text": "06 Nov 2009, 19:24"
+  },
+  {
+    "name": "Now, Diabolical",
+    "artist": "Satyricon",
+    "date": "1257358637",
+    "date_text": "04 Nov 2009, 18:17"
+  },
+  {
+    "name": "My Way Home (feat. Common)",
+    "artist": "Kanye West",
+    "date": "1257259384",
+    "date_text": "03 Nov 2009, 14:43"
+  },
+  {
+    "name": "Nowe tempa",
+    "artist": "Kult",
+    "date": "1256963856",
+    "date_text": "31 Oct 2009, 04:37"
+  },
+  {
+    "name": "Maria ma syna",
+    "artist": "Kult",
+    "date": "1256963841",
+    "date_text": "31 Oct 2009, 04:37"
+  },
+  {
+    "name": "Hush",
+    "artist": "Deep Purple",
+    "date": "1256828439",
+    "date_text": "29 Oct 2009, 15:00"
+  },
+  {
+    "name": "Why Do You Love Me",
+    "artist": "Garbage",
+    "date": "1256650260",
+    "date_text": "27 Oct 2009, 13:31"
+  },
+  {
+    "name": "Freedom Of Speech",
+    "artist": "Above the Law",
+    "date": "1256327435",
+    "date_text": "23 Oct 2009, 19:50"
+  },
+  {
+    "name": "The Misshapen Steed",
+    "artist": "Agalloch",
+    "date": "1256317505",
+    "date_text": "23 Oct 2009, 17:05"
+  },
+  {
+    "name": "Casper The Friendly Ghost",
+    "artist": "Daniel Johnston",
+    "date": "1256306183",
+    "date_text": "23 Oct 2009, 13:56"
+  },
+  {
+    "name": "Red in Tooth and Claw",
+    "artist": "Rosetta",
+    "date": "1255030479",
+    "date_text": "08 Oct 2009, 19:34"
+  },
+  {
+    "name": "Neonate",
+    "artist": "Giant Squid",
+    "date": "1255021916",
+    "date_text": "08 Oct 2009, 17:11"
+  },
+  {
+    "name": "The Lustful",
+    "artist": "Professor Fate",
+    "date": "1255021614",
+    "date_text": "08 Oct 2009, 17:06"
+  },
+  {
+    "name": "Gouge Away",
+    "artist": "Pixies",
+    "date": "1253914472",
+    "date_text": "25 Sep 2009, 21:34"
+  },
+  {
+    "name": "Black Spell of Destruction",
+    "artist": "Burzum",
+    "date": "1253914463",
+    "date_text": "25 Sep 2009, 21:34"
+  },
+  {
+    "name": "Tape Loop (Diabolical Brothers Remix)",
+    "artist": "Morcheeba",
+    "date": "1253901891",
+    "date_text": "25 Sep 2009, 18:04"
+  },
+  {
+    "name": "Galanteria",
+    "artist": "Muchy",
+    "date": "1253834043",
+    "date_text": "24 Sep 2009, 23:14"
+  },
+  {
+    "name": "Crater",
+    "artist": "Aphrodite",
+    "date": "1253833931",
+    "date_text": "24 Sep 2009, 23:12"
+  },
+  {
+    "name": "Over and Over Again (Lost and Found)",
+    "artist": "Clap Your Hands Say Yeah",
+    "date": "1253830561",
+    "date_text": "24 Sep 2009, 22:16"
+  },
+  {
+    "name": "I Transpire",
+    "artist": "Katatonia",
+    "date": "1253739305",
+    "date_text": "23 Sep 2009, 20:55"
+  },
+  {
+    "name": "Believe",
+    "artist": "Mandalay",
+    "date": "1253714952",
+    "date_text": "23 Sep 2009, 14:09"
+  },
+  {
+    "name": "Gone",
+    "artist": "Martin L. Gore",
+    "date": "1253714758",
+    "date_text": "23 Sep 2009, 14:05"
+  },
+  {
+    "name": "Ce Jeu",
+    "artist": "Yelle",
+    "date": "1253714022",
+    "date_text": "23 Sep 2009, 13:53"
+  },
+  {
+    "name": "Alcohol",
+    "artist": "Cansei de Ser Sexy",
+    "date": "1253642445",
+    "date_text": "22 Sep 2009, 18:00"
+  },
+  {
+    "name": "Farewell",
+    "artist": "Apocalyptica",
+    "date": "1253572596",
+    "date_text": "21 Sep 2009, 22:36"
+  },
+  {
+    "name": "Not Ennuf Love",
+    "artist": "Faithless",
+    "date": "1253568993",
+    "date_text": "21 Sep 2009, 21:36"
+  },
+  {
+    "name": "Svart djup",
+    "artist": "Finntroll",
+    "date": "1253546158",
+    "date_text": "21 Sep 2009, 15:15"
+  },
+  {
+    "name": "Weight",
+    "artist": "Isis",
+    "date": "1253541041",
+    "date_text": "21 Sep 2009, 13:50"
+  },
+  {
+    "name": "Like A Call",
+    "artist": "Architecture in Helsinki",
+    "date": "1253310494",
+    "date_text": "18 Sep 2009, 21:48"
+  },
+  {
+    "name": "Down With the Sickness",
+    "artist": "Disturbed",
+    "date": "1253307908",
+    "date_text": "18 Sep 2009, 21:05"
+  },
+  {
+    "name": "Cromlech",
+    "artist": "Darkthrone",
+    "date": "1253306423",
+    "date_text": "18 Sep 2009, 20:40"
+  },
+  {
+    "name": "The Coffin Ships",
+    "artist": "Primordial",
+    "date": "1253033393",
+    "date_text": "15 Sep 2009, 16:49"
+  },
+  {
+    "name": "Postales",
+    "artist": "Federico Aubele",
+    "date": "1252590990",
+    "date_text": "10 Sep 2009, 13:56"
+  },
+  {
+    "name": "Spring to Kingdom Come",
+    "artist": "Flunk",
+    "date": "1252587013",
+    "date_text": "10 Sep 2009, 12:50"
+  },
+  {
+    "name": "Day of the Lords",
+    "artist": "Joy Division",
+    "date": "1252528053",
+    "date_text": "09 Sep 2009, 20:27"
+  },
+  {
+    "name": "Your Eyes",
+    "artist": "Kult",
+    "date": "1252511833",
+    "date_text": "09 Sep 2009, 15:57"
+  },
+  {
+    "name": "Poczt\u00f3wka Z Chorwacji",
+    "artist": "Kazik",
+    "date": "1252298575",
+    "date_text": "07 Sep 2009, 04:42"
+  },
+  {
+    "name": "Gz and Hustlas",
+    "artist": "Snoop Dogg",
+    "date": "1252081398",
+    "date_text": "04 Sep 2009, 16:23"
+  },
+  {
+    "name": "Z\u0142odzieje",
+    "artist": "Zielone \u017babki",
+    "date": "1251986824",
+    "date_text": "03 Sep 2009, 14:07"
+  },
+  {
+    "name": "Krak\u00f3w",
+    "artist": "Myslovitz",
+    "date": "1251737479",
+    "date_text": "31 Aug 2009, 16:51"
+  },
+  {
+    "name": "Baggy Trousers",
+    "artist": "Madness",
+    "date": "1251729746",
+    "date_text": "31 Aug 2009, 14:42"
+  },
+  {
+    "name": "Intro",
+    "artist": "Ulver",
+    "date": "1251682338",
+    "date_text": "31 Aug 2009, 01:32"
+  },
+  {
+    "name": "Blinded by Blood",
+    "artist": "Ulver",
+    "date": "1251493105",
+    "date_text": "28 Aug 2009, 20:58"
+  },
+  {
+    "name": "Janie Jones",
+    "artist": "The Clash",
+    "date": "1251491944",
+    "date_text": "28 Aug 2009, 20:39"
+  },
+  {
+    "name": "Strange Ways",
+    "artist": "Madvillain",
+    "date": "1251489709",
+    "date_text": "28 Aug 2009, 20:01"
+  },
+  {
+    "name": "Lick",
+    "artist": "Joi",
+    "date": "1251399642",
+    "date_text": "27 Aug 2009, 19:00"
+  },
+  {
+    "name": "Say What You Want",
+    "artist": "Texas",
+    "date": "1251313767",
+    "date_text": "26 Aug 2009, 19:09"
+  },
+  {
+    "name": "Seeing Birth",
+    "artist": "Eddie Murphy",
+    "date": "1251305116",
+    "date_text": "26 Aug 2009, 16:45"
+  },
+  {
+    "name": "Black Milk",
+    "artist": "Massive Attack",
+    "date": "1251228016",
+    "date_text": "25 Aug 2009, 19:20"
+  },
+  {
+    "name": "Gebrechlichkeit I",
+    "artist": "Burzum",
+    "date": "1250454754",
+    "date_text": "16 Aug 2009, 20:32"
+  },
+  {
+    "name": "Coma White",
+    "artist": "Marilyn Manson",
+    "date": "1250440488",
+    "date_text": "16 Aug 2009, 16:34"
+  },
+  {
+    "name": "The Wrathful and Sullen",
+    "artist": "Professor Fate",
+    "date": "1250372612",
+    "date_text": "15 Aug 2009, 21:43"
+  },
+  {
+    "name": "Narrenschyff",
+    "artist": "Vesania",
+    "date": "1250370140",
+    "date_text": "15 Aug 2009, 21:02"
+  },
+  {
+    "name": "If the Kids Are United",
+    "artist": "Sham 69",
+    "date": "1249752463",
+    "date_text": "08 Aug 2009, 17:27"
+  },
+  {
+    "name": "Puritania",
+    "artist": "Dimmu Borgir",
+    "date": "1248706199",
+    "date_text": "27 Jul 2009, 14:49"
+  },
+  {
+    "name": "Wanderer Above the Sea of Fog",
+    "artist": "Wolves in the Throne Room",
+    "date": "1248559075",
+    "date_text": "25 Jul 2009, 21:57"
+  },
+  {
+    "name": "Ex Factor",
+    "artist": "Lauryn Hill",
+    "date": "1248375789",
+    "date_text": "23 Jul 2009, 19:03"
+  },
+  {
+    "name": "Come on Eileen",
+    "artist": "Dexys Midnight Runners",
+    "date": "1248375401",
+    "date_text": "23 Jul 2009, 18:56"
+  },
+  {
+    "name": "Rhino Jockey",
+    "artist": "Amon Tobin",
+    "date": "1248364024",
+    "date_text": "23 Jul 2009, 15:47"
+  },
+  {
+    "name": "The Universal",
+    "artist": "Blur",
+    "date": "1248360938",
+    "date_text": "23 Jul 2009, 14:55"
+  },
+  {
+    "name": "Autsajder",
+    "artist": "D\u017cem",
+    "date": "1248359140",
+    "date_text": "23 Jul 2009, 14:25"
+  },
+  {
+    "name": "Chronic Tronic",
+    "artist": "Amon Tobin",
+    "date": "1248187552",
+    "date_text": "21 Jul 2009, 14:45"
+  },
+  {
+    "name": "David",
+    "artist": "Nellie McKay",
+    "date": "1247937462",
+    "date_text": "18 Jul 2009, 17:17"
+  },
+  {
+    "name": "Snakedriver",
+    "artist": "The Jesus and Mary Chain",
+    "date": "1247687664",
+    "date_text": "15 Jul 2009, 19:54"
+  },
+  {
+    "name": "My Lover's Prayer",
+    "artist": "Otis Redding",
+    "date": "1247686743",
+    "date_text": "15 Jul 2009, 19:39"
+  },
+  {
+    "name": "Asche zu Asche",
+    "artist": "Rammstein",
+    "date": "1247665999",
+    "date_text": "15 Jul 2009, 13:53"
+  },
+  {
+    "name": "The Everlasting Gaze",
+    "artist": "The Smashing Pumpkins",
+    "date": "1247665985",
+    "date_text": "15 Jul 2009, 13:53"
+  },
+  {
+    "name": "Reason Is Treason (Live At Brixton Academy)",
+    "artist": "Kasabian",
+    "date": "1247665654",
+    "date_text": "15 Jul 2009, 13:47"
+  },
+  {
+    "name": "Ground",
+    "artist": "Celtic Frost",
+    "date": "1247581259",
+    "date_text": "14 Jul 2009, 14:20"
+  },
+  {
+    "name": "Chain Gang",
+    "artist": "Sam Cooke",
+    "date": "1247518620",
+    "date_text": "13 Jul 2009, 20:57"
+  },
+  {
+    "name": "Mrok",
+    "artist": "Post Regiment",
+    "date": "1247518500",
+    "date_text": "13 Jul 2009, 20:55"
+  },
+  {
+    "name": "Furball Shindig",
+    "artist": "Fila Brazillia",
+    "date": "1247515911",
+    "date_text": "13 Jul 2009, 20:11"
+  },
+  {
+    "name": "Reggae Gone Ragga",
+    "artist": "Dr. Alban",
+    "date": "1247494055",
+    "date_text": "13 Jul 2009, 14:07"
+  },
+  {
+    "name": "14. rozkolysanka",
+    "artist": "Farben Lehre",
+    "date": "1247492966",
+    "date_text": "13 Jul 2009, 13:49"
+  },
+  {
+    "name": "A Desolation Song",
+    "artist": "Agalloch",
+    "date": "1247189614",
+    "date_text": "10 Jul 2009, 01:33"
+  },
+  {
+    "name": "People Everyday (Metamorphosis Radio Edit)",
+    "artist": "Arrested Development",
+    "date": "1247180492",
+    "date_text": "09 Jul 2009, 23:01"
+  },
+  {
+    "name": "Had To (Leave)",
+    "artist": "Katatonia",
+    "date": "1247175907",
+    "date_text": "09 Jul 2009, 21:45"
+  },
+  {
+    "name": "One of These Days",
+    "artist": "Kraak & Smaak",
+    "date": "1247174602",
+    "date_text": "09 Jul 2009, 21:23"
+  },
+  {
+    "name": "Christine Bonilla",
+    "artist": "Joy Zipper",
+    "date": "1247174256",
+    "date_text": "09 Jul 2009, 21:17"
+  },
+  {
+    "name": "Whisky",
+    "artist": "D\u017cem",
+    "date": "1247170365",
+    "date_text": "09 Jul 2009, 20:12"
+  },
+  {
+    "name": "O Ani",
+    "artist": "Kult",
+    "date": "1247159243",
+    "date_text": "09 Jul 2009, 17:07"
+  },
+  {
+    "name": "Remind Me",
+    "artist": "R\u00f6yksopp",
+    "date": "1247098941",
+    "date_text": "09 Jul 2009, 00:22"
+  },
+  {
+    "name": "Computer Liebe (single version)",
+    "artist": "Kraftwerk",
+    "date": "1247097658",
+    "date_text": "09 Jul 2009, 00:00"
+  },
+  {
+    "name": "Du hast",
+    "artist": "Rammstein",
+    "date": "1246909723",
+    "date_text": "06 Jul 2009, 19:48"
+  },
+  {
+    "name": "Dyplomata",
+    "artist": "Kult",
+    "date": "1246899953",
+    "date_text": "06 Jul 2009, 17:05"
+  },
+  {
+    "name": "Helpless",
+    "artist": "Faith No More",
+    "date": "1246560189",
+    "date_text": "02 Jul 2009, 18:43"
+  },
+  {
+    "name": "Colony",
+    "artist": "Joy Division",
+    "date": "1246557085",
+    "date_text": "02 Jul 2009, 17:51"
+  },
+  {
+    "name": "Unquiet",
+    "artist": "Pati Yang",
+    "date": "1246557082",
+    "date_text": "02 Jul 2009, 17:51"
+  },
+  {
+    "name": "Mirage",
+    "artist": "Siouxsie and the Banshees",
+    "date": "1246556463",
+    "date_text": "02 Jul 2009, 17:41"
+  },
+  {
+    "name": "Halo",
+    "artist": "Depeche Mode",
+    "date": "1246553534",
+    "date_text": "02 Jul 2009, 16:52"
+  },
+  {
+    "name": "Changes",
+    "artist": "David Bowie",
+    "date": "1246550571",
+    "date_text": "02 Jul 2009, 16:02"
+  },
+  {
+    "name": "Magic Moments (Remastered February 1992)",
+    "artist": "Perry Como",
+    "date": "1246550356",
+    "date_text": "02 Jul 2009, 15:59"
+  },
+  {
+    "name": "Eden",
+    "artist": "Hooverphonic",
+    "date": "1246465277",
+    "date_text": "01 Jul 2009, 16:21"
+  },
+  {
+    "name": "Words (Between the Lines of Age)",
+    "artist": "Neil Young",
+    "date": "1246459182",
+    "date_text": "01 Jul 2009, 14:39"
+  },
+  {
+    "name": "The Ar",
+    "artist": "Tiamat",
+    "date": "1246385345",
+    "date_text": "30 Jun 2009, 18:09"
+  },
+  {
+    "name": "Diamonds from Sierra Leone (Remix) (feat. Jay-Z)",
+    "artist": "Kanye West",
+    "date": "1246134248",
+    "date_text": "27 Jun 2009, 20:24"
+  },
+  {
+    "name": "Bleed Like Me",
+    "artist": "Garbage",
+    "date": "1246129549",
+    "date_text": "27 Jun 2009, 19:05"
+  },
+  {
+    "name": "Temptations",
+    "artist": "2Pac",
+    "date": "1246129444",
+    "date_text": "27 Jun 2009, 19:04"
+  },
+  {
+    "name": "Lie To Me",
+    "artist": "Depeche Mode",
+    "date": "1246115848",
+    "date_text": "27 Jun 2009, 15:17"
+  },
+  {
+    "name": "Golden Years",
+    "artist": "David Bowie",
+    "date": "1246115729",
+    "date_text": "27 Jun 2009, 15:15"
+  },
+  {
+    "name": "Demons Gate",
+    "artist": "Candlemass",
+    "date": "1246027114",
+    "date_text": "26 Jun 2009, 14:38"
+  },
+  {
+    "name": "Let's Dance",
+    "artist": "David Bowie",
+    "date": "1246026197",
+    "date_text": "26 Jun 2009, 14:23"
+  },
+  {
+    "name": "Know Your Rights",
+    "artist": "The Clash",
+    "date": "1245769114",
+    "date_text": "23 Jun 2009, 14:58"
+  },
+  {
+    "name": "The Falling",
+    "artist": "Roots Manuva",
+    "date": "1245273479",
+    "date_text": "17 Jun 2009, 21:17"
+  },
+  {
+    "name": "Into The Valley",
+    "artist": "The Skids",
+    "date": "1245273002",
+    "date_text": "17 Jun 2009, 21:10"
+  },
+  {
+    "name": "Hands Of Time",
+    "artist": "Groove Armada",
+    "date": "1245257889",
+    "date_text": "17 Jun 2009, 16:58"
+  },
+  {
+    "name": "A Man Needs a Maid",
+    "artist": "Neil Young",
+    "date": "1245257867",
+    "date_text": "17 Jun 2009, 16:57"
+  },
+  {
+    "name": "Rosies",
+    "artist": "Amon Tobin",
+    "date": "1245253827",
+    "date_text": "17 Jun 2009, 15:50"
+  },
+  {
+    "name": "Kickstand",
+    "artist": "Soundgarden",
+    "date": "1245251271",
+    "date_text": "17 Jun 2009, 15:07"
+  },
+  {
+    "name": "Hell Dwells in Ice",
+    "artist": "Behemoth",
+    "date": "1245250480",
+    "date_text": "17 Jun 2009, 14:54"
+  },
+  {
+    "name": "Mountain of Doom",
+    "artist": "Tiamat",
+    "date": "1245202141",
+    "date_text": "17 Jun 2009, 01:29"
+  },
+  {
+    "name": "Beneath A Bronze Sky",
+    "artist": "Primordial",
+    "date": "1245199570",
+    "date_text": "17 Jun 2009, 00:46"
+  },
+  {
+    "name": "Nothing Gonna Stop",
+    "artist": "The Folk Implosion",
+    "date": "1245196186",
+    "date_text": "16 Jun 2009, 23:49"
+  },
+  {
+    "name": "In Chains",
+    "artist": "Depeche Mode",
+    "date": "1245172972",
+    "date_text": "16 Jun 2009, 17:22"
+  },
+  {
+    "name": "Sluta F\u00f6lja Efter",
+    "artist": "Dungen",
+    "date": "1245163601",
+    "date_text": "16 Jun 2009, 14:46"
+  },
+  {
+    "name": "Shake Break Bounce",
+    "artist": "The Chemical Brothers",
+    "date": "1244932039",
+    "date_text": "13 Jun 2009, 22:27"
+  },
+  {
+    "name": "Reckoner",
+    "artist": "Radiohead",
+    "date": "1244928610",
+    "date_text": "13 Jun 2009, 21:30"
+  },
+  {
+    "name": "Half Life",
+    "artist": "Sneaker Pimps",
+    "date": "1244921372",
+    "date_text": "13 Jun 2009, 19:29"
+  },
+  {
+    "name": "Vowels",
+    "artist": "Ulver",
+    "date": "1244921081",
+    "date_text": "13 Jun 2009, 19:24"
+  },
+  {
+    "name": "The Song of the Tomb",
+    "artist": "Primordial",
+    "date": "1244829118",
+    "date_text": "12 Jun 2009, 17:51"
+  },
+  {
+    "name": "Dust in the Wind",
+    "artist": "Kansas",
+    "date": "1244643550",
+    "date_text": "10 Jun 2009, 14:19"
+  },
+  {
+    "name": "Well Well Well",
+    "artist": "John Lennon",
+    "date": "1244478360",
+    "date_text": "08 Jun 2009, 16:26"
+  },
+  {
+    "name": "Revolution",
+    "artist": "Arrested Development",
+    "date": "1244477443",
+    "date_text": "08 Jun 2009, 16:10"
+  },
+  {
+    "name": "RV",
+    "artist": "Faith No More",
+    "date": "1244477109",
+    "date_text": "08 Jun 2009, 16:05"
+  },
+  {
+    "name": "Us V Them (Any Color U Like Remix By Windsurf)",
+    "artist": "LCD Soundsystem",
+    "date": "1244419532",
+    "date_text": "08 Jun 2009, 00:05"
+  },
+  {
+    "name": "We Come One",
+    "artist": "Faithless",
+    "date": "1244416813",
+    "date_text": "07 Jun 2009, 23:20"
+  },
+  {
+    "name": "Girls & Boys",
+    "artist": "Blur",
+    "date": "1244409042",
+    "date_text": "07 Jun 2009, 21:10"
+  },
+  {
+    "name": "Sorrow Throughout The Nine Worlds",
+    "artist": "Amon Amarth",
+    "date": "1244407670",
+    "date_text": "07 Jun 2009, 20:47"
+  },
+  {
+    "name": "Start All Over Again",
+    "artist": "Van Morrison",
+    "date": "1244406605",
+    "date_text": "07 Jun 2009, 20:30"
+  },
+  {
+    "name": "Terroromans",
+    "artist": "Muchy",
+    "date": "1244400631",
+    "date_text": "07 Jun 2009, 18:50"
+  },
+  {
+    "name": "Ghetto Defendant",
+    "artist": "The Clash",
+    "date": "1244395470",
+    "date_text": "07 Jun 2009, 17:24"
+  },
+  {
+    "name": "See-Line Woman (Masters At Work Remix)",
+    "artist": "Nina Simone",
+    "date": "1244390760",
+    "date_text": "07 Jun 2009, 16:06"
+  },
+  {
+    "name": "Blood Makes Noise",
+    "artist": "Suzanne Vega",
+    "date": "1244388587",
+    "date_text": "07 Jun 2009, 15:29"
+  },
+  {
+    "name": "Things You Said",
+    "artist": "Depeche Mode",
+    "date": "1244385288",
+    "date_text": "07 Jun 2009, 14:34"
+  },
+  {
+    "name": "Gotoburg Jacks",
+    "artist": "Legowelt",
+    "date": "1244384677",
+    "date_text": "07 Jun 2009, 14:24"
+  },
+  {
+    "name": "Gangsta Gangsta",
+    "artist": "N.W.A",
+    "date": "1244346842",
+    "date_text": "07 Jun 2009, 03:54"
+  },
+  {
+    "name": "Better Must Come",
+    "artist": "Delroy Wilson",
+    "date": "1244346837",
+    "date_text": "07 Jun 2009, 03:53"
+  },
+  {
+    "name": "Maritime",
+    "artist": "Isis",
+    "date": "1244345795",
+    "date_text": "07 Jun 2009, 03:36"
+  },
+  {
+    "name": "Suffragette City",
+    "artist": "David Bowie",
+    "date": "1244345787",
+    "date_text": "07 Jun 2009, 03:36"
+  },
+  {
+    "name": "Untitled 3",
+    "artist": "California Stories Uncovered",
+    "date": "1244345463",
+    "date_text": "07 Jun 2009, 03:31"
+  },
+  {
+    "name": "The Snake Pit",
+    "artist": "Betty X",
+    "date": "1244344929",
+    "date_text": "07 Jun 2009, 03:22"
+  },
+  {
+    "name": "Mutter",
+    "artist": "Rammstein",
+    "date": "1244344695",
+    "date_text": "07 Jun 2009, 03:18"
+  },
+  {
+    "name": "DARE",
+    "artist": "Gorillaz",
+    "date": "1244344190",
+    "date_text": "07 Jun 2009, 03:09"
+  },
+  {
+    "name": "Guns of Navarone",
+    "artist": "The Skatalites",
+    "date": "1244342716",
+    "date_text": "07 Jun 2009, 02:45"
+  },
+  {
+    "name": "Spoiled",
+    "artist": "Sebadoh",
+    "date": "1244342570",
+    "date_text": "07 Jun 2009, 02:42"
+  },
+  {
+    "name": "Swimming Pool",
+    "artist": "Legowelt",
+    "date": "1244323975",
+    "date_text": "06 Jun 2009, 21:32"
+  },
+  {
+    "name": "Solsbury Hill",
+    "artist": "Peter Gabriel",
+    "date": "1244321544",
+    "date_text": "06 Jun 2009, 20:52"
+  },
+  {
+    "name": "Jigsaw Falling Into Place",
+    "artist": "Radiohead",
+    "date": "1244320790",
+    "date_text": "06 Jun 2009, 20:39"
+  },
+  {
+    "name": "Walls",
+    "artist": "Beck",
+    "date": "1244320113",
+    "date_text": "06 Jun 2009, 20:28"
+  },
+  {
+    "name": "Air Dance",
+    "artist": "Black Sabbath",
+    "date": "1244318809",
+    "date_text": "06 Jun 2009, 20:06"
+  },
+  {
+    "name": "A Caress of Stars",
+    "artist": "Tiamat",
+    "date": "1244315708",
+    "date_text": "06 Jun 2009, 19:15"
+  },
+  {
+    "name": "Love Will Tear Us Apart",
+    "artist": "Joy Division",
+    "date": "1244308807",
+    "date_text": "06 Jun 2009, 17:20"
+  },
+  {
+    "name": "Wolny nar\u00f3d",
+    "artist": "Izrael",
+    "date": "1244303673",
+    "date_text": "06 Jun 2009, 15:54"
+  },
+  {
+    "name": "Under the Oak",
+    "artist": "Candlemass",
+    "date": "1244303630",
+    "date_text": "06 Jun 2009, 15:53"
+  },
+  {
+    "name": "Night Nurse",
+    "artist": "Gregory Isaacs",
+    "date": "1244303452",
+    "date_text": "06 Jun 2009, 15:50"
+  },
+  {
+    "name": "I'm Broken",
+    "artist": "Pantera",
+    "date": "1244303399",
+    "date_text": "06 Jun 2009, 15:49"
+  },
+  {
+    "name": "Robots",
+    "artist": "Balanescu Quartet",
+    "date": "1244303340",
+    "date_text": "06 Jun 2009, 15:49"
+  },
+  {
+    "name": "This Mess We're In",
+    "artist": "PJ Harvey",
+    "date": "1244300874",
+    "date_text": "06 Jun 2009, 15:07"
+  },
+  {
+    "name": "Lasy Pomorza",
+    "artist": "Behemoth",
+    "date": "1244300795",
+    "date_text": "06 Jun 2009, 15:06"
+  },
+  {
+    "name": "Jesus Walks",
+    "artist": "Kanye West",
+    "date": "1244299965",
+    "date_text": "06 Jun 2009, 14:52"
+  },
+  {
+    "name": "Here And Beyond",
+    "artist": "Behemoth",
+    "date": "1244299834",
+    "date_text": "06 Jun 2009, 14:50"
+  },
+  {
+    "name": "Too Far Gone",
+    "artist": "Tiamat",
+    "date": "1244129277",
+    "date_text": "04 Jun 2009, 15:27"
+  },
+  {
+    "name": "Agoraphobia",
+    "artist": "Incubus",
+    "date": "1244128746",
+    "date_text": "04 Jun 2009, 15:19"
+  },
+  {
+    "name": "Figaro",
+    "artist": "Madvillain",
+    "date": "1243790146",
+    "date_text": "31 May 2009, 17:15"
+  },
+  {
+    "name": "beck - odelay - 02 - hotwax",
+    "artist": "Beck",
+    "date": "1243784255",
+    "date_text": "31 May 2009, 15:37"
+  },
+  {
+    "name": "Defocus",
+    "artist": "Amon Tobin",
+    "date": "1243660749",
+    "date_text": "30 May 2009, 05:19"
+  },
+  {
+    "name": "Out of Space",
+    "artist": "The Prodigy",
+    "date": "1243660582",
+    "date_text": "30 May 2009, 05:16"
+  },
+  {
+    "name": "L.A. Woman",
+    "artist": "The Doors",
+    "date": "1243660481",
+    "date_text": "30 May 2009, 05:14"
+  },
+  {
+    "name": "Gotta Get Away",
+    "artist": "The Offspring",
+    "date": "1243659812",
+    "date_text": "30 May 2009, 05:03"
+  },
+  {
+    "name": "Jenny's Theme",
+    "artist": "The Folk Implosion",
+    "date": "1243659694",
+    "date_text": "30 May 2009, 05:01"
+  },
+  {
+    "name": "Mistadobalina",
+    "artist": "Del Tha Funkee Homosapien",
+    "date": "1243654179",
+    "date_text": "30 May 2009, 03:29"
+  },
+  {
+    "name": "Stupid Girl",
+    "artist": "Garbage",
+    "date": "1243644096",
+    "date_text": "30 May 2009, 00:41"
+  },
+  {
+    "name": "Totalna militaryzacja",
+    "artist": "Kult",
+    "date": "1243635237",
+    "date_text": "29 May 2009, 22:13"
+  },
+  {
+    "name": "Threshold of Transformation",
+    "artist": "Isis",
+    "date": "1243608577",
+    "date_text": "29 May 2009, 14:49"
+  },
+  {
+    "name": "At the River",
+    "artist": "Groove Armada",
+    "date": "1243608573",
+    "date_text": "29 May 2009, 14:49"
+  },
+  {
+    "name": "Cardiac Arrest",
+    "artist": "Madness",
+    "date": "1243525677",
+    "date_text": "28 May 2009, 15:47"
+  },
+  {
+    "name": "Before the Dawn",
+    "artist": "Judas Priest",
+    "date": "1243523051",
+    "date_text": "28 May 2009, 15:04"
+  },
+  {
+    "name": "Collision",
+    "artist": "Faith No More",
+    "date": "1243522268",
+    "date_text": "28 May 2009, 14:51"
+  },
+  {
+    "name": "The Future Sound of Music",
+    "artist": "Ulver",
+    "date": "1243522097",
+    "date_text": "28 May 2009, 14:48"
+  },
+  {
+    "name": "Ta Det Lugnt",
+    "artist": "Dungen",
+    "date": "1243521627",
+    "date_text": "28 May 2009, 14:40"
+  },
+  {
+    "name": "Belladonna",
+    "artist": "Red Snapper",
+    "date": "1243521393",
+    "date_text": "28 May 2009, 14:36"
+  },
+  {
+    "name": "Supersonic Journey",
+    "artist": "Satyricon",
+    "date": "1243475774",
+    "date_text": "28 May 2009, 01:56"
+  },
+  {
+    "name": "Fools",
+    "artist": "Depeche Mode",
+    "date": "1243471973",
+    "date_text": "28 May 2009, 00:52"
+  },
+  {
+    "name": "Zos Kia Cultus",
+    "artist": "Behemoth",
+    "date": "1243471665",
+    "date_text": "28 May 2009, 00:47"
+  },
+  {
+    "name": "Apple of Sodom",
+    "artist": "Marilyn Manson",
+    "date": "1243471222",
+    "date_text": "28 May 2009, 00:40"
+  },
+  {
+    "name": "Machines R Us",
+    "artist": "Faithless",
+    "date": "1243470967",
+    "date_text": "28 May 2009, 00:36"
+  },
+  {
+    "name": "You Talk Too Much",
+    "artist": "Run-D.M.C.",
+    "date": "1243468578",
+    "date_text": "27 May 2009, 23:56"
+  },
+  {
+    "name": "Ex-Factor",
+    "artist": "Lauryn Hill",
+    "date": "1243468361",
+    "date_text": "27 May 2009, 23:52"
+  },
+  {
+    "name": "Red Angel Dragnet",
+    "artist": "The Clash",
+    "date": "1243458655",
+    "date_text": "27 May 2009, 21:10"
+  },
+  {
+    "name": "I Cross The Rubicon",
+    "artist": "Army of Lovers",
+    "date": "1243457011",
+    "date_text": "27 May 2009, 20:43"
+  },
+  {
+    "name": "Festival",
+    "artist": "Dungen",
+    "date": "1243446273",
+    "date_text": "27 May 2009, 17:44"
+  },
+  {
+    "name": "Precious",
+    "artist": "Depeche Mode",
+    "date": "1243440057",
+    "date_text": "27 May 2009, 16:00"
+  },
+  {
+    "name": "Passover",
+    "artist": "Joy Division",
+    "date": "1243365520",
+    "date_text": "26 May 2009, 19:18"
+  },
+  {
+    "name": "Dla ciebie",
+    "artist": "Myslovitz",
+    "date": "1243359548",
+    "date_text": "26 May 2009, 17:39"
+  },
+  {
+    "name": "Dead Souls",
+    "artist": "Nine Inch Nails",
+    "date": "1243356050",
+    "date_text": "26 May 2009, 16:40"
+  },
+  {
+    "name": "Udana transakcja",
+    "artist": "Kult",
+    "date": "1243354556",
+    "date_text": "26 May 2009, 16:15"
+  },
+  {
+    "name": "We All Float",
+    "artist": "Hooverphonic",
+    "date": "1243119106",
+    "date_text": "23 May 2009, 22:51"
+  },
+  {
+    "name": "Decade Of Therion",
+    "artist": "Behemoth",
+    "date": "1243119016",
+    "date_text": "23 May 2009, 22:50"
+  },
+  {
+    "name": "From Out of Nowhere",
+    "artist": "Faith No More",
+    "date": "1242749980",
+    "date_text": "19 May 2009, 16:19"
+  },
+  {
+    "name": "Monument",
+    "artist": "Depeche Mode",
+    "date": "1242749787",
+    "date_text": "19 May 2009, 16:16"
+  },
+  {
+    "name": "Kometenmelodie 1",
+    "artist": "Kraftwerk",
+    "date": "1242749757",
+    "date_text": "19 May 2009, 16:15"
+  },
+  {
+    "name": "False Light",
+    "artist": "Isis",
+    "date": "1242660561",
+    "date_text": "18 May 2009, 15:29"
+  },
+  {
+    "name": "Slow Like Honey",
+    "artist": "Fiona Apple",
+    "date": "1242660548",
+    "date_text": "18 May 2009, 15:29"
+  },
+  {
+    "name": "...And the Great Cold Death of the Earth",
+    "artist": "Agalloch",
+    "date": "1242660535",
+    "date_text": "18 May 2009, 15:28"
+  },
+  {
+    "name": "The Watchtower",
+    "artist": "Darkthrone",
+    "date": "1242660528",
+    "date_text": "18 May 2009, 15:28"
+  },
+  {
+    "name": "A Small Victory",
+    "artist": "Faith No More",
+    "date": "1242660301",
+    "date_text": "18 May 2009, 15:25"
+  },
+  {
+    "name": "Children of the Grave",
+    "artist": "Black Sabbath",
+    "date": "1242659336",
+    "date_text": "18 May 2009, 15:08"
+  },
+  {
+    "name": "Assassin (Chocolate Hills Of Bohol Mix)",
+    "artist": "The Orb",
+    "date": "1242658836",
+    "date_text": "18 May 2009, 15:00"
+  },
+  {
+    "name": "Death or Glory",
+    "artist": "The Clash",
+    "date": "1242657199",
+    "date_text": "18 May 2009, 14:33"
+  },
+  {
+    "name": "For Your Love",
+    "artist": "The Yardbirds",
+    "date": "1242656908",
+    "date_text": "18 May 2009, 14:28"
+  },
+  {
+    "name": "I Ain't Gonna Stand For It",
+    "artist": "Stevie Wonder",
+    "date": "1242656314",
+    "date_text": "18 May 2009, 14:18"
+  },
+  {
+    "name": "Cohkka",
+    "artist": "Apocalyptica",
+    "date": "1242502022",
+    "date_text": "16 May 2009, 19:27"
+  },
+  {
+    "name": "Don't Leave",
+    "artist": "Faithless",
+    "date": "1242501107",
+    "date_text": "16 May 2009, 19:11"
+  },
+  {
+    "name": "Magic Moments",
+    "artist": "Perry Como",
+    "date": "1242501038",
+    "date_text": "16 May 2009, 19:10"
+  },
+  {
+    "name": "36 Degrees",
+    "artist": "Placebo",
+    "date": "1242500468",
+    "date_text": "16 May 2009, 19:01"
+  },
+  {
+    "name": "Acid Moon",
+    "artist": "Juno Reactor",
+    "date": "1242498494",
+    "date_text": "16 May 2009, 18:28"
+  },
+  {
+    "name": "Township Rebellion",
+    "artist": "Rage Against the Machine",
+    "date": "1242494332",
+    "date_text": "16 May 2009, 17:18"
+  },
+  {
+    "name": "As Above So Below",
+    "artist": "Behemoth",
+    "date": "1242494013",
+    "date_text": "16 May 2009, 17:13"
+  },
+  {
+    "name": "A Premonition",
+    "artist": "Katatonia",
+    "date": "1242492362",
+    "date_text": "16 May 2009, 16:46"
+  },
+  {
+    "name": "Children Of The Grave",
+    "artist": "White Zombie",
+    "date": "1242491450",
+    "date_text": "16 May 2009, 16:30"
+  },
+  {
+    "name": "Into the Void",
+    "artist": "Black Sabbath",
+    "date": "1242490879",
+    "date_text": "16 May 2009, 16:21"
+  },
+  {
+    "name": "The Wizard",
+    "artist": "Bullring Brummies",
+    "date": "1242490543",
+    "date_text": "16 May 2009, 16:15"
+  },
+  {
+    "name": "Veridis Quo",
+    "artist": "Daft Punk",
+    "date": "1242488862",
+    "date_text": "16 May 2009, 15:47"
+  },
+  {
+    "name": "Sister Blister",
+    "artist": "Alanis Morissette",
+    "date": "1242488433",
+    "date_text": "16 May 2009, 15:40"
+  },
+  {
+    "name": "Cinder and Smoke",
+    "artist": "Iron & Wine",
+    "date": "1242486173",
+    "date_text": "16 May 2009, 15:02"
+  },
+  {
+    "name": "Tristesses De La Lune",
+    "artist": "Celtic Frost",
+    "date": "1242485995",
+    "date_text": "16 May 2009, 14:59"
+  },
+  {
+    "name": "Muscle Of Love",
+    "artist": "Alice Cooper",
+    "date": "1242485868",
+    "date_text": "16 May 2009, 14:57"
+  },
+  {
+    "name": "Search and Destroy",
+    "artist": "The Stooges",
+    "date": "1242485831",
+    "date_text": "16 May 2009, 14:57"
+  },
+  {
+    "name": "Chainsaw Gutsfuck",
+    "artist": "Mayhem",
+    "date": "1242485822",
+    "date_text": "16 May 2009, 14:57"
+  },
+  {
+    "name": "Dinosaur's Lament",
+    "artist": "African Head Charge",
+    "date": "1242484959",
+    "date_text": "16 May 2009, 14:42"
+  },
+  {
+    "name": "Run On",
+    "artist": "Moby",
+    "date": "1242484682",
+    "date_text": "16 May 2009, 14:38"
+  },
+  {
+    "name": "Solitude",
+    "artist": "Candlemass",
+    "date": "1242484452",
+    "date_text": "16 May 2009, 14:34"
+  },
+  {
+    "name": "I Break",
+    "artist": "Katatonia",
+    "date": "1242483836",
+    "date_text": "16 May 2009, 14:23"
+  },
+  {
+    "name": "Duck Seazon",
+    "artist": "Wu-Tang Clan",
+    "date": "1242483815",
+    "date_text": "16 May 2009, 14:23"
+  },
+  {
+    "name": "Phantasma De Luxe",
+    "artist": "Tiamat",
+    "date": "1242483808",
+    "date_text": "16 May 2009, 14:23"
+  },
+  {
+    "name": "Taper Jean Girl",
+    "artist": "Kings of Leon",
+    "date": "1242483800",
+    "date_text": "16 May 2009, 14:23"
+  },
+  {
+    "name": "Accordion",
+    "artist": "Madvillain",
+    "date": "1242483795",
+    "date_text": "16 May 2009, 14:23"
+  },
+  {
+    "name": "The Departure",
+    "artist": "Michael Nyman",
+    "date": "1242483785",
+    "date_text": "16 May 2009, 14:23"
+  },
+  {
+    "name": "Harm of Will",
+    "artist": "Bj\u00f6rk",
+    "date": "1242483643",
+    "date_text": "16 May 2009, 14:20"
+  },
+  {
+    "name": "Mouth for War",
+    "artist": "Pantera",
+    "date": "1242482872",
+    "date_text": "16 May 2009, 14:07"
+  },
+  {
+    "name": "Hallways of Enchanted Ebony",
+    "artist": "Agalloch",
+    "date": "1242482803",
+    "date_text": "16 May 2009, 14:06"
+  },
+  {
+    "name": "Die, Die My Darling",
+    "artist": "Metallica",
+    "date": "1242434876",
+    "date_text": "16 May 2009, 00:47"
+  },
+  {
+    "name": "Du Riechst So Gut",
+    "artist": "Rammstein",
+    "date": "1242406858",
+    "date_text": "15 May 2009, 17:00"
+  },
+  {
+    "name": "The Painter",
+    "artist": "Neil Young",
+    "date": "1242405922",
+    "date_text": "15 May 2009, 16:45"
+  },
+  {
+    "name": "Candy",
+    "artist": "Morphine",
+    "date": "1242404822",
+    "date_text": "15 May 2009, 16:27"
+  },
+  {
+    "name": "Dressed in Black",
+    "artist": "Depeche Mode",
+    "date": "1242403966",
+    "date_text": "15 May 2009, 16:12"
+  },
+  {
+    "name": "Tomb Of Insomnia",
+    "artist": "Katatonia",
+    "date": "1242403239",
+    "date_text": "15 May 2009, 16:00"
+  },
+  {
+    "name": "Eradication Instincts Defined",
+    "artist": "Dimmu Borgir",
+    "date": "1242402590",
+    "date_text": "15 May 2009, 15:49"
+  },
+  {
+    "name": "Drain You",
+    "artist": "Nirvana",
+    "date": "1242401724",
+    "date_text": "15 May 2009, 15:35"
+  },
+  {
+    "name": "Studenci",
+    "artist": "Kult",
+    "date": "1242401461",
+    "date_text": "15 May 2009, 15:31"
+  },
+  {
+    "name": "Symptom Of The Universe",
+    "artist": "Sepultura",
+    "date": "1242319238",
+    "date_text": "14 May 2009, 16:40"
+  },
+  {
+    "name": "The World Is Mine (Radio Edit)",
+    "artist": "David Guetta",
+    "date": "1242315400",
+    "date_text": "14 May 2009, 15:36"
+  },
+  {
+    "name": "Mieszkam w Polsce",
+    "artist": "Kult",
+    "date": "1242314993",
+    "date_text": "14 May 2009, 15:29"
+  },
+  {
+    "name": "Breath of Life",
+    "artist": "Erasure",
+    "date": "1242314976",
+    "date_text": "14 May 2009, 15:29"
+  },
+  {
+    "name": "Strangers",
+    "artist": "Portishead",
+    "date": "1242314559",
+    "date_text": "14 May 2009, 15:22"
+  },
+  {
+    "name": "Newly Arrived from Poland",
+    "artist": "Skalpel",
+    "date": "1242313935",
+    "date_text": "14 May 2009, 15:12"
+  },
+  {
+    "name": "Time Is On My Side",
+    "artist": "Irma Thomas",
+    "date": "1242228974",
+    "date_text": "13 May 2009, 15:36"
+  },
+  {
+    "name": "I Walk On Guilded Splinters",
+    "artist": "Dr. John",
+    "date": "1241642568",
+    "date_text": "06 May 2009, 20:42"
+  },
+  {
+    "name": "Watching the Wheels",
+    "artist": "John Lennon",
+    "date": "1241567689",
+    "date_text": "05 May 2009, 23:54"
+  },
+  {
+    "name": "Heaven (Funkstorung Mix)",
+    "artist": "Lamb",
+    "date": "1241567036",
+    "date_text": "05 May 2009, 23:43"
+  },
+  {
+    "name": "Trans-Europe Express",
+    "artist": "Kraftwerk",
+    "date": "1241564881",
+    "date_text": "05 May 2009, 23:08"
+  },
+  {
+    "name": "Restless Oblivion",
+    "artist": "Anathema",
+    "date": "1241564503",
+    "date_text": "05 May 2009, 23:01"
+  },
+  {
+    "name": "Over and Over",
+    "artist": "Morcheeba",
+    "date": "1241563274",
+    "date_text": "05 May 2009, 22:41"
+  },
+  {
+    "name": "Sabbath Bloody Sabbath",
+    "artist": "Amon Amarth",
+    "date": "1241562986",
+    "date_text": "05 May 2009, 22:36"
+  },
+  {
+    "name": "It Could Be Sweet",
+    "artist": "Portishead",
+    "date": "1241562643",
+    "date_text": "05 May 2009, 22:30"
+  },
+  {
+    "name": "The Invisible Man",
+    "artist": "Queen",
+    "date": "1241562618",
+    "date_text": "05 May 2009, 22:30"
+  },
+  {
+    "name": "Intro",
+    "artist": "Gorillaz",
+    "date": "1241560321",
+    "date_text": "05 May 2009, 21:52"
+  },
+  {
+    "name": "Too Long",
+    "artist": "Daft Punk",
+    "date": "1241560317",
+    "date_text": "05 May 2009, 21:51"
+  },
+  {
+    "name": "Rehab",
+    "artist": "Amy Winehouse",
+    "date": "1241557660",
+    "date_text": "05 May 2009, 21:07"
+  },
+  {
+    "name": "Good Day",
+    "artist": "The Dresden Dolls",
+    "date": "1241557446",
+    "date_text": "05 May 2009, 21:04"
+  },
+  {
+    "name": "Group Four",
+    "artist": "Massive Attack",
+    "date": "1241556937",
+    "date_text": "05 May 2009, 20:55"
+  },
+  {
+    "name": "Whatever That Hurts",
+    "artist": "Tiamat",
+    "date": "1241555351",
+    "date_text": "05 May 2009, 20:29"
+  },
+  {
+    "name": "I'll Fly Away",
+    "artist": "Kanye West",
+    "date": "1241555001",
+    "date_text": "05 May 2009, 20:23"
+  },
+  {
+    "name": "The Lodge (Dismantled)",
+    "artist": "Agalloch",
+    "date": "1241554989",
+    "date_text": "05 May 2009, 20:23"
+  },
+  {
+    "name": "From Off to On",
+    "artist": "The Knife",
+    "date": "1241554863",
+    "date_text": "05 May 2009, 20:21"
+  },
+  {
+    "name": "Drag the Waters",
+    "artist": "Pantera",
+    "date": "1241554539",
+    "date_text": "05 May 2009, 20:15"
+  },
+  {
+    "name": "Rudie Can't Fail",
+    "artist": "The Clash",
+    "date": "1241553643",
+    "date_text": "05 May 2009, 20:00"
+  },
+  {
+    "name": "Blister In The Sun",
+    "artist": "Violent Femmes",
+    "date": "1241553491",
+    "date_text": "05 May 2009, 19:58"
+  },
+  {
+    "name": "Antichristian Phenomenon",
+    "artist": "Behemoth",
+    "date": "1241542933",
+    "date_text": "05 May 2009, 17:02"
+  },
+  {
+    "name": "Milk It",
+    "artist": "Nirvana",
+    "date": "1241542929",
+    "date_text": "05 May 2009, 17:02"
+  },
+  {
+    "name": "Radio/Video",
+    "artist": "System of a Down",
+    "date": "1241542668",
+    "date_text": "05 May 2009, 16:57"
+  },
+  {
+    "name": "Zgroza",
+    "artist": "Kult",
+    "date": "1241461197",
+    "date_text": "04 May 2009, 18:19"
+  },
+  {
+    "name": "Four Seasons in One Day",
+    "artist": "Crowded House",
+    "date": "1240414240",
+    "date_text": "22 Apr 2009, 15:30"
+  },
+  {
+    "name": "93 'til Infinity",
+    "artist": "Souls of Mischief",
+    "date": "1240414044",
+    "date_text": "22 Apr 2009, 15:27"
+  },
+  {
+    "name": "S\u0142owo",
+    "artist": "Jamal",
+    "date": "1240412829",
+    "date_text": "22 Apr 2009, 15:07"
+  },
+  {
+    "name": "Inoculated City",
+    "artist": "The Clash",
+    "date": "1240412589",
+    "date_text": "22 Apr 2009, 15:03"
+  },
+  {
+    "name": "Karma Police",
+    "artist": "Radiohead",
+    "date": "1240411352",
+    "date_text": "22 Apr 2009, 14:42"
+  },
+  {
+    "name": "Bathroom Girl",
+    "artist": "Air",
+    "date": "1240411325",
+    "date_text": "22 Apr 2009, 14:42"
+  },
+  {
+    "name": "Cars Hiss by My Window",
+    "artist": "The Doors",
+    "date": "1240327021",
+    "date_text": "21 Apr 2009, 15:17"
+  },
+  {
+    "name": "Tarantula",
+    "artist": "The Smashing Pumpkins",
+    "date": "1240326549",
+    "date_text": "21 Apr 2009, 15:09"
+  },
+  {
+    "name": "Happy Birthday",
+    "artist": "Stevie Wonder",
+    "date": "1240266249",
+    "date_text": "20 Apr 2009, 22:24"
+  },
+  {
+    "name": "Candidate",
+    "artist": "Joy Division",
+    "date": "1240264217",
+    "date_text": "20 Apr 2009, 21:50"
+  },
+  {
+    "name": "By\u201ca\u02db Serca Biciem",
+    "artist": "Andrzej Zaucha",
+    "date": "1240252096",
+    "date_text": "20 Apr 2009, 18:28"
+  },
+  {
+    "name": "The Things You Said",
+    "artist": "Depeche Mode",
+    "date": "1240251307",
+    "date_text": "20 Apr 2009, 18:15"
+  },
+  {
+    "name": "Spr\u00f3buj Mnie Dogoni\u00e6",
+    "artist": "Andrzej Zaucha",
+    "date": "1240175624",
+    "date_text": "19 Apr 2009, 21:13"
+  },
+  {
+    "name": "Warszawa",
+    "artist": "T.Love",
+    "date": "1240174813",
+    "date_text": "19 Apr 2009, 21:00"
+  },
+  {
+    "name": "Motorniczy",
+    "artist": "T.Love",
+    "date": "1240173271",
+    "date_text": "19 Apr 2009, 20:34"
+  },
+  {
+    "name": "Vasoline",
+    "artist": "Stone Temple Pilots",
+    "date": "1240159924",
+    "date_text": "19 Apr 2009, 16:52"
+  },
+  {
+    "name": "Better Things",
+    "artist": "Massive Attack",
+    "date": "1240158619",
+    "date_text": "19 Apr 2009, 16:30"
+  },
+  {
+    "name": "Guaranteed",
+    "artist": "Eddie Vedder",
+    "date": "1240157988",
+    "date_text": "19 Apr 2009, 16:19"
+  },
+  {
+    "name": "3 Gwiazdy",
+    "artist": "Kult",
+    "date": "1240110918",
+    "date_text": "19 Apr 2009, 03:15"
+  },
+  {
+    "name": "I.D.",
+    "artist": "Kasabian",
+    "date": "1240109216",
+    "date_text": "19 Apr 2009, 02:46"
+  },
+  {
+    "name": "Ziggy Stardust",
+    "artist": "David Bowie",
+    "date": "1240103150",
+    "date_text": "19 Apr 2009, 01:05"
+  },
+  {
+    "name": "F.H.H.",
+    "artist": "RJD2",
+    "date": "1240093535",
+    "date_text": "18 Apr 2009, 22:25"
+  },
+  {
+    "name": "Sacred",
+    "artist": "Depeche Mode",
+    "date": "1240092095",
+    "date_text": "18 Apr 2009, 22:01"
+  },
+  {
+    "name": "Theme From to Kill a Dead Man",
+    "artist": "Portishead",
+    "date": "1240086990",
+    "date_text": "18 Apr 2009, 20:36"
+  },
+  {
+    "name": "God Save the Queen",
+    "artist": "Sex Pistols",
+    "date": "1240086793",
+    "date_text": "18 Apr 2009, 20:33"
+  },
+  {
+    "name": "In the Waiting Line",
+    "artist": "Zero 7",
+    "date": "1240086484",
+    "date_text": "18 Apr 2009, 20:28"
+  },
+  {
+    "name": "But Not Tonight",
+    "artist": "Depeche Mode",
+    "date": "1240085655",
+    "date_text": "18 Apr 2009, 20:14"
+  },
+  {
+    "name": "Romper Stomper",
+    "artist": "Transplants",
+    "date": "1240085630",
+    "date_text": "18 Apr 2009, 20:13"
+  },
+  {
+    "name": "Malcziki",
+    "artist": "Yugoton",
+    "date": "1240085160",
+    "date_text": "18 Apr 2009, 20:06"
+  },
+  {
+    "name": "Never Let Me Down",
+    "artist": "Kanye West",
+    "date": "1240074934",
+    "date_text": "18 Apr 2009, 17:15"
+  },
+  {
+    "name": "Mirror in the Bathroom",
+    "artist": "The Beat",
+    "date": "1239999867",
+    "date_text": "17 Apr 2009, 20:24"
+  },
+  {
+    "name": "Rhymes Galore",
+    "artist": "Busta Rhymes",
+    "date": "1239979035",
+    "date_text": "17 Apr 2009, 14:37"
+  },
+  {
+    "name": "Much Finer",
+    "artist": "Le Tigre",
+    "date": "1239910855",
+    "date_text": "16 Apr 2009, 19:40"
+  },
+  {
+    "name": "Moaner",
+    "artist": "Underworld",
+    "date": "1239910473",
+    "date_text": "16 Apr 2009, 19:34"
+  },
+  {
+    "name": "I Never Loved a Man",
+    "artist": "Kasia Kowalska",
+    "date": "1239910330",
+    "date_text": "16 Apr 2009, 19:32"
+  },
+  {
+    "name": "Peaches en Regalia",
+    "artist": "Frank Zappa",
+    "date": "1239910030",
+    "date_text": "16 Apr 2009, 19:27"
+  },
+  {
+    "name": "Criminals",
+    "artist": "Katatonia",
+    "date": "1239909973",
+    "date_text": "16 Apr 2009, 19:26"
+  },
+  {
+    "name": "Little Sister",
+    "artist": "Queens of the Stone Age",
+    "date": "1239908998",
+    "date_text": "16 Apr 2009, 19:09"
+  },
+  {
+    "name": "Art Bitch",
+    "artist": "Cansei de Ser Sexy",
+    "date": "1239908818",
+    "date_text": "16 Apr 2009, 19:06"
+  },
+  {
+    "name": "Frank Sinatra",
+    "artist": "Miss Kittin & The Hacker",
+    "date": "1239908568",
+    "date_text": "16 Apr 2009, 19:02"
+  },
+  {
+    "name": "Only Love Can Break Your Heart",
+    "artist": "Saint Etienne",
+    "date": "1239907523",
+    "date_text": "16 Apr 2009, 18:45"
+  },
+  {
+    "name": "Soul Meets Body",
+    "artist": "Death Cab for Cutie",
+    "date": "1239907269",
+    "date_text": "16 Apr 2009, 18:41"
+  },
+  {
+    "name": "Give 'Em Hell, Kid",
+    "artist": "My Chemical Romance",
+    "date": "1239899561",
+    "date_text": "16 Apr 2009, 16:32"
+  },
+  {
+    "name": "In Your Memory (Slick mix)",
+    "artist": "Depeche Mode",
+    "date": "1239836205",
+    "date_text": "15 Apr 2009, 22:56"
+  },
+  {
+    "name": "At the River (live at Brixton Academy)",
+    "artist": "Groove Armada",
+    "date": "1239393999",
+    "date_text": "10 Apr 2009, 20:06"
+  },
+  {
+    "name": "It A Fi Burn",
+    "artist": "Josey Wales",
+    "date": "1239393763",
+    "date_text": "10 Apr 2009, 20:02"
+  },
+  {
+    "name": "Civil War",
+    "artist": "Guns N' Roses",
+    "date": "1239392652",
+    "date_text": "10 Apr 2009, 19:44"
+  },
+  {
+    "name": "Fundamentally Loathsome",
+    "artist": "Marilyn Manson",
+    "date": "1239388152",
+    "date_text": "10 Apr 2009, 18:29"
+  },
+  {
+    "name": "Ray Payola",
+    "artist": "Morcheeba",
+    "date": "1239385571",
+    "date_text": "10 Apr 2009, 17:46"
+  },
+  {
+    "name": "I Feel You",
+    "artist": "Depeche Mode",
+    "date": "1239383885",
+    "date_text": "10 Apr 2009, 17:18"
+  },
+  {
+    "name": "Breaking the Law",
+    "artist": "Judas Priest",
+    "date": "1239381571",
+    "date_text": "10 Apr 2009, 16:39"
+  },
+  {
+    "name": "The Return Of The Son Of Nothing",
+    "artist": "Tiamat",
+    "date": "1239289459",
+    "date_text": "09 Apr 2009, 15:04"
+  },
+  {
+    "name": "Heart-Shaped Glasses (When the Heart Guides the Hand)",
+    "artist": "Marilyn Manson",
+    "date": "1239289161",
+    "date_text": "09 Apr 2009, 14:59"
+  },
+  {
+    "name": "Hop a Plane",
+    "artist": "Tegan and Sara",
+    "date": "1238782821",
+    "date_text": "03 Apr 2009, 18:20"
+  },
+  {
+    "name": "Back in Your Head",
+    "artist": "Tegan and Sara",
+    "date": "1238782497",
+    "date_text": "03 Apr 2009, 18:14"
+  },
+  {
+    "name": "Relief Next To Me",
+    "artist": "Tegan and Sara",
+    "date": "1238781871",
+    "date_text": "03 Apr 2009, 18:04"
+  },
+  {
+    "name": "Nineteen",
+    "artist": "Tegan and Sara",
+    "date": "1238781845",
+    "date_text": "03 Apr 2009, 18:04"
+  },
+  {
+    "name": "Peja Slums Attack - Jest Jedna Rzecz",
+    "artist": "Polski Hip Hop",
+    "date": "1238781600",
+    "date_text": "03 Apr 2009, 18:00"
+  },
+  {
+    "name": "Wyrocznia",
+    "artist": "Kat",
+    "date": "1238781464",
+    "date_text": "03 Apr 2009, 17:57"
+  },
+  {
+    "name": "Sucka Nigga",
+    "artist": "A Tribe Called Quest",
+    "date": "1238172747",
+    "date_text": "27 Mar 2009, 16:52"
+  },
+  {
+    "name": "Can I Kick It?",
+    "artist": "A Tribe Called Quest",
+    "date": "1238170303",
+    "date_text": "27 Mar 2009, 16:11"
+  },
+  {
+    "name": "Karma Chameleon",
+    "artist": "Culture Club",
+    "date": "1238170255",
+    "date_text": "27 Mar 2009, 16:10"
+  },
+  {
+    "name": "Leper Messiah",
+    "artist": "Metallica",
+    "date": "1238170152",
+    "date_text": "27 Mar 2009, 16:09"
+  },
+  {
+    "name": "The Day That Never Comes",
+    "artist": "Metallica",
+    "date": "1238167206",
+    "date_text": "27 Mar 2009, 15:20"
+  },
+  {
+    "name": "Loverman",
+    "artist": "Metallica",
+    "date": "1238167185",
+    "date_text": "27 Mar 2009, 15:19"
+  },
+  {
+    "name": "Vicinity of Obscenity",
+    "artist": "System of a Down",
+    "date": "1238080337",
+    "date_text": "26 Mar 2009, 15:12"
+  },
+  {
+    "name": "Progenies of the Great Apocalypse",
+    "artist": "Dimmu Borgir",
+    "date": "1237833206",
+    "date_text": "23 Mar 2009, 18:33"
+  },
+  {
+    "name": "K.I.N.G.",
+    "artist": "Satyricon",
+    "date": "1237583886",
+    "date_text": "20 Mar 2009, 21:18"
+  },
+  {
+    "name": "A Deeper Kind of Slumber",
+    "artist": "Tiamat",
+    "date": "1237583885",
+    "date_text": "20 Mar 2009, 21:18"
+  },
+  {
+    "name": "Someone Great",
+    "artist": "LCD Soundsystem",
+    "date": "1237582141",
+    "date_text": "20 Mar 2009, 20:49"
+  },
+  {
+    "name": "Entrance",
+    "artist": "Dimmu Borgir",
+    "date": "1237569785",
+    "date_text": "20 Mar 2009, 17:23"
+  },
+  {
+    "name": "Space Dog",
+    "artist": "Tori Amos",
+    "date": "1237569781",
+    "date_text": "20 Mar 2009, 17:23"
+  },
+  {
+    "name": "Bossa Per Due",
+    "artist": "Nicola Conte",
+    "date": "1237560381",
+    "date_text": "20 Mar 2009, 14:46"
+  },
+  {
+    "name": "The Beheading of a King",
+    "artist": "Amon Amarth",
+    "date": "1237560374",
+    "date_text": "20 Mar 2009, 14:46"
+  },
+  {
+    "name": "Alala",
+    "artist": "Cansei de Ser Sexy",
+    "date": "1237560357",
+    "date_text": "20 Mar 2009, 14:45"
+  },
+  {
+    "name": "Easy Muffin",
+    "artist": "Amon Tobin",
+    "date": "1237332816",
+    "date_text": "17 Mar 2009, 23:33"
+  },
+  {
+    "name": "Atom Tan",
+    "artist": "The Clash",
+    "date": "1237332661",
+    "date_text": "17 Mar 2009, 23:31"
+  },
+  {
+    "name": "Freedom",
+    "artist": "Rage Against the Machine",
+    "date": "1237332562",
+    "date_text": "17 Mar 2009, 23:29"
+  },
+  {
+    "name": "Butcher Blues",
+    "artist": "Kasabian",
+    "date": "1237331835",
+    "date_text": "17 Mar 2009, 23:17"
+  },
+  {
+    "name": "The Contender",
+    "artist": "Kinobe",
+    "date": "1237224934",
+    "date_text": "16 Mar 2009, 17:35"
+  },
+  {
+    "name": "To The Ends Of The Earth",
+    "artist": "Primordial",
+    "date": "1236811358",
+    "date_text": "11 Mar 2009, 22:42"
+  },
+  {
+    "name": "Numbers",
+    "artist": "Kraftwerk",
+    "date": "1236811347",
+    "date_text": "11 Mar 2009, 22:42"
+  },
+  {
+    "name": "The Bucket",
+    "artist": "Kings of Leon",
+    "date": "1236811344",
+    "date_text": "11 Mar 2009, 22:42"
+  },
+  {
+    "name": "Karmacoma",
+    "artist": "Massive Attack",
+    "date": "1236811338",
+    "date_text": "11 Mar 2009, 22:42"
+  },
+  {
+    "name": "Carry",
+    "artist": "Isis",
+    "date": "1236811328",
+    "date_text": "11 Mar 2009, 22:42"
+  },
+  {
+    "name": "The Dark Forest",
+    "artist": "Behemoth",
+    "date": "1236811324",
+    "date_text": "11 Mar 2009, 22:42"
+  },
+  {
+    "name": "Low",
+    "artist": "Skalpel",
+    "date": "1236811317",
+    "date_text": "11 Mar 2009, 22:41"
+  },
+  {
+    "name": "Is It Medicine",
+    "artist": "The Knife",
+    "date": "1236811058",
+    "date_text": "11 Mar 2009, 22:37"
+  },
+  {
+    "name": "Fire Above, Ice Below",
+    "artist": "Agalloch",
+    "date": "1236811051",
+    "date_text": "11 Mar 2009, 22:37"
+  },
+  {
+    "name": "Heaven Of High",
+    "artist": "Tiamat",
+    "date": "1236811047",
+    "date_text": "11 Mar 2009, 22:37"
+  },
+  {
+    "name": "Ghostwriter",
+    "artist": "RJD2",
+    "date": "1236810873",
+    "date_text": "11 Mar 2009, 22:34"
+  },
+  {
+    "name": "Toy Box",
+    "artist": "Portishead",
+    "date": "1236810867",
+    "date_text": "11 Mar 2009, 22:34"
+  },
+  {
+    "name": "Der Weg ins Freie",
+    "artist": "Einst\u00fcrzende Neubauten",
+    "date": "1236810858",
+    "date_text": "11 Mar 2009, 22:34"
+  },
+  {
+    "name": "Are You Ready for the Country",
+    "artist": "Neil Young",
+    "date": "1236810470",
+    "date_text": "11 Mar 2009, 22:27"
+  },
+  {
+    "name": "Soldier Side",
+    "artist": "System of a Down",
+    "date": "1236799981",
+    "date_text": "11 Mar 2009, 19:33"
+  },
+  {
+    "name": "Helena",
+    "artist": "My Chemical Romance",
+    "date": "1236612265",
+    "date_text": "09 Mar 2009, 15:24"
+  },
+  {
+    "name": "Who Knows",
+    "artist": "Marion Black",
+    "date": "1236286297",
+    "date_text": "05 Mar 2009, 20:51"
+  },
+  {
+    "name": "Tragedy's Birth",
+    "artist": "Primordial",
+    "date": "1236034118",
+    "date_text": "02 Mar 2009, 22:48"
+  },
+  {
+    "name": "End of All Times (Martyrs Fire)",
+    "artist": "Primordial",
+    "date": "1235336675",
+    "date_text": "22 Feb 2009, 21:04"
+  },
+  {
+    "name": "Heathen Tribes",
+    "artist": "Primordial",
+    "date": "1235336208",
+    "date_text": "22 Feb 2009, 20:56"
+  },
+  {
+    "name": "Victorious March",
+    "artist": "Amon Amarth",
+    "date": "1235335832",
+    "date_text": "22 Feb 2009, 20:50"
+  },
+  {
+    "name": "One",
+    "artist": "Lamb",
+    "date": "1235335293",
+    "date_text": "22 Feb 2009, 20:41"
+  },
+  {
+    "name": "Bestrafe Mich",
+    "artist": "Rammstein",
+    "date": "1235335288",
+    "date_text": "22 Feb 2009, 20:41"
+  },
+  {
+    "name": "The Sword",
+    "artist": "Bathory",
+    "date": "1234371878",
+    "date_text": "11 Feb 2009, 17:04"
+  },
+  {
+    "name": "Day",
+    "artist": "Katatonia",
+    "date": "1233170176",
+    "date_text": "28 Jan 2009, 19:16"
+  },
+  {
+    "name": "Mysterons",
+    "artist": "Portishead",
+    "date": "1232814215",
+    "date_text": "24 Jan 2009, 16:23"
+  },
+  {
+    "name": "Gone (feat. Consequence & Cam'ron)",
+    "artist": "Kanye West",
+    "date": "1232813811",
+    "date_text": "24 Jan 2009, 16:16"
+  },
+  {
+    "name": "Rammstein",
+    "artist": "Rammstein",
+    "date": "1232813608",
+    "date_text": "24 Jan 2009, 16:13"
+  },
+  {
+    "name": "Bells of War",
+    "artist": "Wu-Tang Clan",
+    "date": "1232812833",
+    "date_text": "24 Jan 2009, 16:00"
+  },
+  {
+    "name": "Pain",
+    "artist": "Jimmy Eat World",
+    "date": "1231783859",
+    "date_text": "12 Jan 2009, 18:10"
+  },
+  {
+    "name": "Taste in Men",
+    "artist": "Placebo",
+    "date": "1231777117",
+    "date_text": "12 Jan 2009, 16:18"
+  },
+  {
+    "name": "A Pain That I\u201am Used To",
+    "artist": "Depeche Mode",
+    "date": "1231455974",
+    "date_text": "08 Jan 2009, 23:06"
+  },
+  {
+    "name": "But Not Tonight (Extended Remi",
+    "artist": "Depeche Mode",
+    "date": "1231450505",
+    "date_text": "08 Jan 2009, 21:35"
+  },
+  {
+    "name": "See You",
+    "artist": "Depeche Mode",
+    "date": "1231450092",
+    "date_text": "08 Jan 2009, 21:28"
+  },
+  {
+    "name": "Destroyer of Worlds",
+    "artist": "Bathory",
+    "date": "1231447002",
+    "date_text": "08 Jan 2009, 20:36"
+  },
+  {
+    "name": "Cashmere Tarmac",
+    "artist": "Xploding Plastix",
+    "date": "1229967273",
+    "date_text": "22 Dec 2008, 17:34"
+  },
+  {
+    "name": "You! Me! Dancing!",
+    "artist": "Los Campesinos!",
+    "date": "1229571572",
+    "date_text": "18 Dec 2008, 03:39"
+  },
+  {
+    "name": "Volcano",
+    "artist": "Beck",
+    "date": "1229563550",
+    "date_text": "18 Dec 2008, 01:25"
+  },
+  {
+    "name": "14. radio",
+    "artist": "R\u00f3\u017ce Europy",
+    "date": "1229050529",
+    "date_text": "12 Dec 2008, 02:55"
+  },
+  {
+    "name": "Cold Dark World",
+    "artist": "Weezer",
+    "date": "1228926371",
+    "date_text": "10 Dec 2008, 16:26"
+  },
+  {
+    "name": "Love Song",
+    "artist": "Sara Bareilles",
+    "date": "1228925888",
+    "date_text": "10 Dec 2008, 16:18"
+  },
+  {
+    "name": "My Manic and I",
+    "artist": "Laura Marling",
+    "date": "1228925643",
+    "date_text": "10 Dec 2008, 16:14"
+  },
+  {
+    "name": "Tripwire",
+    "artist": "Xploding Plastix",
+    "date": "1228680338",
+    "date_text": "07 Dec 2008, 20:05"
+  },
+  {
+    "name": "Siegreicher Marsch",
+    "artist": "Amon Amarth",
+    "date": "1228680327",
+    "date_text": "07 Dec 2008, 20:05"
+  },
+  {
+    "name": "Hvis lyset tar oss",
+    "artist": "Burzum",
+    "date": "1228621150",
+    "date_text": "07 Dec 2008, 03:39"
+  },
+  {
+    "name": "Check Yo Self (Feat. Das Efx)",
+    "artist": "Ice Cube",
+    "date": "1228167838",
+    "date_text": "01 Dec 2008, 21:43"
+  },
+  {
+    "name": "Hot Love",
+    "artist": "T. Rex",
+    "date": "1228164772",
+    "date_text": "01 Dec 2008, 20:52"
+  },
+  {
+    "name": "Welcome to the Jungle",
+    "artist": "Guns N' Roses",
+    "date": "1228163763",
+    "date_text": "01 Dec 2008, 20:36"
+  },
+  {
+    "name": "Lounge Act",
+    "artist": "Nirvana",
+    "date": "1228162185",
+    "date_text": "01 Dec 2008, 20:09"
+  },
+  {
+    "name": "Hollow",
+    "artist": "Tricky",
+    "date": "1228161709",
+    "date_text": "01 Dec 2008, 20:01"
+  },
+  {
+    "name": "Kata Rokkar",
+    "artist": "Bj\u00f6rk",
+    "date": "1228154825",
+    "date_text": "01 Dec 2008, 18:07"
+  },
+  {
+    "name": "Jimmy Jazz",
+    "artist": "The Clash",
+    "date": "1227498417",
+    "date_text": "24 Nov 2008, 03:46"
+  },
+  {
+    "name": "Love Her Madly",
+    "artist": "The Doors",
+    "date": "1227498414",
+    "date_text": "24 Nov 2008, 03:46"
+  },
+  {
+    "name": "Natural One",
+    "artist": "The Folk Implosion",
+    "date": "1227498409",
+    "date_text": "24 Nov 2008, 03:46"
+  },
+  {
+    "name": "Settle for Nothing",
+    "artist": "Rage Against the Machine",
+    "date": "1227495336",
+    "date_text": "24 Nov 2008, 02:55"
+  },
+  {
+    "name": "Tata w gestapo",
+    "artist": "Kult",
+    "date": "1227491800",
+    "date_text": "24 Nov 2008, 01:56"
+  },
+  {
+    "name": "(Set Me Free) Remotivate Me",
+    "artist": "Depeche Mode",
+    "date": "1227491797",
+    "date_text": "24 Nov 2008, 01:56"
+  },
+  {
+    "name": "Warto to przetrwa\u0107",
+    "artist": "Jamal",
+    "date": "1227491788",
+    "date_text": "24 Nov 2008, 01:56"
+  },
+  {
+    "name": "Plateau",
+    "artist": "Nirvana",
+    "date": "1227491781",
+    "date_text": "24 Nov 2008, 01:56"
+  },
+  {
+    "name": "English Summer Rain",
+    "artist": "Placebo",
+    "date": "1227486840",
+    "date_text": "24 Nov 2008, 00:34"
+  },
+  {
+    "name": "Enjoy the Silence",
+    "artist": "Depeche Mode",
+    "date": "1227486834",
+    "date_text": "24 Nov 2008, 00:33"
+  },
+  {
+    "name": "Aero Dynamik",
+    "artist": "Kraftwerk",
+    "date": "1227486828",
+    "date_text": "24 Nov 2008, 00:33"
+  },
+  {
+    "name": "Roads",
+    "artist": "Portishead",
+    "date": "1227424949",
+    "date_text": "23 Nov 2008, 07:22"
+  },
+  {
+    "name": "Plate 3",
+    "artist": "Ulver",
+    "date": "1227424940",
+    "date_text": "23 Nov 2008, 07:22"
+  },
+  {
+    "name": "Psychotic Girl",
+    "artist": "The Black Keys",
+    "date": "1227392704",
+    "date_text": "22 Nov 2008, 22:25"
+  },
+  {
+    "name": "I Got Mine",
+    "artist": "The Black Keys",
+    "date": "1227392426",
+    "date_text": "22 Nov 2008, 22:20"
+  },
+  {
+    "name": "Strange Times",
+    "artist": "The Black Keys",
+    "date": "1227392068",
+    "date_text": "22 Nov 2008, 22:14"
+  },
+  {
+    "name": "Oh Me",
+    "artist": "Nirvana",
+    "date": "1226699820",
+    "date_text": "14 Nov 2008, 21:57"
+  },
+  {
+    "name": "How High",
+    "artist": "Tricky",
+    "date": "1226693581",
+    "date_text": "14 Nov 2008, 20:13"
+  },
+  {
+    "name": "Ms. Jackson",
+    "artist": "OutKast",
+    "date": "1226692831",
+    "date_text": "14 Nov 2008, 20:00"
+  },
+  {
+    "name": "Moje miasto",
+    "artist": "Maria Peszek",
+    "date": "1226692281",
+    "date_text": "14 Nov 2008, 19:51"
+  },
+  {
+    "name": "Atrocity Exhibition",
+    "artist": "Joy Division",
+    "date": "1226690164",
+    "date_text": "14 Nov 2008, 19:16"
+  },
+  {
+    "name": "Isolation",
+    "artist": "Joy Division",
+    "date": "1226690157",
+    "date_text": "14 Nov 2008, 19:15"
+  },
+  {
+    "name": "Decades",
+    "artist": "Joy Division",
+    "date": "1226690150",
+    "date_text": "14 Nov 2008, 19:15"
+  },
+  {
+    "name": "Transmission",
+    "artist": "Joy Division",
+    "date": "1226690138",
+    "date_text": "14 Nov 2008, 19:15"
+  },
+  {
+    "name": "Warsaw",
+    "artist": "Joy Division",
+    "date": "1226690133",
+    "date_text": "14 Nov 2008, 19:15"
+  },
+  {
+    "name": "She's Lost Control",
+    "artist": "Joy Division",
+    "date": "1226690109",
+    "date_text": "14 Nov 2008, 19:15"
+  },
+  {
+    "name": "Dead Souls",
+    "artist": "Joy Division",
+    "date": "1226690086",
+    "date_text": "14 Nov 2008, 19:14"
+  },
+  {
+    "name": "Don't Stop Me Now",
+    "artist": "Queen",
+    "date": "1226690080",
+    "date_text": "14 Nov 2008, 19:14"
+  },
+  {
+    "name": "The Alchemist's Dream",
+    "artist": "Behemoth",
+    "date": "1226690073",
+    "date_text": "14 Nov 2008, 19:14"
+  },
+  {
+    "name": "Everything in Its Right Place",
+    "artist": "Radiohead",
+    "date": "1226690069",
+    "date_text": "14 Nov 2008, 19:14"
+  },
+  {
+    "name": "The Whores of Babylon",
+    "artist": "Tiamat",
+    "date": "1226690049",
+    "date_text": "14 Nov 2008, 19:14"
+  },
+  {
+    "name": "Wynona's Big Brown Beaver",
+    "artist": "Primus",
+    "date": "1226690042",
+    "date_text": "14 Nov 2008, 19:14"
+  },
+  {
+    "name": "Shell",
+    "artist": "Arrested Development",
+    "date": "1226689725",
+    "date_text": "14 Nov 2008, 19:08"
+  },
+  {
+    "name": "Odal",
+    "artist": "Agalloch",
+    "date": "1226688276",
+    "date_text": "14 Nov 2008, 18:44"
+  },
+  {
+    "name": "My Melody",
+    "artist": "Eric B. & Rakim",
+    "date": "1226681823",
+    "date_text": "14 Nov 2008, 16:57"
+  },
+  {
+    "name": "Ganja Smuggling",
+    "artist": "Eek-a-Mouse",
+    "date": "1226680409",
+    "date_text": "14 Nov 2008, 16:33"
+  },
+  {
+    "name": "Something to Do",
+    "artist": "Depeche Mode",
+    "date": "1226680250",
+    "date_text": "14 Nov 2008, 16:30"
+  },
+  {
+    "name": "Thousand Years of Oppression",
+    "artist": "Amon Amarth",
+    "date": "1226679717",
+    "date_text": "14 Nov 2008, 16:21"
+  },
+  {
+    "name": "Nattleite",
+    "artist": "Ulver",
+    "date": "1226088607",
+    "date_text": "07 Nov 2008, 20:10"
+  },
+  {
+    "name": "\u00d8stenfor sol og vestenfor maane",
+    "artist": "Ulver",
+    "date": "1226087790",
+    "date_text": "07 Nov 2008, 19:56"
+  },
+  {
+    "name": "Province",
+    "artist": "TV on the Radio",
+    "date": "1225600861",
+    "date_text": "02 Nov 2008, 04:41"
+  },
+  {
+    "name": "Sound Of Silver (c2 rmx rev.3)",
+    "artist": "LCD Soundsystem",
+    "date": "1225123117",
+    "date_text": "27 Oct 2008, 15:58"
+  },
+  {
+    "name": "Sad Statue",
+    "artist": "System of a Down",
+    "date": "1225120414",
+    "date_text": "27 Oct 2008, 15:13"
+  },
+  {
+    "name": "Leave in Silence",
+    "artist": "Depeche Mode",
+    "date": "1225119703",
+    "date_text": "27 Oct 2008, 15:01"
+  },
+  {
+    "name": "Cheap Sunglasses",
+    "artist": "ZZ Top",
+    "date": "1225119401",
+    "date_text": "27 Oct 2008, 14:56"
+  },
+  {
+    "name": "As Rome Burns",
+    "artist": "Primordial",
+    "date": "1224865595",
+    "date_text": "24 Oct 2008, 16:26"
+  },
+  {
+    "name": "Insight",
+    "artist": "Joy Division",
+    "date": "1223570401",
+    "date_text": "09 Oct 2008, 16:40"
+  },
+  {
+    "name": "Numb",
+    "artist": "Portishead",
+    "date": "1223507862",
+    "date_text": "08 Oct 2008, 23:17"
+  },
+  {
+    "name": "It's Oh So Quiet",
+    "artist": "Bj\u00f6rk",
+    "date": "1220807783",
+    "date_text": "07 Sep 2008, 17:16"
+  },
+  {
+    "name": "Among the Lazarae",
+    "artist": "Primordial",
+    "date": "1220807600",
+    "date_text": "07 Sep 2008, 17:13"
+  },
+  {
+    "name": "Coffee & TV",
+    "artist": "Blur",
+    "date": "1220807194",
+    "date_text": "07 Sep 2008, 17:06"
+  },
+  {
+    "name": "Clubbed To Death Kurayamino Variation",
+    "artist": "Rob Dougan",
+    "date": "1220805733",
+    "date_text": "07 Sep 2008, 16:42"
+  },
+  {
+    "name": "Synagoga Satanae",
+    "artist": "Celtic Frost",
+    "date": "1220805468",
+    "date_text": "07 Sep 2008, 16:37"
+  },
+  {
+    "name": "Water Is Not Enough",
+    "artist": "Neurosis",
+    "date": "1220804666",
+    "date_text": "07 Sep 2008, 16:24"
+  },
+  {
+    "name": "Ending Of An Era",
+    "artist": "Midnight Juggernauts",
+    "date": "1220538682",
+    "date_text": "04 Sep 2008, 14:31"
+  },
+  {
+    "name": "In Your Room",
+    "artist": "Depeche Mode",
+    "date": "1220486503",
+    "date_text": "04 Sep 2008, 00:01"
+  },
+  {
+    "name": "A World To Win",
+    "artist": "Gorgoroth",
+    "date": "1220486439",
+    "date_text": "04 Sep 2008, 00:00"
+  },
+  {
+    "name": "Black Planet",
+    "artist": "The Sisters of Mercy",
+    "date": "1220486429",
+    "date_text": "04 Sep 2008, 00:00"
+  },
+  {
+    "name": "Tora! Tora! Tora!",
+    "artist": "Depeche Mode",
+    "date": "1220482807",
+    "date_text": "03 Sep 2008, 23:00"
+  },
+  {
+    "name": "U.S.A.",
+    "artist": "The Exploited",
+    "date": "1220413222",
+    "date_text": "03 Sep 2008, 03:40"
+  },
+  {
+    "name": "So Broken",
+    "artist": "Bj\u00f6rk",
+    "date": "1220402750",
+    "date_text": "03 Sep 2008, 00:45"
+  },
+  {
+    "name": "Woman",
+    "artist": "Wolfmother",
+    "date": "1220402532",
+    "date_text": "03 Sep 2008, 00:42"
+  },
+  {
+    "name": "Down With The King",
+    "artist": "Run-D.M.C.",
+    "date": "1220402204",
+    "date_text": "03 Sep 2008, 00:36"
+  },
+  {
+    "name": "Hooligan Rootz",
+    "artist": "Vavamuffin",
+    "date": "1220401119",
+    "date_text": "03 Sep 2008, 00:18"
+  },
+  {
+    "name": "Failures Burden",
+    "artist": "Primordial",
+    "date": "1215892558",
+    "date_text": "12 Jul 2008, 19:55"
+  },
+  {
+    "name": "Mourning Palace",
+    "artist": "Dimmu Borgir",
+    "date": "1215892435",
+    "date_text": "12 Jul 2008, 19:53"
+  },
+  {
+    "name": "Meeting Paris Hilton",
+    "artist": "Cansei de Ser Sexy",
+    "date": "1215892213",
+    "date_text": "12 Jul 2008, 19:50"
+  },
+  {
+    "name": "Wielb\u0142\u0105d",
+    "artist": "Kabanos",
+    "date": "1215879250",
+    "date_text": "12 Jul 2008, 16:14"
+  },
+  {
+    "name": "Zero Enslaved",
+    "artist": "Enslaved",
+    "date": "1215878277",
+    "date_text": "12 Jul 2008, 15:57"
+  },
+  {
+    "name": "Computer Love",
+    "artist": "Kraftwerk",
+    "date": "1215878043",
+    "date_text": "12 Jul 2008, 15:54"
+  },
+  {
+    "name": "As Above, So Below",
+    "artist": "Klaxons",
+    "date": "1215878039",
+    "date_text": "12 Jul 2008, 15:53"
+  },
+  {
+    "name": "Compute",
+    "artist": "Soulwax",
+    "date": "1215878032",
+    "date_text": "12 Jul 2008, 15:53"
+  },
+  {
+    "name": "Plates 5-6",
+    "artist": "Ulver",
+    "date": "1215531323",
+    "date_text": "08 Jul 2008, 15:35"
+  },
+  {
+    "name": "Nocturama",
+    "artist": "Nick Cave & the Bad Seeds",
+    "date": "1215529508",
+    "date_text": "08 Jul 2008, 15:05"
+  },
+  {
+    "name": "Evergreen",
+    "artist": "Faithless",
+    "date": "1215528336",
+    "date_text": "08 Jul 2008, 14:45"
+  },
+  {
+    "name": "Computerwelt (edit)",
+    "artist": "Kraftwerk",
+    "date": "1215476050",
+    "date_text": "08 Jul 2008, 00:14"
+  },
+  {
+    "name": "Heat Dies Down",
+    "artist": "Kaiser Chiefs",
+    "date": "1215474983",
+    "date_text": "07 Jul 2008, 23:56"
+  },
+  {
+    "name": "Lost in the Supermarket",
+    "artist": "The Clash",
+    "date": "1215474768",
+    "date_text": "07 Jul 2008, 23:52"
+  },
+  {
+    "name": "You Take My Breath Away",
+    "artist": "The Knife",
+    "date": "1215473500",
+    "date_text": "07 Jul 2008, 23:31"
+  },
+  {
+    "name": "Eternal Wait",
+    "artist": "Ensiferum",
+    "date": "1215473211",
+    "date_text": "07 Jul 2008, 23:26"
+  },
+  {
+    "name": "Starter",
+    "artist": "The Cardigans",
+    "date": "1215472968",
+    "date_text": "07 Jul 2008, 23:22"
+  },
+  {
+    "name": "Nine Monks",
+    "artist": "DJ Shadow",
+    "date": "1215472385",
+    "date_text": "07 Jul 2008, 23:13"
+  },
+  {
+    "name": "Touch Me",
+    "artist": "Any Color Black",
+    "date": "1215472368",
+    "date_text": "07 Jul 2008, 23:12"
+  },
+  {
+    "name": "everything",
+    "artist": "The Knife",
+    "date": "1215014503",
+    "date_text": "02 Jul 2008, 16:01"
+  },
+  {
+    "name": "Education Circle",
+    "artist": "Peter Bjorn and John",
+    "date": "1214866678",
+    "date_text": "30 Jun 2008, 22:57"
+  },
+  {
+    "name": "Off the Hook",
+    "artist": "Cansei de Ser Sexy",
+    "date": "1214866026",
+    "date_text": "30 Jun 2008, 22:47"
+  },
+  {
+    "name": "Lost",
+    "artist": "Kreator",
+    "date": "1214694787",
+    "date_text": "28 Jun 2008, 23:13"
+  },
+  {
+    "name": "Where Silent Gods Stand Guard",
+    "artist": "Amon Amarth",
+    "date": "1214683488",
+    "date_text": "28 Jun 2008, 20:04"
+  },
+  {
+    "name": "Black Sabbath",
+    "artist": "Vader",
+    "date": "1214351672",
+    "date_text": "24 Jun 2008, 23:54"
+  },
+  {
+    "name": "Louie Louie",
+    "artist": "The Kingsmen",
+    "date": "1214350798",
+    "date_text": "24 Jun 2008, 23:39"
+  },
+  {
+    "name": "The Tide Is High",
+    "artist": "Blondie",
+    "date": "1214350665",
+    "date_text": "24 Jun 2008, 23:37"
+  },
+  {
+    "name": "Fuckoff Is Not the Only Thing You Have to Show",
+    "artist": "Cansei de Ser Sexy",
+    "date": "1214348654",
+    "date_text": "24 Jun 2008, 23:04"
+  },
+  {
+    "name": "Live",
+    "artist": "The Knife",
+    "date": "1213990209",
+    "date_text": "20 Jun 2008, 19:30"
+  },
+  {
+    "name": "This Month, Day 10",
+    "artist": "Cansei de Ser Sexy",
+    "date": "1213819675",
+    "date_text": "18 Jun 2008, 20:07"
+  },
+  {
+    "name": "Welcome Home",
+    "artist": "Tegan and Sara",
+    "date": "1213811132",
+    "date_text": "18 Jun 2008, 17:45"
+  },
+  {
+    "name": "Tonight, Tonight",
+    "artist": "The Smashing Pumpkins",
+    "date": "1213810788",
+    "date_text": "18 Jun 2008, 17:39"
+  },
+  {
+    "name": "In The Beginning",
+    "artist": "The Stills",
+    "date": "1213810504",
+    "date_text": "18 Jun 2008, 17:35"
+  },
+  {
+    "name": "My Little Brother",
+    "artist": "Art Brut",
+    "date": "1213809783",
+    "date_text": "18 Jun 2008, 17:23"
+  },
+  {
+    "name": "I Believe",
+    "artist": "Simian Mobile Disco",
+    "date": "1213808958",
+    "date_text": "18 Jun 2008, 17:09"
+  },
+  {
+    "name": "Are You The One?",
+    "artist": "The Presets",
+    "date": "1213808941",
+    "date_text": "18 Jun 2008, 17:09"
+  },
+  {
+    "name": "Patins",
+    "artist": "Cansei de Ser Sexy",
+    "date": "1213808194",
+    "date_text": "18 Jun 2008, 16:56"
+  },
+  {
+    "name": "Music Is My Hot Hot Sex",
+    "artist": "Cansei de Ser Sexy",
+    "date": "1213737377",
+    "date_text": "17 Jun 2008, 21:16"
+  },
+  {
+    "name": "Christians To The Lions",
+    "artist": "Behemoth",
+    "date": "1213370103",
+    "date_text": "13 Jun 2008, 15:15"
+  },
+  {
+    "name": "Sir Duke",
+    "artist": "Stevie Wonder",
+    "date": "1213204195",
+    "date_text": "11 Jun 2008, 17:09"
+  },
+  {
+    "name": "Welcome Home (Sanitarium)",
+    "artist": "Metallica",
+    "date": "1213198094",
+    "date_text": "11 Jun 2008, 15:28"
+  },
+  {
+    "name": "Suffer Well",
+    "artist": "Depeche Mode",
+    "date": "1213197848",
+    "date_text": "11 Jun 2008, 15:24"
+  },
+  {
+    "name": "Down In A Rabbit Hole (feat. N",
+    "artist": "Bright Eyes",
+    "date": "1212729040",
+    "date_text": "06 Jun 2008, 05:10"
+  },
+  {
+    "name": "Daydreaming",
+    "artist": "Massive Attack",
+    "date": "1212681949",
+    "date_text": "05 Jun 2008, 16:05"
+  },
+  {
+    "name": "Rock Classics",
+    "artist": "The Knife",
+    "date": "1212681651",
+    "date_text": "05 Jun 2008, 16:00"
+  },
+  {
+    "name": "Losing My Edge",
+    "artist": "LCD Soundsystem",
+    "date": "1212612208",
+    "date_text": "04 Jun 2008, 20:43"
+  },
+  {
+    "name": "It Began In Afrika",
+    "artist": "The Chemical Brothers",
+    "date": "1212611423",
+    "date_text": "04 Jun 2008, 20:30"
+  },
+  {
+    "name": "Make Love",
+    "artist": "Daft Punk",
+    "date": "1212608558",
+    "date_text": "04 Jun 2008, 19:42"
+  },
+  {
+    "name": "The War Song",
+    "artist": "Culture Club",
+    "date": "1212607475",
+    "date_text": "04 Jun 2008, 19:24"
+  },
+  {
+    "name": "My Girl",
+    "artist": "Madness",
+    "date": "1212607470",
+    "date_text": "04 Jun 2008, 19:24"
+  },
+  {
+    "name": "Nebel",
+    "artist": "Rammstein",
+    "date": "1212607155",
+    "date_text": "04 Jun 2008, 19:19"
+  },
+  {
+    "name": "Rapowe Ziarno (Szyderap) (Feat",
+    "artist": "Abradab",
+    "date": "1212606779",
+    "date_text": "04 Jun 2008, 19:12"
+  },
+  {
+    "name": "All That Is Thirst",
+    "artist": "Pati Yang",
+    "date": "1212602404",
+    "date_text": "04 Jun 2008, 18:00"
+  },
+  {
+    "name": "...When Gjallarhorn Will Sound...",
+    "artist": "Falkenbach",
+    "date": "1212602375",
+    "date_text": "04 Jun 2008, 17:59"
+  },
+  {
+    "name": "Wake Up",
+    "artist": "Rage Against the Machine",
+    "date": "1212602368",
+    "date_text": "04 Jun 2008, 17:59"
+  },
+  {
+    "name": "Got the Life",
+    "artist": "Korn",
+    "date": "1212602360",
+    "date_text": "04 Jun 2008, 17:59"
+  },
+  {
+    "name": "Fog",
+    "artist": "Radiohead",
+    "date": "1212601902",
+    "date_text": "04 Jun 2008, 17:51"
+  },
+  {
+    "name": "Na bruku",
+    "artist": "T.Love",
+    "date": "1212593839",
+    "date_text": "04 Jun 2008, 15:37"
+  },
+  {
+    "name": "Madona & Mirwais - Paradise (Daft Punk Edit)",
+    "artist": "Mirwais",
+    "date": "1212441677",
+    "date_text": "02 Jun 2008, 21:21"
+  },
+  {
+    "name": "I Miss You (Dobie Rub Part One, Sunshine mix)",
+    "artist": "Bj\u00f6rk",
+    "date": "1208554821",
+    "date_text": "18 Apr 2008, 21:40"
+  },
+  {
+    "name": "Heart of Gold",
+    "artist": "Neil Young",
+    "date": "1205249097",
+    "date_text": "11 Mar 2008, 15:24"
+  },
+  {
+    "name": "205-Neil_Young_And_Crazy_Horse-Sedan_Delivery-HHI",
+    "artist": "Neil Young & Crazy Horse",
+    "date": "1205249048",
+    "date_text": "11 Mar 2008, 15:24"
+  },
+  {
+    "name": "Johnny B. Goode",
+    "artist": "Chuck Berry",
+    "date": "1201796892",
+    "date_text": "31 Jan 2008, 16:28"
+  },
+  {
+    "name": "The Mercy Seat",
+    "artist": "Johnny Cash",
+    "date": "1201796177",
+    "date_text": "31 Jan 2008, 16:16"
+  },
+  {
+    "name": "Into The Cold Voids Of Eternity",
+    "artist": "Naglfar",
+    "date": "1201724608",
+    "date_text": "30 Jan 2008, 20:23"
+  },
+  {
+    "name": "Wintry Grey",
+    "artist": "Arcturus",
+    "date": "1201637686",
+    "date_text": "29 Jan 2008, 20:14"
+  },
+  {
+    "name": "Snakes On A Plane (Bring It)",
+    "artist": "Cobra Starship",
+    "date": "1201637447",
+    "date_text": "29 Jan 2008, 20:10"
+  },
+  {
+    "name": "Gallows Hymn",
+    "artist": "Primordial",
+    "date": "1201637398",
+    "date_text": "29 Jan 2008, 20:09"
+  },
+  {
+    "name": "Color Me Once",
+    "artist": "Violent Femmes",
+    "date": "1201623415",
+    "date_text": "29 Jan 2008, 16:16"
+  },
+  {
+    "name": "Bambry",
+    "artist": "Homo Twist",
+    "date": "1201038927",
+    "date_text": "22 Jan 2008, 21:55"
+  },
+  {
+    "name": "Fidelity",
+    "artist": "Regina Spektor",
+    "date": "1201018851",
+    "date_text": "22 Jan 2008, 16:20"
+  },
+  {
+    "name": "A Song Of Liberty, Plates 25 - A Song Of Liberty, Plates 25 - 27",
+    "artist": "Ulver",
+    "date": "1200600796",
+    "date_text": "17 Jan 2008, 20:13"
+  },
+  {
+    "name": "Ulvsblakk",
+    "artist": "Ulver",
+    "date": "1200596137",
+    "date_text": "17 Jan 2008, 18:55"
+  },
+  {
+    "name": "How Do U Want It (Feat. KC and",
+    "artist": "2Pac",
+    "date": "1200595818",
+    "date_text": "17 Jan 2008, 18:50"
+  },
+  {
+    "name": "Basket Case",
+    "artist": "Green Day",
+    "date": "1200519806",
+    "date_text": "16 Jan 2008, 21:43"
+  },
+  {
+    "name": "Dotyk",
+    "artist": "Edyta G\u00f3rniak",
+    "date": "1200517402",
+    "date_text": "16 Jan 2008, 21:03"
+  },
+  {
+    "name": "Straight to Hell",
+    "artist": "The Clash",
+    "date": "1200511367",
+    "date_text": "16 Jan 2008, 19:22"
+  },
+  {
+    "name": "Telewizor",
+    "artist": "Paprika Korps",
+    "date": "1200511268",
+    "date_text": "16 Jan 2008, 19:21"
+  },
+  {
+    "name": "Tuistos Herz",
+    "artist": "Burzum",
+    "date": "1200509100",
+    "date_text": "16 Jan 2008, 18:45"
+  },
+  {
+    "name": "Big Brother",
+    "artist": "David Bowie",
+    "date": "1200507610",
+    "date_text": "16 Jan 2008, 18:20"
+  },
+  {
+    "name": "Lost Wisdom",
+    "artist": "Burzum",
+    "date": "1200423646",
+    "date_text": "15 Jan 2008, 19:00"
+  },
+  {
+    "name": "Our Fortress Is Burning... I",
+    "artist": "Agalloch",
+    "date": "1200340429",
+    "date_text": "14 Jan 2008, 19:53"
+  },
+  {
+    "name": "Leave In Silence [Longer]",
+    "artist": "Depeche Mode",
+    "date": "1200000684",
+    "date_text": "10 Jan 2008, 21:31"
+  },
+  {
+    "name": "Ode",
+    "artist": "Bathory",
+    "date": "1199993956",
+    "date_text": "10 Jan 2008, 19:39"
+  },
+  {
+    "name": "mixed by josephin",
+    "artist": "Maps of Impossible Worlds",
+    "date": "1199913561",
+    "date_text": "09 Jan 2008, 21:19"
+  },
+  {
+    "name": "Sweet Dreams (Are Made of This)",
+    "artist": "Marilyn Manson",
+    "date": "1199852351",
+    "date_text": "09 Jan 2008, 04:19"
+  },
+  {
+    "name": "Love Grows Where My Rosemary Hoes and Nobody Knows Like Me",
+    "artist": "Edison Lighthouse",
+    "date": "1199750111",
+    "date_text": "07 Jan 2008, 23:55"
+  },
+  {
+    "name": "Root Down",
+    "artist": "Beastie Boys",
+    "date": "1199747750",
+    "date_text": "07 Jan 2008, 23:15"
+  },
+  {
+    "name": "Crucify",
+    "artist": "Tori Amos",
+    "date": "1199747468",
+    "date_text": "07 Jan 2008, 23:11"
+  },
+  {
+    "name": "Yr City's a Sucker (full version)",
+    "artist": "LCD Soundsystem",
+    "date": "1199746610",
+    "date_text": "07 Jan 2008, 22:56"
+  },
+  {
+    "name": "Standing In The Shadows Of Love",
+    "artist": "The Four Tops",
+    "date": "1199743774",
+    "date_text": "07 Jan 2008, 22:09"
+  },
+  {
+    "name": "Mehehe",
+    "artist": "Hey",
+    "date": "1199741970",
+    "date_text": "07 Jan 2008, 21:39"
+  },
+  {
+    "name": "Lilian (Chab vocal remix)",
+    "artist": "Depeche Mode",
+    "date": "1199740376",
+    "date_text": "07 Jan 2008, 21:12"
+  },
+  {
+    "name": "Cities Carved in Stone",
+    "artist": "Primordial",
+    "date": "1199480791",
+    "date_text": "04 Jan 2008, 21:06"
+  },
+  {
+    "name": "Empire Falls",
+    "artist": "Primordial",
+    "date": "1198894685",
+    "date_text": "29 Dec 2007, 02:18"
+  },
+  {
+    "name": "No Nation on This Earth",
+    "artist": "Primordial",
+    "date": "1198704116",
+    "date_text": "26 Dec 2007, 21:21"
+  },
+  {
+    "name": "Mother",
+    "artist": "Moloko",
+    "date": "1198686154",
+    "date_text": "26 Dec 2007, 16:22"
+  },
+  {
+    "name": "Svarte troner",
+    "artist": "Burzum",
+    "date": "1198686094",
+    "date_text": "26 Dec 2007, 16:21"
+  },
+  {
+    "name": "Shining Kingdom",
+    "artist": "Samael",
+    "date": "1198511458",
+    "date_text": "24 Dec 2007, 15:50"
+  },
+  {
+    "name": "Verrueckt",
+    "artist": "Mia",
+    "date": "1198511301",
+    "date_text": "24 Dec 2007, 15:48"
+  },
+  {
+    "name": "Jacksonville",
+    "artist": "Sufjan Stevens",
+    "date": "1198509762",
+    "date_text": "24 Dec 2007, 15:22"
+  },
+  {
+    "name": "Butterflies and Hurricanes",
+    "artist": "Muse",
+    "date": "1198508528",
+    "date_text": "24 Dec 2007, 15:02"
+  },
+  {
+    "name": "In the Shadow of Our Pale Companion",
+    "artist": "Agalloch",
+    "date": "1198382814",
+    "date_text": "23 Dec 2007, 04:06"
+  },
+  {
+    "name": "King Of The Rodeo",
+    "artist": "Kings of Leon",
+    "date": "1198270668",
+    "date_text": "21 Dec 2007, 20:57"
+  },
+  {
+    "name": "01 Godnosc",
+    "artist": "Sweet Noise",
+    "date": "1198265923",
+    "date_text": "21 Dec 2007, 19:38"
+  },
+  {
+    "name": "Red Light Indicates Doors Are Secured",
+    "artist": "Arctic Monkeys",
+    "date": "1198204227",
+    "date_text": "21 Dec 2007, 02:30"
+  },
+  {
+    "name": "Burn That Broken Bed",
+    "artist": "Iron & Wine and Calexico",
+    "date": "1198204212",
+    "date_text": "21 Dec 2007, 02:30"
+  },
+  {
+    "name": "Situations",
+    "artist": "Agressiva 69",
+    "date": "1198203516",
+    "date_text": "21 Dec 2007, 02:18"
+  },
+  {
+    "name": "Past the Mission",
+    "artist": "Tori Amos",
+    "date": "1198200352",
+    "date_text": "21 Dec 2007, 01:25"
+  },
+  {
+    "name": "Lowdown in the Street",
+    "artist": "ZZ Top",
+    "date": "1198199721",
+    "date_text": "21 Dec 2007, 01:15"
+  },
+  {
+    "name": "False Dawn",
+    "artist": "Drudkh",
+    "date": "1198198694",
+    "date_text": "21 Dec 2007, 00:58"
+  },
+  {
+    "name": "When the Body Speaks",
+    "artist": "Depeche Mode",
+    "date": "1198196589",
+    "date_text": "21 Dec 2007, 00:23"
+  },
+  {
+    "name": "New York, I Love You But You're Bringing Me Down",
+    "artist": "LCD Soundsystem",
+    "date": "1198193336",
+    "date_text": "20 Dec 2007, 23:28"
+  },
+  {
+    "name": "Time Is Running Out",
+    "artist": "Muse",
+    "date": "1198191635",
+    "date_text": "20 Dec 2007, 23:00"
+  },
+  {
+    "name": "Repined Bastard Nation",
+    "artist": "Satyricon",
+    "date": "1198190795",
+    "date_text": "20 Dec 2007, 22:46"
+  },
+  {
+    "name": "My Journey to the Stars",
+    "artist": "Burzum",
+    "date": "1198188098",
+    "date_text": "20 Dec 2007, 22:01"
+  },
+  {
+    "name": "Finding Out True Love Is Blind",
+    "artist": "Louis XIV",
+    "date": "1198187910",
+    "date_text": "20 Dec 2007, 21:58"
+  },
+  {
+    "name": "The Feeble Mind",
+    "artist": "Psyclon Nine",
+    "date": "1198104528",
+    "date_text": "19 Dec 2007, 22:48"
+  },
+  {
+    "name": "Zero",
+    "artist": "The Smashing Pumpkins",
+    "date": "1198100568",
+    "date_text": "19 Dec 2007, 21:42"
+  },
+  {
+    "name": "What Is and What Should Never Be",
+    "artist": "Led Zeppelin",
+    "date": "1198099244",
+    "date_text": "19 Dec 2007, 21:20"
+  },
+  {
+    "name": "The Red",
+    "artist": "Chevelle",
+    "date": "1198099214",
+    "date_text": "19 Dec 2007, 21:20"
+  },
+  {
+    "name": "From The Pagan Vastlands",
+    "artist": "Behemoth",
+    "date": "1198099124",
+    "date_text": "19 Dec 2007, 21:18"
+  },
+  {
+    "name": "Nothing Really Matters",
+    "artist": "Madonna",
+    "date": "1198097209",
+    "date_text": "19 Dec 2007, 20:46"
+  },
+  {
+    "name": "Linger",
+    "artist": "The Cranberries",
+    "date": "1198096560",
+    "date_text": "19 Dec 2007, 20:36"
+  },
+  {
+    "name": "Laeknishendr",
+    "artist": "Falkenbach",
+    "date": "1198096535",
+    "date_text": "19 Dec 2007, 20:35"
+  },
+  {
+    "name": "Londyn Dzwoni",
+    "artist": "Radio Bagdad",
+    "date": "1198086890",
+    "date_text": "19 Dec 2007, 17:54"
+  },
+  {
+    "name": "Shortfeelms",
+    "artist": "Feelms",
+    "date": "1198085665",
+    "date_text": "19 Dec 2007, 17:34"
+  },
+  {
+    "name": "Buddy Holly",
+    "artist": "Weezer",
+    "date": "1198083930",
+    "date_text": "19 Dec 2007, 17:05"
+  },
+  {
+    "name": "Cursed Angel of Doom",
+    "artist": "Behemoth",
+    "date": "1198010965",
+    "date_text": "18 Dec 2007, 20:49"
+  },
+  {
+    "name": "Sober",
+    "artist": "Tool",
+    "date": "1198008826",
+    "date_text": "18 Dec 2007, 20:13"
+  },
+  {
+    "name": "The Melancholy Spirit",
+    "artist": "Agalloch",
+    "date": "1198004349",
+    "date_text": "18 Dec 2007, 18:59"
+  },
+  {
+    "name": "Only",
+    "artist": "Nine Inch Nails",
+    "date": "1198003566",
+    "date_text": "18 Dec 2007, 18:46"
+  },
+  {
+    "name": "Ka\u00bfdy nowy dzie\u00f1 rodzi nowe pa",
+    "artist": "Pid\u017cama Porno",
+    "date": "1198000583",
+    "date_text": "18 Dec 2007, 17:56"
+  },
+  {
+    "name": "Dy-Na-Mi-Tee",
+    "artist": "Ms. Dynamite",
+    "date": "1198000562",
+    "date_text": "18 Dec 2007, 17:56"
+  },
+  {
+    "name": "Maria",
+    "artist": "Kazik",
+    "date": "1197994516",
+    "date_text": "18 Dec 2007, 16:15"
+  },
+  {
+    "name": "Kazelot",
+    "artist": "Kult",
+    "date": "1197930091",
+    "date_text": "17 Dec 2007, 22:21"
+  },
+  {
+    "name": "The Flowers",
+    "artist": "Regina Spektor",
+    "date": "1197928841",
+    "date_text": "17 Dec 2007, 22:00"
+  },
+  {
+    "name": "The Pentagram",
+    "artist": "Tiamat",
+    "date": "1197927189",
+    "date_text": "17 Dec 2007, 21:33"
+  },
+  {
+    "name": "M\u00f3ti Ragnar\u01ebkum",
+    "artist": "Burzum",
+    "date": "1197927086",
+    "date_text": "17 Dec 2007, 21:31"
+  },
+  {
+    "name": "Gigantic",
+    "artist": "Pixies",
+    "date": "1197926408",
+    "date_text": "17 Dec 2007, 21:20"
+  },
+  {
+    "name": "Nie dokazuj",
+    "artist": "Marek Grechuta",
+    "date": "1197926404",
+    "date_text": "17 Dec 2007, 21:20"
+  },
+  {
+    "name": "Blood Hunger Doctrine",
+    "artist": "Dimmu Borgir",
+    "date": "1197923041",
+    "date_text": "17 Dec 2007, 20:24"
+  },
+  {
+    "name": "Milk",
+    "artist": "Garbage",
+    "date": "1197922011",
+    "date_text": "17 Dec 2007, 20:06"
+  },
+  {
+    "name": "Useless (K&D Session)",
+    "artist": "Kruder & Dorfmeister",
+    "date": "1197921737",
+    "date_text": "17 Dec 2007, 20:02"
+  },
+  {
+    "name": "Grom",
+    "artist": "Behemoth",
+    "date": "1197920988",
+    "date_text": "17 Dec 2007, 19:49"
+  },
+  {
+    "name": "Bring My Family &",
+    "artist": "Faithless",
+    "date": "1197920425",
+    "date_text": "17 Dec 2007, 19:40"
+  },
+  {
+    "name": "So Easy",
+    "artist": "R\u00f6yksopp",
+    "date": "1197920191",
+    "date_text": "17 Dec 2007, 19:36"
+  },
+  {
+    "name": "To the End",
+    "artist": "My Chemical Romance",
+    "date": "1197919784",
+    "date_text": "17 Dec 2007, 19:29"
+  },
+  {
+    "name": "Ruby Soho",
+    "artist": "Rancid",
+    "date": "1197919611",
+    "date_text": "17 Dec 2007, 19:26"
+  },
+  {
+    "name": "Disarm",
+    "artist": "The Smashing Pumpkins",
+    "date": "1197670358",
+    "date_text": "14 Dec 2007, 22:12"
+  },
+  {
+    "name": "Broken Box",
+    "artist": "Queens of the Stone Age",
+    "date": "1197670260",
+    "date_text": "14 Dec 2007, 22:11"
+  },
+  {
+    "name": "The Richest Man in Babylon",
+    "artist": "Thievery Corporation",
+    "date": "1197670236",
+    "date_text": "14 Dec 2007, 22:10"
+  },
+  {
+    "name": "If I Could Collapse The Masses",
+    "artist": "Trivium",
+    "date": "1197664341",
+    "date_text": "14 Dec 2007, 20:32"
+  },
+  {
+    "name": "Last Resort",
+    "artist": "Katatonia",
+    "date": "1197655747",
+    "date_text": "14 Dec 2007, 18:09"
+  },
+  {
+    "name": "Malibu",
+    "artist": "Hole",
+    "date": "1197655744",
+    "date_text": "14 Dec 2007, 18:09"
+  },
+  {
+    "name": "Bloodshed",
+    "artist": "Amon Amarth",
+    "date": "1197655741",
+    "date_text": "14 Dec 2007, 18:09"
+  },
+  {
+    "name": "Hekau 718",
+    "artist": "Behemoth",
+    "date": "1197655711",
+    "date_text": "14 Dec 2007, 18:08"
+  },
+  {
+    "name": "Black Celebration",
+    "artist": "Depeche Mode",
+    "date": "1197650214",
+    "date_text": "14 Dec 2007, 16:36"
+  },
+  {
+    "name": "Un simple histoire",
+    "artist": "Thievery Corporation",
+    "date": "1197649974",
+    "date_text": "14 Dec 2007, 16:32"
+  },
+  {
+    "name": "Nimm mich mit (Jan Driver remix)",
+    "artist": "2raumwohnung",
+    "date": "1197649961",
+    "date_text": "14 Dec 2007, 16:32"
+  },
+  {
+    "name": "The Devil Is Calling",
+    "artist": "Gorgoroth",
+    "date": "1197585119",
+    "date_text": "13 Dec 2007, 22:31"
+  },
+  {
+    "name": "Baby Don't Cry",
+    "artist": "INXS",
+    "date": "1197581136",
+    "date_text": "13 Dec 2007, 21:25"
+  },
+  {
+    "name": "Under The Influence",
+    "artist": "The Chemical Brothers",
+    "date": "1197578432",
+    "date_text": "13 Dec 2007, 20:40"
+  },
+  {
+    "name": "I Bet You Look Good on the Dancefloor",
+    "artist": "Arctic Monkeys",
+    "date": "1197578261",
+    "date_text": "13 Dec 2007, 20:37"
+  },
+  {
+    "name": "Sonnet",
+    "artist": "The Verve",
+    "date": "1197562393",
+    "date_text": "13 Dec 2007, 16:13"
+  },
+  {
+    "name": "Secret Girl",
+    "artist": "Sonic Youth",
+    "date": "1197490638",
+    "date_text": "12 Dec 2007, 20:17"
+  },
+  {
+    "name": "Renaissance In Blood",
+    "artist": "Graveworm",
+    "date": "1197481140",
+    "date_text": "12 Dec 2007, 17:39"
+  },
+  {
+    "name": "Mit viel Gl\u00fcck",
+    "artist": "2raumwohnung",
+    "date": "1197478120",
+    "date_text": "12 Dec 2007, 16:48"
+  },
+  {
+    "name": "Blue (Bird Shake Mix)",
+    "artist": "A Perfect Circle",
+    "date": "1197404134",
+    "date_text": "11 Dec 2007, 20:15"
+  },
+  {
+    "name": "Sweet Sunshine",
+    "artist": "Beck",
+    "date": "1197402990",
+    "date_text": "11 Dec 2007, 19:56"
+  },
+  {
+    "name": "Ex-Er-Sis",
+    "artist": "Equilibrium",
+    "date": "1197400912",
+    "date_text": "11 Dec 2007, 19:21"
+  },
+  {
+    "name": "Song 2",
+    "artist": "Blur",
+    "date": "1197045544",
+    "date_text": "07 Dec 2007, 16:39"
+  },
+  {
+    "name": "Havoc Vulture",
+    "artist": "Satyricon",
+    "date": "1197045510",
+    "date_text": "07 Dec 2007, 16:38"
+  },
+  {
+    "name": "Black Dragon",
+    "artist": "Dissection",
+    "date": "1196972157",
+    "date_text": "06 Dec 2007, 20:15"
+  },
+  {
+    "name": "Do Ani",
+    "artist": "Kult",
+    "date": "1196821160",
+    "date_text": "05 Dec 2007, 02:19"
+  },
+  {
+    "name": "Sparks (Mandy Remix)",
+    "artist": "R\u00f6yksopp",
+    "date": "1196458675",
+    "date_text": "30 Nov 2007, 21:37"
+  },
+  {
+    "name": "Fdosagan",
+    "artist": "Finntroll",
+    "date": "1196455796",
+    "date_text": "30 Nov 2007, 20:49"
+  },
+  {
+    "name": "Mmm Skyscraper I Love You",
+    "artist": "Underworld",
+    "date": "1196362297",
+    "date_text": "29 Nov 2007, 18:51"
+  },
+  {
+    "name": "O' Sailor",
+    "artist": "Fiona Apple",
+    "date": "1196354492",
+    "date_text": "29 Nov 2007, 16:41"
+  },
+  {
+    "name": "Hey Boy Hey Girl",
+    "artist": "The Chemical Brothers",
+    "date": "1196354100",
+    "date_text": "29 Nov 2007, 16:35"
+  },
+  {
+    "name": "Free Until They Cut Me Down",
+    "artist": "Iron & Wine",
+    "date": "1196352803",
+    "date_text": "29 Nov 2007, 16:13"
+  },
+  {
+    "name": "The Venial Blur",
+    "artist": "Enslavement of Beauty",
+    "date": "1196350532",
+    "date_text": "29 Nov 2007, 15:35"
+  },
+  {
+    "name": "Life on Mars?",
+    "artist": "David Bowie",
+    "date": "1196277627",
+    "date_text": "28 Nov 2007, 19:20"
+  },
+  {
+    "name": "I Seen It",
+    "artist": "Ryan Prebble",
+    "date": "1196277171",
+    "date_text": "28 Nov 2007, 19:12"
+  },
+  {
+    "name": "Rock Music",
+    "artist": "Pixies",
+    "date": "1196269800",
+    "date_text": "28 Nov 2007, 17:10"
+  },
+  {
+    "name": "Oceans Fall Down",
+    "artist": "\u015acianka",
+    "date": "1196265215",
+    "date_text": "28 Nov 2007, 15:53"
+  },
+  {
+    "name": "So far so beat (Isis Myth) [original]",
+    "artist": "Dj Blush",
+    "date": "1195511576",
+    "date_text": "19 Nov 2007, 22:32"
+  },
+  {
+    "name": "Welwetowe Swetry (wersja z Polipem)(bonus)",
+    "artist": "Pid\u017cama Porno",
+    "date": "1195507174",
+    "date_text": "19 Nov 2007, 21:19"
+  },
+  {
+    "name": "Sax and Violins",
+    "artist": "Talking Heads",
+    "date": "1195505171",
+    "date_text": "19 Nov 2007, 20:46"
+  },
+  {
+    "name": "Einf\u00fchlungsverm\u00f6gen",
+    "artist": "Burzum",
+    "date": "1195498125",
+    "date_text": "19 Nov 2007, 18:48"
+  },
+  {
+    "name": "The Night",
+    "artist": "Morphine",
+    "date": "1193758210",
+    "date_text": "30 Oct 2007, 15:30"
+  },
+  {
+    "name": "The Other",
+    "artist": "Isis",
+    "date": "1193757775",
+    "date_text": "30 Oct 2007, 15:22"
+  },
+  {
+    "name": "Lucky and Unhappy",
+    "artist": "Air",
+    "date": "1192747674",
+    "date_text": "18 Oct 2007, 22:47"
+  },
+  {
+    "name": "Toy Boat (Ft Antony And The Jo",
+    "artist": "Yoko Ono",
+    "date": "1191876026",
+    "date_text": "08 Oct 2007, 20:40"
+  },
+  {
+    "name": "Pestilence",
+    "artist": "Bathory",
+    "date": "1191870678",
+    "date_text": "08 Oct 2007, 19:11"
+  },
+  {
+    "name": "Lake of Fire",
+    "artist": "Bathory",
+    "date": "1191868703",
+    "date_text": "08 Oct 2007, 18:38"
+  },
+  {
+    "name": "Wschodni front",
+    "artist": "Dezerter",
+    "date": "1190146378",
+    "date_text": "18 Sep 2007, 20:12"
+  },
+  {
+    "name": "05-123",
+    "artist": "Photek",
+    "date": "1190144747",
+    "date_text": "18 Sep 2007, 19:45"
+  },
+  {
+    "name": "Piano",
+    "artist": "Tricky",
+    "date": "1190140796",
+    "date_text": "18 Sep 2007, 18:39"
+  },
+  {
+    "name": "5 Minutes Alone",
+    "artist": "Pantera",
+    "date": "1190140335",
+    "date_text": "18 Sep 2007, 18:32"
+  },
+  {
+    "name": "Success",
+    "artist": "Iggy Pop",
+    "date": "1190131677",
+    "date_text": "18 Sep 2007, 16:07"
+  },
+  {
+    "name": "Bullet in the Head",
+    "artist": "Rage Against the Machine",
+    "date": "1190065825",
+    "date_text": "17 Sep 2007, 21:50"
+  },
+  {
+    "name": "Big Exit",
+    "artist": "PJ Harvey",
+    "date": "1190065124",
+    "date_text": "17 Sep 2007, 21:38"
+  },
+  {
+    "name": "Paninaro '95",
+    "artist": "Pet Shop Boys",
+    "date": "1189720520",
+    "date_text": "13 Sep 2007, 21:55"
+  },
+  {
+    "name": "Divided",
+    "artist": "Tiamat",
+    "date": "1187642646",
+    "date_text": "20 Aug 2007, 20:44"
+  },
+  {
+    "name": "Maggie's Farm",
+    "artist": "Rage Against the Machine",
+    "date": "1187640580",
+    "date_text": "20 Aug 2007, 20:09"
+  },
+  {
+    "name": "Your Heart Is an Empty Room",
+    "artist": "Death Cab for Cutie",
+    "date": "1187640487",
+    "date_text": "20 Aug 2007, 20:08"
+  },
+  {
+    "name": "Flowers Become Screens",
+    "artist": "Delerium",
+    "date": "1187639959",
+    "date_text": "20 Aug 2007, 19:59"
+  },
+  {
+    "name": "Tango Anawa",
+    "artist": "Marek Grechuta",
+    "date": "1187631102",
+    "date_text": "20 Aug 2007, 17:31"
+  },
+  {
+    "name": "When The Robo B-Boys Just Kill It",
+    "artist": "The Polish Ambassador",
+    "date": "1187363613",
+    "date_text": "17 Aug 2007, 15:13"
+  },
+  {
+    "name": "Angel",
+    "artist": "Anja Garbarek",
+    "date": "1187300075",
+    "date_text": "16 Aug 2007, 21:34"
+  },
+  {
+    "name": "Dead Again (Schirner Dub)",
+    "artist": "Billie Ray Martin",
+    "date": "1187300071",
+    "date_text": "16 Aug 2007, 21:34"
+  },
+  {
+    "name": "Flowers",
+    "artist": "\u00c9milie Simon",
+    "date": "1187214898",
+    "date_text": "15 Aug 2007, 21:54"
+  },
+  {
+    "name": "High Remix",
+    "artist": "Paprika Korps",
+    "date": "1187199227",
+    "date_text": "15 Aug 2007, 17:33"
+  },
+  {
+    "name": "Shame",
+    "artist": "Stabbing Westward",
+    "date": "1187198859",
+    "date_text": "15 Aug 2007, 17:27"
+  },
+  {
+    "name": "Haunting Me",
+    "artist": "Stabbing Westward",
+    "date": "1187125314",
+    "date_text": "14 Aug 2007, 21:01"
+  },
+  {
+    "name": "Can't Bee",
+    "artist": "Moonspell",
+    "date": "1187020222",
+    "date_text": "13 Aug 2007, 15:50"
+  },
+  {
+    "name": "Let's Stay Together",
+    "artist": "Al Green",
+    "date": "1187016845",
+    "date_text": "13 Aug 2007, 14:54"
+  },
+  {
+    "name": "Random",
+    "artist": "Lamb",
+    "date": "1187016829",
+    "date_text": "13 Aug 2007, 14:53"
+  },
+  {
+    "name": "Star A.D.",
+    "artist": "Faith No More",
+    "date": "1186760914",
+    "date_text": "10 Aug 2007, 15:48"
+  },
+  {
+    "name": "November Rain",
+    "artist": "Guns N' Roses",
+    "date": "1186614462",
+    "date_text": "08 Aug 2007, 23:07"
+  },
+  {
+    "name": "A Lost Forgotten Sad Spirit",
+    "artist": "Burzum",
+    "date": "1186608850",
+    "date_text": "08 Aug 2007, 21:34"
+  },
+  {
+    "name": "Praise You",
+    "artist": "Fatboy Slim",
+    "date": "1186174701",
+    "date_text": "03 Aug 2007, 20:58"
+  },
+  {
+    "name": "The Sensual Woman",
+    "artist": "The Herbaliser",
+    "date": "1186174152",
+    "date_text": "03 Aug 2007, 20:49"
+  },
+  {
+    "name": "Down The Slopes Of Death",
+    "artist": "Amon Amarth",
+    "date": "1186172722",
+    "date_text": "03 Aug 2007, 20:25"
+  },
+  {
+    "name": "To czego nigdy nie widzia\u0142em",
+    "artist": "Armia",
+    "date": "1186158826",
+    "date_text": "03 Aug 2007, 16:33"
+  },
+  {
+    "name": "Wygnanie",
+    "artist": "Po\u017car Moskwy",
+    "date": "1186158394",
+    "date_text": "03 Aug 2007, 16:26"
+  },
+  {
+    "name": "Crunching Numbers",
+    "artist": "The Polish Ambassador",
+    "date": "1186157465",
+    "date_text": "03 Aug 2007, 16:11"
+  },
+  {
+    "name": "Ulica Jaszczurki",
+    "artist": "Armia",
+    "date": "1186094887",
+    "date_text": "02 Aug 2007, 22:48"
+  },
+  {
+    "name": "Rybi Puzon (Swordfishtrombone)",
+    "artist": "Kazik Staszewski",
+    "date": "1186072693",
+    "date_text": "02 Aug 2007, 16:38"
+  },
+  {
+    "name": "Destination Eschaton (Destination Nemeton Original version)",
+    "artist": "The Shamen",
+    "date": "1186070869",
+    "date_text": "02 Aug 2007, 16:07"
+  },
+  {
+    "name": "Head On A Stick",
+    "artist": "The Director's Cult",
+    "date": "1186069452",
+    "date_text": "02 Aug 2007, 15:44"
+  },
+  {
+    "name": "ZJAWY I LUDZIE",
+    "artist": "Armia",
+    "date": "1186068132",
+    "date_text": "02 Aug 2007, 15:22"
+  },
+  {
+    "name": "Cold Comfort",
+    "artist": "Carpathian Forest",
+    "date": "1186003200",
+    "date_text": "01 Aug 2007, 21:20"
+  },
+  {
+    "name": "I Am The Highway",
+    "artist": "Audioslave",
+    "date": "1185999451",
+    "date_text": "01 Aug 2007, 20:17"
+  },
+  {
+    "name": "This World",
+    "artist": "Zero 7",
+    "date": "1185999311",
+    "date_text": "01 Aug 2007, 20:15"
+  },
+  {
+    "name": "Gebrechlichkeit II",
+    "artist": "Burzum",
+    "date": "1185992110",
+    "date_text": "01 Aug 2007, 18:15"
+  },
+  {
+    "name": "Lemuria",
+    "artist": "Therion",
+    "date": "1185928878",
+    "date_text": "01 Aug 2007, 00:41"
+  },
+  {
+    "name": "Done Twice",
+    "artist": "Ms. John Soda",
+    "date": "1185926652",
+    "date_text": "01 Aug 2007, 00:04"
+  },
+  {
+    "name": "Relinquishment of Spirit and Flesh",
+    "artist": "Dimmu Borgir",
+    "date": "1185913654",
+    "date_text": "31 Jul 2007, 20:27"
+  },
+  {
+    "name": "Venus",
+    "artist": "Air",
+    "date": "1185823538",
+    "date_text": "30 Jul 2007, 19:25"
+  },
+  {
+    "name": "Hateful",
+    "artist": "The Clash",
+    "date": "1185820879",
+    "date_text": "30 Jul 2007, 18:41"
+  },
+  {
+    "name": "D'yer Mak'er",
+    "artist": "Led Zeppelin",
+    "date": "1185478954",
+    "date_text": "26 Jul 2007, 19:42"
+  },
+  {
+    "name": "Auracar",
+    "artist": "Seelenluft",
+    "date": "1185477132",
+    "date_text": "26 Jul 2007, 19:12"
+  },
+  {
+    "name": "Mother North",
+    "artist": "Satyricon",
+    "date": "1185475489",
+    "date_text": "26 Jul 2007, 18:44"
+  },
+  {
+    "name": "Club Montepulciano",
+    "artist": "Hooverphonic",
+    "date": "1185473857",
+    "date_text": "26 Jul 2007, 18:17"
+  },
+  {
+    "name": "Arabesque",
+    "artist": "Nicola Conte",
+    "date": "1185473506",
+    "date_text": "26 Jul 2007, 18:11"
+  },
+  {
+    "name": "Descending",
+    "artist": "The Black Crowes",
+    "date": "1185470783",
+    "date_text": "26 Jul 2007, 17:26"
+  },
+  {
+    "name": "Prelude",
+    "artist": "Miles Davis",
+    "date": "1185397423",
+    "date_text": "25 Jul 2007, 21:03"
+  },
+  {
+    "name": "Mass Destruction (Tom Middleton Cosmos dub)",
+    "artist": "Faithless",
+    "date": "1185396537",
+    "date_text": "25 Jul 2007, 20:48"
+  },
+  {
+    "name": "Someday",
+    "artist": "The Strokes",
+    "date": "1185396210",
+    "date_text": "25 Jul 2007, 20:43"
+  },
+  {
+    "name": "All I Need",
+    "artist": "Air",
+    "date": "1185392659",
+    "date_text": "25 Jul 2007, 19:44"
+  },
+  {
+    "name": "The Fall Through Ginnungagap",
+    "artist": "Amon Amarth",
+    "date": "1185309470",
+    "date_text": "24 Jul 2007, 20:37"
+  },
+  {
+    "name": "Don't Look Back in Anger",
+    "artist": "Oasis",
+    "date": "1185308905",
+    "date_text": "24 Jul 2007, 20:28"
+  },
+  {
+    "name": "Master Of Disguise (Phantom FX S.C.N. Remix)",
+    "artist": "Arcturus",
+    "date": "1185308267",
+    "date_text": "24 Jul 2007, 20:17"
+  },
+  {
+    "name": "Lovesong",
+    "artist": "The Cure",
+    "date": "1185308238",
+    "date_text": "24 Jul 2007, 20:17"
+  },
+  {
+    "name": "Viva Las Vegas",
+    "artist": "ZZ Top",
+    "date": "1184965745",
+    "date_text": "20 Jul 2007, 21:09"
+  },
+  {
+    "name": "Diamonds And Guns",
+    "artist": "Transplants",
+    "date": "1184791372",
+    "date_text": "18 Jul 2007, 20:42"
+  },
+  {
+    "name": "Dominus Sathanas",
+    "artist": "Burzum",
+    "date": "1184789402",
+    "date_text": "18 Jul 2007, 20:10"
+  },
+  {
+    "name": "Da Funk",
+    "artist": "Daft Punk",
+    "date": "1184775364",
+    "date_text": "18 Jul 2007, 16:16"
+  },
+  {
+    "name": "Home-Jedi Knights Remix Drowni",
+    "artist": "Depeche Mode",
+    "date": "1184703824",
+    "date_text": "17 Jul 2007, 20:23"
+  },
+  {
+    "name": "Get Down(beach Remix) 2005",
+    "artist": "Livione Dimitris",
+    "date": "1184622976",
+    "date_text": "16 Jul 2007, 21:56"
+  },
+  {
+    "name": "Pornography",
+    "artist": "Client",
+    "date": "1181770251",
+    "date_text": "13 Jun 2007, 21:30"
+  },
+  {
+    "name": "Sweet Art Thou",
+    "artist": "Theatre of Tragedy",
+    "date": "1181770107",
+    "date_text": "13 Jun 2007, 21:28"
+  },
+  {
+    "name": "Risingson (Otherside)",
+    "artist": "Massive Attack",
+    "date": "1181768855",
+    "date_text": "13 Jun 2007, 21:07"
+  },
+  {
+    "name": "Only In My Tears It Lasts",
+    "artist": "Tiamat",
+    "date": "1181757908",
+    "date_text": "13 Jun 2007, 18:05"
+  },
+  {
+    "name": "Why?",
+    "artist": "GusGus",
+    "date": "1181599381",
+    "date_text": "11 Jun 2007, 22:03"
+  },
+  {
+    "name": "Thorns Of Desolation",
+    "artist": "Graveworm",
+    "date": "1181594704",
+    "date_text": "11 Jun 2007, 20:45"
+  },
+  {
+    "name": "Gaia",
+    "artist": "Tiamat",
+    "date": "1180638369",
+    "date_text": "31 May 2007, 19:06"
+  },
+  {
+    "name": "Tomhet Och Tystnad Hrska (Outro)",
+    "artist": "Finntroll",
+    "date": "1179957060",
+    "date_text": "23 May 2007, 21:51"
+  },
+  {
+    "name": "Come Into My World (Fishcerspooner mix)",
+    "artist": "Kylie Minogue",
+    "date": "1179951366",
+    "date_text": "23 May 2007, 20:16"
+  },
+  {
+    "name": "Everywhere",
+    "artist": "Fleetwood Mac",
+    "date": "1179868654",
+    "date_text": "22 May 2007, 21:17"
+  },
+  {
+    "name": "Heard 'Em Say (feat. Adam Levine of Maroon 5)",
+    "artist": "Kanye West",
+    "date": "1179860858",
+    "date_text": "22 May 2007, 19:07"
+  },
+  {
+    "name": "A Better Tomorrow",
+    "artist": "Wu-Tang Clan",
+    "date": "1175715835",
+    "date_text": "04 Apr 2007, 19:43"
+  },
+  {
+    "name": "Tori Amos - Scarlet's Walk - 02 - A Sorta Fairytale",
+    "artist": "Tori Amos",
+    "date": "1175707005",
+    "date_text": "04 Apr 2007, 17:16"
+  },
+  {
+    "name": "Sing This All Together",
+    "artist": "The Rolling Stones",
+    "date": "1175544664",
+    "date_text": "02 Apr 2007, 20:11"
+  },
+  {
+    "name": "Cataclysm Children",
+    "artist": "Dimmu Borgir",
+    "date": "1172777500",
+    "date_text": "01 Mar 2007, 19:31"
+  },
+  {
+    "name": "Portrait of the Dead Countess",
+    "artist": "Cradle of Filth",
+    "date": "1172186601",
+    "date_text": "22 Feb 2007, 23:23"
+  },
+  {
+    "name": "Emptier Still",
+    "artist": "Dark Tranquillity",
+    "date": "1172076349",
+    "date_text": "21 Feb 2007, 16:45"
+  },
+  {
+    "name": "0078h",
+    "artist": "M83",
+    "date": "1170777636",
+    "date_text": "06 Feb 2007, 16:00"
+  },
+  {
+    "name": "Easy/Lucky/Free (feat. Nick Zi",
+    "artist": "Bright Eyes",
+    "date": "1169679632",
+    "date_text": "24 Jan 2007, 23:00"
+  },
+  {
+    "name": "You Don't Wanna",
+    "artist": "Tricky",
+    "date": "1169675586",
+    "date_text": "24 Jan 2007, 21:53"
+  },
+  {
+    "name": "Billie Jean",
+    "artist": "Michael Jackson",
+    "date": "1169053128",
+    "date_text": "17 Jan 2007, 16:58"
+  },
+  {
+    "name": "Metal on Metal",
+    "artist": "Kraftwerk",
+    "date": "1168536536",
+    "date_text": "11 Jan 2007, 17:28"
+  },
+  {
+    "name": "Never Win",
+    "artist": "Fischerspooner",
+    "date": "1168018349",
+    "date_text": "05 Jan 2007, 17:32"
+  },
+  {
+    "name": "Spirit",
+    "artist": "Dead Can Dance",
+    "date": "1167922416",
+    "date_text": "04 Jan 2007, 14:53"
+  },
+  {
+    "name": "Riders on the Storm",
+    "artist": "The Doors",
+    "date": "1167795508",
+    "date_text": "03 Jan 2007, 03:38"
+  },
+  {
+    "name": "Spellbound (by the Devil)",
+    "artist": "Dimmu Borgir",
+    "date": "1167791242",
+    "date_text": "03 Jan 2007, 02:27"
+  },
+  {
+    "name": "The Dying Buds of May",
+    "artist": "Enslavement of Beauty",
+    "date": "1167790841",
+    "date_text": "03 Jan 2007, 02:20"
+  },
+  {
+    "name": "Ludzie bez twarzy",
+    "artist": "Spiral",
+    "date": "1167706422",
+    "date_text": "02 Jan 2007, 02:53"
+  },
+  {
+    "name": "Mysterious Ways",
+    "artist": "U2",
+    "date": "1167703735",
+    "date_text": "02 Jan 2007, 02:08"
+  },
+  {
+    "name": "Tormentor of Christian Souls",
+    "artist": "Dimmu Borgir",
+    "date": "1164042925",
+    "date_text": "20 Nov 2006, 17:15"
+  },
+  {
+    "name": "25th Floor",
+    "artist": "Tiamat",
+    "date": "1162159941",
+    "date_text": "29 Oct 2006, 22:12"
+  },
+  {
+    "name": "Nah' Mean Nah'm' Sayin' featuring Jean Grae",
+    "artist": "The Herbaliser",
+    "date": "1161129544",
+    "date_text": "17 Oct 2006, 23:59"
+  },
+  {
+    "name": "Nothing At All",
+    "artist": "Rob Dougan",
+    "date": "1155509649",
+    "date_text": "13 Aug 2006, 22:54"
+  },
+  {
+    "name": "Sometimes You Can't Make It On Your Own",
+    "artist": "U2",
+    "date": "1155508437",
+    "date_text": "13 Aug 2006, 22:33"
+  },
+  {
+    "name": "Turn the Page",
+    "artist": "Metallica",
+    "date": "1153766138",
+    "date_text": "24 Jul 2006, 18:35"
+  },
+  {
+    "name": "12 - zart w zoo",
+    "artist": "Edyta Bartosiewicz",
+    "date": "1153592646",
+    "date_text": "22 Jul 2006, 18:24"
+  },
+  {
+    "name": "Bossa for the Devil",
+    "artist": "Dr Rubberfunk",
+    "date": "1153192630",
+    "date_text": "18 Jul 2006, 03:17"
+  },
+  {
+    "name": "Cantara",
+    "artist": "Dead Can Dance",
+    "date": "1153191254",
+    "date_text": "18 Jul 2006, 02:54"
+  },
+  {
+    "name": "Inno A Satana",
+    "artist": "Emperor",
+    "date": "1153187796",
+    "date_text": "18 Jul 2006, 01:56"
+  },
+  {
+    "name": "Angels Don't Kill",
+    "artist": "Children of Bodom",
+    "date": "1153104221",
+    "date_text": "17 Jul 2006, 02:43"
+  },
+  {
+    "name": "Enigma of the Absolute",
+    "artist": "Dead Can Dance",
+    "date": "1153090597",
+    "date_text": "16 Jul 2006, 22:56"
+  },
+  {
+    "name": "Can't Stop",
+    "artist": "Red Hot Chili Peppers",
+    "date": "1152999008",
+    "date_text": "15 Jul 2006, 21:30"
+  },
+  {
+    "name": "Chicago",
+    "artist": "Groove Armada",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "I Am",
+    "artist": "Covenant",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "One World One Sky",
+    "artist": "Covenant",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "Manic Aeon",
+    "artist": "Sirenia",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "The Power Of One",
+    "artist": "Sonata Arctica",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "In the Hands of the Gods",
+    "artist": "Morcheeba",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "Under the Ice",
+    "artist": "Blind Guardian",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "La Masquerade Infernale",
+    "artist": "Arcturus",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "The Omen",
+    "artist": "Aim",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "Final Man (Version)",
+    "artist": "Covenant",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "2D",
+    "artist": "Covenant",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "Red Light in My Eyes pt. 1",
+    "artist": "Children of Bodom",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "Dainty Delusive Doll",
+    "artist": "Enslavement of Beauty",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "Spank-A-Lee",
+    "artist": "Herbie Hancock",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "Scorn",
+    "artist": "In Flames",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "In My Darkest Hours",
+    "artist": "Sirenia",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "Who Am I",
+    "artist": "Peace Orchestra",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "Fifteen Minutes",
+    "artist": "Enslavement of Beauty",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "Embody the Invisible",
+    "artist": "In Flames",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "Mind Eye",
+    "artist": "Nightmares on Wax",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  },
+  {
+    "name": "New Star in the Sky (Chanson pour Solal)",
+    "artist": "Air",
+    "date": "0",
+    "date_text": "01 Jan 1970, 00:00"
+  }
+]

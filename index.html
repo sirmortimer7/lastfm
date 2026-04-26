@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Soundtrack of Your Life — sirmortimer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- HERO -->
+  <section id="hero" class="section hero">
+    <div class="hero-content">
+      <p class="hero-label">Last.fm — since <span id="hero-since"></span></p>
+      <h1 class="hero-title">
+        <span id="hero-scrobbles" class="stat-number">0</span> scrobbles.
+      </h1>
+      <p class="hero-subtitle">
+        <span id="hero-artists" class="stat-number">0</span> artists.
+        <span id="hero-years" class="stat-number">0</span> years.
+      </p>
+      <p class="hero-tagline">This is your soundtrack.</p>
+    </div>
+    <div class="scroll-hint">Scroll to explore</div>
+  </section>
+
+  <!-- STATS CARDS -->
+  <section id="stats" class="section">
+    <h2 class="section-title">By the Numbers</h2>
+    <div class="stats-grid" id="stats-grid"></div>
+  </section>
+
+  <!-- TIMELINE -->
+  <section id="timeline" class="section">
+    <h2 class="section-title">The Timeline</h2>
+    <p class="section-subtitle">Your music against the backdrop of history</p>
+    <div class="timeline-container" id="timeline-container"></div>
+  </section>
+
+  <!-- MUSICAL ERAS -->
+  <section id="eras" class="section">
+    <h2 class="section-title">Your Musical Eras</h2>
+    <p class="section-subtitle">Distinct phases in your listening journey</p>
+    <div class="eras-container" id="eras-container"></div>
+  </section>
+
+  <!-- LISTENING HEATMAP -->
+  <section id="heatmap" class="section">
+    <h2 class="section-title">Listening Intensity</h2>
+    <p class="section-subtitle">Scrobbles per week across the years</p>
+    <div class="heatmap-wrapper">
+      <canvas id="heatmap-chart"></canvas>
+    </div>
+  </section>
+
+  <!-- LOYALTY & DISCOVERY -->
+  <section id="loyalty" class="section">
+    <h2 class="section-title">Loyalty &amp; Discovery</h2>
+    <p class="section-subtitle">Ride-or-die artists vs. fleeting obsessions</p>
+    <div class="loyalty-container" id="loyalty-container"></div>
+  </section>
+
+  <!-- CURRENT VIBE -->
+  <section id="current" class="section">
+    <h2 class="section-title">Current Vibe</h2>
+    <p class="section-subtitle">What you're listening to now</p>
+    <div class="current-container" id="current-container"></div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <p>Built with Last.fm API &amp; too much free time</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+  <script src="app.js?v=2"></script>
+</body>
+</html>
