@@ -4244,34 +4244,86 @@
   "2026": [
     {
       "name": "PRO8L3M \u2014 Vanitas",
-      "playcount": 50
+      "playcount": 105
+    },
+    {
+      "name": "Young Fathers \u2014 Rain Or Shine",
+      "playcount": 58
+    },
+    {
+      "name": "Sault \u2014 Wildfires",
+      "playcount": 58
+    },
+    {
+      "name": "Tommy Richman \u2014 ACTIN UP",
+      "playcount": 58
     },
     {
       "name": "PRO8L3M \u2014 Ground Zero",
-      "playcount": 41
+      "playcount": 51
     },
     {
       "name": "Avi \u2014 Blackjack",
-      "playcount": 35
+      "playcount": 40
     },
     {
       "name": "Czarny HIFI \u2014 Remis (feat. HIFI Banda, Hades & Diox)",
       "playcount": 29
     },
     {
+      "name": "Audio Bullys \u2014 Face in a Cloud",
+      "playcount": 27
+    },
+    {
+      "name": "Sault \u2014 Up All Night",
+      "playcount": 19
+    },
+    {
       "name": "The Juan Maclean \u2014 I've Waited For So Long",
-      "playcount": 14
+      "playcount": 16
     },
     {
       "name": "Heart \u2014 Crazy on You",
       "playcount": 12
     },
     {
+      "name": "Theis Thaws \u2014 Fly To Ceiling - David Holmes Remix",
+      "playcount": 10
+    },
+    {
+      "name": "Tommy Richman \u2014 ACTIN UP WITH SEXYY RED",
+      "playcount": 10
+    },
+    {
       "name": "Kygo \u2014 It Ain\u2019t Me (with Selena Gomez)",
       "playcount": 9
     },
     {
+      "name": "Aesop Rock \u2014 None Shall Pass",
+      "playcount": 8
+    },
+    {
+      "name": "Phantogram \u2014 Running From the Cops",
+      "playcount": 8
+    },
+    {
+      "name": "Drudkh \u2014 Eternity - \u0412\u0456\u0447\u043d\u0456\u0441\u0442\u044c",
+      "playcount": 8
+    },
+    {
       "name": "Quebonafide \u2014 GAZPROM",
+      "playcount": 6
+    },
+    {
+      "name": "Brant Bjork \u2014 Lazy Bones",
+      "playcount": 6
+    },
+    {
+      "name": "OSLO TWINS \u2014 I Wake Up Slowly",
+      "playcount": 6
+    },
+    {
+      "name": "Tommy Richman \u2014 MILLION DOLLAR BABY (VHS)",
       "playcount": 6
     },
     {
@@ -4280,6 +4332,14 @@
     },
     {
       "name": "50 Cent \u2014 In Da Club",
+      "playcount": 5
+    },
+    {
+      "name": "Amon Tobin \u2014 Chronic Tronic",
+      "playcount": 5
+    },
+    {
+      "name": "Drake \u2014 Headlines",
       "playcount": 5
     },
     {
@@ -4295,11 +4355,39 @@
       "playcount": 5
     },
     {
-      "name": "Diego Miranda \u2014 Listen",
-      "playcount": 4
+      "name": "Billylildove \u2014 She got the bomb",
+      "playcount": 5
     },
     {
-      "name": "Brant Bjork \u2014 Lazy Bones",
+      "name": "Bot'Ox \u2014 Blue Steel",
+      "playcount": 5
+    },
+    {
+      "name": "Brian Reitzell \u2014 Tehran 1979 (From \"American Gods\" Soundtrack) (feat. Debbie Harry & Shirley Manson)",
+      "playcount": 5
+    },
+    {
+      "name": "Queen of Japan \u2014 I Was Made for Loving You",
+      "playcount": 5
+    },
+    {
+      "name": "Savages \u2014 You're My Chocolate",
+      "playcount": 5
+    },
+    {
+      "name": "Underworld \u2014 Trim",
+      "playcount": 5
+    },
+    {
+      "name": "Drudkh \u2014 Ukrainian Insurgent Army - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u041f\u043e\u0432\u0441\u0442\u0430\u043d\u0441\u044c\u043a\u0430 \u0410\u0440\u043c\u0456\u044f",
+      "playcount": 5
+    },
+    {
+      "name": "True Widow \u2014 Grey Erasure",
+      "playcount": 5
+    },
+    {
+      "name": "Diego Miranda \u2014 Listen",
       "playcount": 4
     },
     {
@@ -4312,6 +4400,10 @@
     },
     {
       "name": "The Rolling Stones \u2014 Gimme Shelter",
+      "playcount": 4
+    },
+    {
+      "name": "Anna Jantar \u2014 Nic nie mo\u017ce wiecznie trwa\u0107",
       "playcount": 4
     },
     {
@@ -4331,116 +4423,24 @@
       "playcount": 4
     },
     {
-      "name": "Amon Tobin \u2014 Chronic Tronic",
-      "playcount": 3
+      "name": "Young Fathers \u2014 Old Rock n Roll",
+      "playcount": 4
     },
     {
-      "name": "Behemoth \u2014 The Satanist",
-      "playcount": 3
+      "name": "Young Fathers \u2014 Sirens",
+      "playcount": 4
     },
     {
-      "name": "Crystal Castles \u2014 Pap Smear",
-      "playcount": 3
+      "name": "Chromatics \u2014 Lady",
+      "playcount": 4
     },
     {
-      "name": "Drake \u2014 Headlines",
-      "playcount": 3
+      "name": "Lammping \u2014 Never Never",
+      "playcount": 4
     },
     {
-      "name": "Jimmy Eat World \u2014 Pain",
-      "playcount": 3
-    },
-    {
-      "name": "Nachtmystium \u2014 These Rooms In Which We Weep",
-      "playcount": 3
-    },
-    {
-      "name": "Primordial \u2014 As Rome Burns",
-      "playcount": 3
-    },
-    {
-      "name": "Spoon \u2014 The Underdog",
-      "playcount": 3
-    },
-    {
-      "name": "Washed Out \u2014 Feel It All Around",
-      "playcount": 3
-    },
-    {
-      "name": "Yacht \u2014 Dystopia (The Earth is on Fire)",
-      "playcount": 3
-    },
-    {
-      "name": "01099 \u2014 Frisch",
-      "playcount": 3
-    },
-    {
-      "name": "Desmond Dekker \u2014 Fu Man chu",
-      "playcount": 3
-    },
-    {
-      "name": "Hooray For Earth \u2014 No Love",
-      "playcount": 3
-    },
-    {
-      "name": "Izabela Trojanowska \u2014 Pie\u015b\u0144 o cegle",
-      "playcount": 3
-    },
-    {
-      "name": "Jess and the Ancient Ones \u2014 Sulfur Giants",
-      "playcount": 3
-    },
-    {
-      "name": "Kanye West \u2014 Dark Fantasy",
-      "playcount": 3
-    },
-    {
-      "name": "Kanye West \u2014 New Slaves",
-      "playcount": 3
-    },
-    {
-      "name": "Keep Shelly In Athens \u2014 DIY",
-      "playcount": 3
-    },
-    {
-      "name": "LL Cool J \u2014 Mama Said Knock You Out",
-      "playcount": 3
-    },
-    {
-      "name": "Men at Work \u2014 Who Can It Be Now?",
-      "playcount": 3
-    },
-    {
-      "name": "Pete Rock & C.L. Smooth \u2014 The Creator",
-      "playcount": 3
-    },
-    {
-      "name": "Tenacious D \u2014 Tribute",
-      "playcount": 3
-    },
-    {
-      "name": "Harry Nilsson \u2014 Me and My Arrow",
-      "playcount": 3
-    },
-    {
-      "name": "Metallica \u2014 Sad But True (Remastered)",
-      "playcount": 3
-    },
-    {
-      "name": "Paramore \u2014 Liar (Re: Romy)",
-      "playcount": 3
-    },
-    {
-      "name": "Wu-Tang Clan \u2014 Gravel Pit (feat. RZA, Method Man, Ghostface Killah, Raekwon & U-God)",
-      "playcount": 3
-    },
-    {
-      "name": "Atlas Sound \u2014 Shelia",
-      "playcount": 3
-    },
-    {
-      "name": "Bass Astral x Igo \u2014 Pussy Cock & God",
-      "playcount": 3
+      "name": "King Woman \u2014 Burn",
+      "playcount": 4
     }
   ]
 }

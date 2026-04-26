@@ -4244,38 +4244,86 @@
   "2026": [
     {
       "name": "PRO8L3M",
-      "playcount": 130
+      "playcount": 202
+    },
+    {
+      "name": "Tommy Richman",
+      "playcount": 93
+    },
+    {
+      "name": "Young Fathers",
+      "playcount": 85
+    },
+    {
+      "name": "Sault",
+      "playcount": 81
+    },
+    {
+      "name": "Kanye West",
+      "playcount": 59
     },
     {
       "name": "Avi",
+      "playcount": 40
+    },
+    {
+      "name": "Depeche Mode",
       "playcount": 35
+    },
+    {
+      "name": "Pixies",
+      "playcount": 33
     },
     {
       "name": "Czarny HIFI",
       "playcount": 29
     },
     {
-      "name": "Depeche Mode",
-      "playcount": 23
+      "name": "Audio Bullys",
+      "playcount": 27
     },
     {
-      "name": "Pixies",
-      "playcount": 19
+      "name": "Drudkh",
+      "playcount": 25
+    },
+    {
+      "name": "Cloud Nothings",
+      "playcount": 23
     },
     {
       "name": "Heart",
       "playcount": 16
     },
     {
+      "name": "Geto Boys",
+      "playcount": 16
+    },
+    {
+      "name": "Burzum",
+      "playcount": 14
+    },
+    {
+      "name": "A$AP Rocky",
+      "playcount": 14
+    },
+    {
       "name": "The Juan Maclean",
       "playcount": 14
     },
     {
-      "name": "Burzum",
+      "name": "Metallica",
+      "playcount": 13
+    },
+    {
+      "name": "JA\u0178-Z",
+      "playcount": 13
+    },
+    {
+      "name": "Joy Division",
       "playcount": 11
     },
     {
-      "name": "Kanye West",
+      "name": "Behemoth",
       "playcount": 11
     },
     {
@@ -4291,7 +4339,35 @@
       "playcount": 11
     },
     {
-      "name": "Metallica",
+      "name": "\u015awietliki",
+      "playcount": 11
+    },
+    {
+      "name": "Amon Tobin",
+      "playcount": 10
+    },
+    {
+      "name": "Dimmu Borgir",
+      "playcount": 10
+    },
+    {
+      "name": "Nas & Damian \"Jr. Gong\" Marley",
+      "playcount": 10
+    },
+    {
+      "name": "Theis Thaws",
+      "playcount": 10
+    },
+    {
+      "name": "\u00a5$",
+      "playcount": 9
+    },
+    {
+      "name": "Beastie Boys",
+      "playcount": 9
+    },
+    {
+      "name": "Blockhead",
       "playcount": 9
     },
     {
@@ -4299,11 +4375,7 @@
       "playcount": 8
     },
     {
-      "name": "Amon Tobin",
-      "playcount": 8
-    },
-    {
-      "name": "Behemoth",
+      "name": "Madvillain",
       "playcount": 8
     },
     {
@@ -4311,15 +4383,19 @@
       "playcount": 8
     },
     {
-      "name": "Joy Division",
-      "playcount": 7
+      "name": "Aesop Rock",
+      "playcount": 8
+    },
+    {
+      "name": "Phantogram",
+      "playcount": 8
+    },
+    {
+      "name": "Michael Nyman",
+      "playcount": 8
     },
     {
       "name": "Taco Hemingway",
-      "playcount": 7
-    },
-    {
-      "name": "Dimmu Borgir",
       "playcount": 7
     },
     {
@@ -4328,6 +4404,10 @@
     },
     {
       "name": "Pink Floyd",
+      "playcount": 7
+    },
+    {
+      "name": "Wu-Tang Clan",
       "playcount": 7
     },
     {
@@ -4343,6 +4423,10 @@
       "playcount": 7
     },
     {
+      "name": "True Widow",
+      "playcount": 7
+    },
+    {
       "name": "Quebonafide",
       "playcount": 6
     },
@@ -4351,96 +4435,12 @@
       "playcount": 6
     },
     {
+      "name": "Drake",
+      "playcount": 6
+    },
+    {
       "name": "Ma\u0142pa",
       "playcount": 6
-    },
-    {
-      "name": "The Rolling Stones",
-      "playcount": 6
-    },
-    {
-      "name": "Ratatat",
-      "playcount": 6
-    },
-    {
-      "name": "Lamb",
-      "playcount": 6
-    },
-    {
-      "name": "Tegan and Sara",
-      "playcount": 6
-    },
-    {
-      "name": "Gang Starr",
-      "playcount": 6
-    },
-    {
-      "name": "White Zombie",
-      "playcount": 5
-    },
-    {
-      "name": "GZA/Genius",
-      "playcount": 5
-    },
-    {
-      "name": "Amon Amarth",
-      "playcount": 5
-    },
-    {
-      "name": "Dezerter",
-      "playcount": 5
-    },
-    {
-      "name": "Sia",
-      "playcount": 5
-    },
-    {
-      "name": "CunninLynguists",
-      "playcount": 5
-    },
-    {
-      "name": "50 Cent",
-      "playcount": 4
-    },
-    {
-      "name": "Cake",
-      "playcount": 4
-    },
-    {
-      "name": "Diego Miranda",
-      "playcount": 4
-    },
-    {
-      "name": "Windir",
-      "playcount": 4
-    },
-    {
-      "name": "PJ Harvey",
-      "playcount": 4
-    },
-    {
-      "name": "Queen",
-      "playcount": 4
-    },
-    {
-      "name": "Wu-Tang Clan",
-      "playcount": 4
-    },
-    {
-      "name": "Simian Mobile Disco",
-      "playcount": 4
-    },
-    {
-      "name": "Carsky",
-      "playcount": 4
-    },
-    {
-      "name": "Beastmilk",
-      "playcount": 4
-    },
-    {
-      "name": "New Order",
-      "playcount": 4
     }
   ]
 }
