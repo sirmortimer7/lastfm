@@ -1,7 +1,8 @@
 /* ===== DATA LOADING ===== */
 
 async function loadJSON(path) {
-  const resp = await fetch(path);
+  // Cache-bust so refreshed data/*.json shows up without a hard reload.
+  const resp = await fetch(`${path}?_=${Date.now()}`);
   if (!resp.ok) return null;
   return resp.json();
 }
